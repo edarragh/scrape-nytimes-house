@@ -1987,7 +1987,7 @@
       "coverage": "county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T02:03:24.838Z",
+      "updated_at": "2022-11-16T03:28:08.725Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -2007,7 +2007,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 85.67,
+          "eevp": 90.19,
           "name": "Alaska",
           "level": "state",
           "nyt_id": "AK-state",
@@ -2016,7 +2016,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 108781
+                "total": 116322
               },
               "leader": true,
               "nyt_id": "peltola-m",
@@ -2024,7 +2024,7 @@
             },
             {
               "votes": {
-                "total": 61092
+                "total": 63025
               },
               "leader": false,
               "nyt_id": "palin-s",
@@ -2032,7 +2032,7 @@
             },
             {
               "votes": {
-                "total": 55075
+                "total": 57437
               },
               "leader": false,
               "nyt_id": "begich-n",
@@ -2040,7 +2040,7 @@
             },
             {
               "votes": {
-                "total": 3985
+                "total": 4114
               },
               "leader": false,
               "nyt_id": "bye-c",
@@ -2048,7 +2048,7 @@
             },
             {
               "votes": {
-                "total": 663
+                "total": 801
               },
               "leader": false,
               "nyt_id": "total_writeins",
@@ -2058,7 +2058,7 @@
           "fips_state": "02",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 229596,
+          "total_votes": 241699,
           "state_postal": "AK",
           "precincts_total": 402,
           "nyt_vote_estimate": {
@@ -2067,7 +2067,7 @@
             "quantiles": null,
             "total_expected_vote": null
           },
-          "precincts_reporting": 344,
+          "precincts_reporting": 363,
           "total_expected_vote": 267991
         }
       ],
@@ -2155,7 +2155,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 85.67,
+        "eevp": 90.19,
         "name": "Alaska",
         "level": "state",
         "nyt_id": "AK-state",
@@ -2165,7 +2165,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 108781
+              "total": 116322
             },
             "leader": true,
             "nyt_id": "peltola-m",
@@ -2173,7 +2173,7 @@
           },
           {
             "votes": {
-              "total": 61092
+              "total": 63025
             },
             "leader": false,
             "nyt_id": "palin-s",
@@ -2181,7 +2181,7 @@
           },
           {
             "votes": {
-              "total": 55075
+              "total": 57437
             },
             "leader": false,
             "nyt_id": "begich-n",
@@ -2189,7 +2189,7 @@
           },
           {
             "votes": {
-              "total": 3985
+              "total": 4114
             },
             "leader": false,
             "nyt_id": "bye-c",
@@ -2197,7 +2197,7 @@
           },
           {
             "votes": {
-              "total": 663
+              "total": 801
             },
             "leader": false,
             "nyt_id": "total_writeins",
@@ -2207,7 +2207,7 @@
         "fips_state": "02",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 229596,
+        "total_votes": 241699,
         "state_postal": "AK",
         "precincts_total": 402,
         "nyt_vote_estimate": {
@@ -2216,8 +2216,8 @@
           "quantiles": null,
           "total_expected_vote": null
         },
-        "precincts_reporting": 344,
-        "provider_updated_at": "2022-11-16T02:03:24.838+00:00",
+        "precincts_reporting": 363,
+        "provider_updated_at": "2022-11-16T03:28:08.725+00:00",
         "total_expected_vote": 267991
       },
       "historical_2020_pres": {
@@ -5577,7 +5577,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T02:50:27.970Z",
+      "updated_at": "2022-11-16T03:09:45.741Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -5587,7 +5587,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 82.34,
+          "eevp": 81.04,
           "name": "California",
           "level": "state",
           "nyt_id": "CA-state",
@@ -5623,8 +5623,8 @@
             "quantiles": null,
             "total_expected_vote": null
           },
-          "precincts_reporting": 468,
-          "total_expected_vote": 234711
+          "precincts_reporting": 460,
+          "total_expected_vote": 238473
         }
       ],
       "candidate_metadata": {
@@ -5663,7 +5663,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 82.34,
+        "eevp": 81.04,
         "name": "California",
         "level": "state",
         "nyt_id": "CA-state",
@@ -5700,9 +5700,9 @@
           "quantiles": null,
           "total_expected_vote": null
         },
-        "precincts_reporting": 468,
-        "provider_updated_at": "2022-11-16T02:50:27.97+00:00",
-        "total_expected_vote": 234711
+        "precincts_reporting": 460,
+        "provider_updated_at": "2022-11-16T03:09:45.741+00:00",
+        "total_expected_vote": 238473
       },
       "historical_2020_pres": {
         "votes": 348521,
@@ -6519,7 +6519,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T02:52:31.020Z",
+      "updated_at": "2022-11-16T03:26:50.226Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "5",
@@ -6529,7 +6529,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 93.1,
+          "eevp": 88.74,
           "name": "California",
           "level": "state",
           "nyt_id": "CA-state",
@@ -6565,8 +6565,8 @@
             "quantiles": null,
             "total_expected_vote": null
           },
-          "precincts_reporting": 439,
-          "total_expected_vote": 265851
+          "precincts_reporting": 418,
+          "total_expected_vote": 278924
         }
       ],
       "candidate_metadata": {
@@ -6605,7 +6605,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 93.1,
+        "eevp": 88.74,
         "name": "California",
         "level": "state",
         "nyt_id": "CA-state",
@@ -6642,9 +6642,9 @@
           "quantiles": null,
           "total_expected_vote": null
         },
-        "precincts_reporting": 439,
-        "provider_updated_at": "2022-11-16T02:52:31.02+00:00",
-        "total_expected_vote": 265851
+        "precincts_reporting": 418,
+        "provider_updated_at": "2022-11-16T03:26:50.226+00:00",
+        "total_expected_vote": 278924
       },
       "historical_2020_pres": {
         "votes": 403522,
@@ -7443,17 +7443,23 @@
       "office": "U.S. House",
       "rating": "lean-dem",
       "outcome": {
-        "won": [],
+        "won": [
+          "harder-j"
+        ],
         "gained": null,
-        "called_by": [],
+        "called_by": [
+          "ap"
+        ],
         "advanced_to_runoff": [],
         "runoff_accepted_at": [],
-        "winner_accepted_at": []
+        "winner_accepted_at": [
+          "2022-11-16T03:14:14.835366+00:00"
+        ]
       },
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T02:50:28.657Z",
+      "updated_at": "2022-11-16T03:26:50.370Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "9",
@@ -7463,7 +7469,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 79.17,
+          "eevp": 79.15,
           "name": "California",
           "level": "state",
           "nyt_id": "CA-state",
@@ -7500,7 +7506,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 311,
-          "total_expected_vote": 168182
+          "total_expected_vote": 168228
         }
       ],
       "candidate_metadata": {
@@ -7539,7 +7545,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 79.17,
+        "eevp": 79.15,
         "name": "California",
         "level": "state",
         "nyt_id": "CA-state",
@@ -7577,8 +7583,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 311,
-        "provider_updated_at": "2022-11-16T02:50:28.657+00:00",
-        "total_expected_vote": 168182
+        "provider_updated_at": "2022-11-16T03:26:50.37+00:00",
+        "total_expected_vote": 168228
       },
       "historical_2020_pres": {
         "votes": 286056,
@@ -8387,7 +8393,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T02:52:31.065Z",
+      "updated_at": "2022-11-16T03:26:50.545Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -8405,7 +8411,7 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 85.78,
+          "eevp": 85.6,
           "name": "California",
           "level": "state",
           "nyt_id": "CA-state",
@@ -8442,7 +8448,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 425,
-          "total_expected_vote": 131083
+          "total_expected_vote": 131356
         }
       ],
       "candidate_metadata": {
@@ -8481,7 +8487,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 85.78,
+        "eevp": 85.6,
         "name": "California",
         "level": "state",
         "nyt_id": "CA-state",
@@ -8519,8 +8525,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 425,
-        "provider_updated_at": "2022-11-16T02:52:31.065+00:00",
-        "total_expected_vote": 131083
+        "provider_updated_at": "2022-11-16T03:26:50.545+00:00",
+        "total_expected_vote": 131356
       },
       "historical_2020_pres": {
         "votes": 229676,
@@ -9074,7 +9080,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T00:31:30.915Z",
+      "updated_at": "2022-11-16T03:38:48.886Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "16",
@@ -9084,7 +9090,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 77.58,
+          "eevp": 85.26,
           "name": "California",
           "level": "state",
           "nyt_id": "CA-state",
@@ -9093,7 +9099,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 118923
+                "total": 129924
               },
               "leader": true,
               "nyt_id": "eshoo-a",
@@ -9101,7 +9107,7 @@
             },
             {
               "votes": {
-                "total": 85463
+                "total": 94698
               },
               "leader": false,
               "nyt_id": "kumar-r",
@@ -9111,7 +9117,7 @@
           "fips_state": "06",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 204386,
+          "total_votes": 224622,
           "state_postal": "CA",
           "precincts_total": 349,
           "nyt_vote_estimate": {
@@ -9120,7 +9126,7 @@
             "quantiles": null,
             "total_expected_vote": null
           },
-          "precincts_reporting": 271,
+          "precincts_reporting": 298,
           "total_expected_vote": 263468
         }
       ],
@@ -9160,7 +9166,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 77.58,
+        "eevp": 85.26,
         "name": "California",
         "level": "state",
         "nyt_id": "CA-state",
@@ -9170,7 +9176,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 118923
+              "total": 129924
             },
             "leader": true,
             "nyt_id": "eshoo-a",
@@ -9178,7 +9184,7 @@
           },
           {
             "votes": {
-              "total": 85463
+              "total": 94698
             },
             "leader": false,
             "nyt_id": "kumar-r",
@@ -9188,7 +9194,7 @@
         "fips_state": "06",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 204386,
+        "total_votes": 224622,
         "state_postal": "CA",
         "precincts_total": 349,
         "nyt_vote_estimate": {
@@ -9197,8 +9203,8 @@
           "quantiles": null,
           "total_expected_vote": null
         },
-        "precincts_reporting": 271,
-        "provider_updated_at": "2022-11-16T00:31:30.915+00:00",
+        "precincts_reporting": 298,
+        "provider_updated_at": "2022-11-16T03:38:48.886+00:00",
         "total_expected_vote": 263468
       },
       "historical_2020_pres": {
@@ -9283,7 +9289,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T01:01:24.396Z",
+      "updated_at": "2022-11-16T03:38:49.115Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "17",
@@ -9293,7 +9299,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 74.01,
+          "eevp": 82.19,
           "name": "California",
           "level": "state",
           "nyt_id": "CA-state",
@@ -9302,7 +9308,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 105319
+                "total": 116690
               },
               "leader": true,
               "nyt_id": "khanna-r",
@@ -9310,7 +9316,7 @@
             },
             {
               "votes": {
-                "total": 42925
+                "total": 47944
               },
               "leader": false,
               "nyt_id": "tandon-r",
@@ -9320,7 +9326,7 @@
           "fips_state": "06",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 148244,
+          "total_votes": 164634,
           "state_postal": "CA",
           "precincts_total": 220,
           "nyt_vote_estimate": {
@@ -9329,7 +9335,7 @@
             "quantiles": null,
             "total_expected_vote": null
           },
-          "precincts_reporting": 163,
+          "precincts_reporting": 181,
           "total_expected_vote": 200306
         }
       ],
@@ -9369,7 +9375,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 74.01,
+        "eevp": 82.19,
         "name": "California",
         "level": "state",
         "nyt_id": "CA-state",
@@ -9379,7 +9385,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 105319
+              "total": 116690
             },
             "leader": true,
             "nyt_id": "khanna-r",
@@ -9387,7 +9393,7 @@
           },
           {
             "votes": {
-              "total": 42925
+              "total": 47944
             },
             "leader": false,
             "nyt_id": "tandon-r",
@@ -9397,7 +9403,7 @@
         "fips_state": "06",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 148244,
+        "total_votes": 164634,
         "state_postal": "CA",
         "precincts_total": 220,
         "nyt_vote_estimate": {
@@ -9406,8 +9412,8 @@
           "quantiles": null,
           "total_expected_vote": null
         },
-        "precincts_reporting": 163,
-        "provider_updated_at": "2022-11-16T01:01:24.396+00:00",
+        "precincts_reporting": 181,
+        "provider_updated_at": "2022-11-16T03:38:49.115+00:00",
         "total_expected_vote": 200306
       },
       "historical_2020_pres": {
@@ -9518,7 +9524,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T03:02:27.177Z",
+      "updated_at": "2022-11-16T03:38:49.269Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "18",
@@ -9528,7 +9534,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 71.8,
+          "eevp": 75.84,
           "name": "California",
           "level": "state",
           "nyt_id": "CA-state",
@@ -9537,7 +9543,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 76481
+                "total": 80797
               },
               "leader": true,
               "nyt_id": "lofgren-z",
@@ -9545,7 +9551,7 @@
             },
             {
               "votes": {
-                "total": 37467
+                "total": 39567
               },
               "leader": false,
               "nyt_id": "hernandez-p",
@@ -9555,7 +9561,7 @@
           "fips_state": "06",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 113948,
+          "total_votes": 120364,
           "state_postal": "CA",
           "precincts_total": 351,
           "nyt_vote_estimate": {
@@ -9564,7 +9570,7 @@
             "quantiles": null,
             "total_expected_vote": null
           },
-          "precincts_reporting": 252,
+          "precincts_reporting": 266,
           "total_expected_vote": 158712
         }
       ],
@@ -9604,7 +9610,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 71.8,
+        "eevp": 75.84,
         "name": "California",
         "level": "state",
         "nyt_id": "CA-state",
@@ -9614,7 +9620,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 76481
+              "total": 80797
             },
             "leader": true,
             "nyt_id": "lofgren-z",
@@ -9622,7 +9628,7 @@
           },
           {
             "votes": {
-              "total": 37467
+              "total": 39567
             },
             "leader": false,
             "nyt_id": "hernandez-p",
@@ -9632,7 +9638,7 @@
         "fips_state": "06",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 113948,
+        "total_votes": 120364,
         "state_postal": "CA",
         "precincts_total": 351,
         "nyt_vote_estimate": {
@@ -9641,8 +9647,8 @@
           "quantiles": null,
           "total_expected_vote": null
         },
-        "precincts_reporting": 252,
-        "provider_updated_at": "2022-11-16T03:02:27.177+00:00",
+        "precincts_reporting": 266,
+        "provider_updated_at": "2022-11-16T03:38:49.269+00:00",
         "total_expected_vote": 158712
       },
       "historical_2020_pres": {
@@ -9753,7 +9759,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T03:02:27.202Z",
+      "updated_at": "2022-11-16T03:38:49.310Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "19",
@@ -9763,7 +9769,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 74.02,
+          "eevp": 77.76,
           "name": "California",
           "level": "state",
           "nyt_id": "CA-state",
@@ -9772,7 +9778,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 155003
+                "total": 162550
               },
               "leader": true,
               "nyt_id": "panetta-j",
@@ -9780,7 +9786,7 @@
             },
             {
               "votes": {
-                "total": 65322
+                "total": 68901
               },
               "leader": false,
               "nyt_id": "gorman-j",
@@ -9790,7 +9796,7 @@
           "fips_state": "06",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 220325,
+          "total_votes": 231451,
           "state_postal": "CA",
           "precincts_total": 462,
           "nyt_vote_estimate": {
@@ -9799,7 +9805,7 @@
             "quantiles": null,
             "total_expected_vote": null
           },
-          "precincts_reporting": 342,
+          "precincts_reporting": 359,
           "total_expected_vote": 297637
         }
       ],
@@ -9839,7 +9845,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 74.02,
+        "eevp": 77.76,
         "name": "California",
         "level": "state",
         "nyt_id": "CA-state",
@@ -9849,7 +9855,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 155003
+              "total": 162550
             },
             "leader": true,
             "nyt_id": "panetta-j",
@@ -9857,7 +9863,7 @@
           },
           {
             "votes": {
-              "total": 65322
+              "total": 68901
             },
             "leader": false,
             "nyt_id": "gorman-j",
@@ -9867,7 +9873,7 @@
         "fips_state": "06",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 220325,
+        "total_votes": 231451,
         "state_postal": "CA",
         "precincts_total": 462,
         "nyt_vote_estimate": {
@@ -9876,8 +9882,8 @@
           "quantiles": null,
           "total_expected_vote": null
         },
-        "precincts_reporting": 342,
-        "provider_updated_at": "2022-11-16T03:02:27.202+00:00",
+        "precincts_reporting": 359,
+        "provider_updated_at": "2022-11-16T03:38:49.31+00:00",
         "total_expected_vote": 297637
       },
       "historical_2020_pres": {
@@ -17649,7 +17655,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T03:03:51.510Z",
+      "updated_at": "2022-11-16T03:50:52.257Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -17805,7 +17811,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 303,
-        "provider_updated_at": "2022-11-16T03:03:51.51+00:00",
+        "provider_updated_at": "2022-11-16T03:50:52.257+00:00",
         "total_expected_vote": 284620
       },
       "historical_2020_pres": {
@@ -19154,7 +19160,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T03:02:52.532Z",
+      "updated_at": "2022-11-16T03:49:51.538Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "6",
@@ -19310,7 +19316,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 425,
-        "provider_updated_at": "2022-11-16T03:02:52.532+00:00",
+        "provider_updated_at": "2022-11-16T03:49:51.538+00:00",
         "total_expected_vote": 281952
       },
       "historical_2020_pres": {
@@ -60503,7 +60509,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T00:46:46.136Z",
+      "updated_at": "2022-11-16T03:43:56.310Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "2",
@@ -60513,7 +60519,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 98.98,
+          "eevp": 98.05,
           "name": "Nevada",
           "level": "state",
           "nyt_id": "NV-state",
@@ -60565,8 +60571,8 @@
             "quantiles": null,
             "total_expected_vote": null
           },
-          "precincts_reporting": 712,
-          "total_expected_vote": 307453
+          "precincts_reporting": 705,
+          "total_expected_vote": 310368
         }
       ],
       "candidate_metadata": {
@@ -60637,7 +60643,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 98.98,
+        "eevp": 98.05,
         "name": "Nevada",
         "level": "state",
         "nyt_id": "NV-state",
@@ -60690,9 +60696,9 @@
           "quantiles": null,
           "total_expected_vote": null
         },
-        "precincts_reporting": 712,
-        "provider_updated_at": "2022-11-16T00:46:46.136+00:00",
-        "total_expected_vote": 307453
+        "precincts_reporting": 705,
+        "provider_updated_at": "2022-11-16T03:43:56.31+00:00",
+        "total_expected_vote": 310368
       },
       "historical_2020_pres": {
         "votes": 401150,
@@ -65850,7 +65856,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T02:50:12.620Z",
+      "updated_at": "2022-11-16T03:36:18.670Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -65974,7 +65980,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 751,
-        "provider_updated_at": "2022-11-16T02:50:12.62+00:00",
+        "provider_updated_at": "2022-11-16T03:36:18.67+00:00",
         "total_expected_vote": 282363
       },
       "historical_2020_pres": {
@@ -66085,7 +66091,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T00:45:24.275Z",
+      "updated_at": "2022-11-16T03:51:18.351Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -66217,7 +66223,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 637,
-        "provider_updated_at": "2022-11-16T00:45:24.275+00:00",
+        "provider_updated_at": "2022-11-16T03:51:18.351+00:00",
         "total_expected_vote": 194161
       },
       "historical_2020_pres": {
@@ -72829,7 +72835,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T02:39:16.446Z",
+      "updated_at": "2022-11-16T03:46:14.035Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -72965,7 +72971,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 266,
-        "provider_updated_at": "2022-11-16T02:39:16.446+00:00",
+        "provider_updated_at": "2022-11-16T03:46:14.035+00:00",
         "total_expected_vote": 258442
       },
       "historical_2020_pres": {
@@ -73554,7 +73560,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T03:08:13.363Z",
+      "updated_at": "2022-11-16T03:45:09.716Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "4",
@@ -73682,7 +73688,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 162,
-        "provider_updated_at": "2022-11-16T03:08:13.363+00:00",
+        "provider_updated_at": "2022-11-16T03:45:09.716+00:00",
         "total_expected_vote": 290699
       },
       "historical_2020_pres": {
@@ -74032,7 +74038,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T01:53:15.805Z",
+      "updated_at": "2022-11-16T03:22:16.195Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "6",
@@ -74194,7 +74200,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 215,
-        "provider_updated_at": "2022-11-16T01:53:15.805+00:00",
+        "provider_updated_at": "2022-11-16T03:22:16.195+00:00",
         "total_expected_vote": 260052
       },
       "historical_2020_pres": {
@@ -74331,7 +74337,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T02:45:14.309Z",
+      "updated_at": "2022-11-16T03:45:11.857Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "7",
@@ -74459,7 +74465,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 196,
-        "provider_updated_at": "2022-11-16T02:45:14.309+00:00",
+        "provider_updated_at": "2022-11-16T03:45:11.857+00:00",
         "total_expected_vote": 279415
       },
       "historical_2020_pres": {
@@ -74570,7 +74576,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-15T23:40:09.678Z",
+      "updated_at": "2022-11-16T03:40:16.427Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "8",
@@ -74698,7 +74704,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 205,
-        "provider_updated_at": "2022-11-15T23:40:09.678+00:00",
+        "provider_updated_at": "2022-11-16T03:40:16.427+00:00",
         "total_expected_vote": 263141
       },
       "historical_2020_pres": {
@@ -74809,7 +74815,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T02:51:14.866Z",
+      "updated_at": "2022-11-16T03:45:18.473Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "9",
@@ -74937,7 +74943,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 149,
-        "provider_updated_at": "2022-11-16T02:51:14.866+00:00",
+        "provider_updated_at": "2022-11-16T03:45:18.473+00:00",
         "total_expected_vote": 232939
       },
       "historical_2020_pres": {
@@ -75048,7 +75054,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T02:52:12.541Z",
+      "updated_at": "2022-11-16T03:52:14.751Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "10",
@@ -75176,7 +75182,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 176,
-        "provider_updated_at": "2022-11-16T02:52:12.541+00:00",
+        "provider_updated_at": "2022-11-16T03:52:14.751+00:00",
         "total_expected_vote": 269048
       },
       "historical_2020_pres": {
@@ -75287,7 +75293,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T03:07:16.343Z",
+      "updated_at": "2022-11-16T03:21:13.228Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -75457,7 +75463,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 275,
-        "provider_updated_at": "2022-11-16T03:07:16.343+00:00",
+        "provider_updated_at": "2022-11-16T03:21:13.228+00:00",
         "total_expected_vote": 325317
       },
       "historical_2020_pres": {
@@ -102048,7 +102054,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T03:04:18.164Z",
+      "updated_at": "2022-11-16T03:46:04.626Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -102058,7 +102064,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 98.31,
+          "eevp": 98.44,
           "name": "Utah",
           "level": "state",
           "nyt_id": "UT-state",
@@ -102094,8 +102100,8 @@
             "quantiles": null,
             "total_expected_vote": null
           },
-          "precincts_reporting": 875,
-          "total_expected_vote": 265350
+          "precincts_reporting": 876,
+          "total_expected_vote": 265022
         }
       ],
       "candidate_metadata": {
@@ -102134,7 +102140,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 98.31,
+        "eevp": 98.44,
         "name": "Utah",
         "level": "state",
         "nyt_id": "UT-state",
@@ -102171,9 +102177,9 @@
           "quantiles": null,
           "total_expected_vote": null
         },
-        "precincts_reporting": 875,
-        "provider_updated_at": "2022-11-16T03:04:18.164+00:00",
-        "total_expected_vote": 265350
+        "precincts_reporting": 876,
+        "provider_updated_at": "2022-11-16T03:46:04.626+00:00",
+        "total_expected_vote": 265022
       },
       "historical_2020_pres": {
         "votes": 379923,
@@ -102283,7 +102289,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T03:04:18.216Z",
+      "updated_at": "2022-11-16T03:46:04.652Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "2",
@@ -102293,7 +102299,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 98.42,
+          "eevp": 97.35,
           "name": "Utah",
           "level": "state",
           "nyt_id": "UT-state",
@@ -102345,8 +102351,8 @@
             "quantiles": null,
             "total_expected_vote": null
           },
-          "precincts_reporting": 764,
-          "total_expected_vote": 258266
+          "precincts_reporting": 755,
+          "total_expected_vote": 261122
         }
       ],
       "candidate_metadata": {
@@ -102417,7 +102423,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 98.42,
+        "eevp": 97.35,
         "name": "Utah",
         "level": "state",
         "nyt_id": "UT-state",
@@ -102470,9 +102476,9 @@
           "quantiles": null,
           "total_expected_vote": null
         },
-        "precincts_reporting": 764,
-        "provider_updated_at": "2022-11-16T03:04:18.216+00:00",
-        "total_expected_vote": 258266
+        "precincts_reporting": 755,
+        "provider_updated_at": "2022-11-16T03:46:04.652+00:00",
+        "total_expected_vote": 261122
       },
       "historical_2020_pres": {
         "votes": 366181,
@@ -102608,7 +102614,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T03:04:18.293Z",
+      "updated_at": "2022-11-16T03:46:07.530Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "3",
@@ -102618,7 +102624,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 96.35,
+          "eevp": 96.82,
           "name": "Utah",
           "level": "state",
           "nyt_id": "UT-state",
@@ -102678,8 +102684,8 @@
             "quantiles": null,
             "total_expected_vote": null
           },
-          "precincts_reporting": 782,
-          "total_expected_vote": 286241
+          "precincts_reporting": 786,
+          "total_expected_vote": 284846
         }
       ],
       "candidate_metadata": {
@@ -102766,7 +102772,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 96.35,
+        "eevp": 96.82,
         "name": "Utah",
         "level": "state",
         "nyt_id": "UT-state",
@@ -102827,9 +102833,9 @@
           "quantiles": null,
           "total_expected_vote": null
         },
-        "precincts_reporting": 782,
-        "provider_updated_at": "2022-11-16T03:04:18.293+00:00",
-        "total_expected_vote": 286241
+        "precincts_reporting": 786,
+        "provider_updated_at": "2022-11-16T03:46:07.53+00:00",
+        "total_expected_vote": 284846
       },
       "historical_2020_pres": {
         "votes": 397471,
@@ -102965,7 +102971,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T03:04:18.452Z",
+      "updated_at": "2022-11-16T03:46:07.533Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "4",
@@ -102975,7 +102981,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 95.86,
+          "eevp": 96.22,
           "name": "Utah",
           "level": "state",
           "nyt_id": "UT-state",
@@ -102984,7 +102990,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 152153
+                "total": 152266
               },
               "leader": true,
               "nyt_id": "owens-b",
@@ -102992,7 +102998,7 @@
             },
             {
               "votes": {
-                "total": 80499
+                "total": 80521
               },
               "leader": false,
               "nyt_id": "mcdonald-d",
@@ -103000,7 +103006,7 @@
             },
             {
               "votes": {
-                "total": 16333
+                "total": 16342
               },
               "leader": false,
               "nyt_id": "walker-j",
@@ -103010,7 +103016,7 @@
           "fips_state": "49",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 248985,
+          "total_votes": 249129,
           "state_postal": "UT",
           "precincts_total": 634,
           "nyt_vote_estimate": {
@@ -103019,8 +103025,8 @@
             "quantiles": null,
             "total_expected_vote": null
           },
-          "precincts_reporting": 608,
-          "total_expected_vote": 259739
+          "precincts_reporting": 610,
+          "total_expected_vote": 258918
         }
       ],
       "candidate_metadata": {
@@ -103075,7 +103081,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 95.86,
+        "eevp": 96.22,
         "name": "Utah",
         "level": "state",
         "nyt_id": "UT-state",
@@ -103085,7 +103091,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 152153
+              "total": 152266
             },
             "leader": true,
             "nyt_id": "owens-b",
@@ -103093,7 +103099,7 @@
           },
           {
             "votes": {
-              "total": 80499
+              "total": 80521
             },
             "leader": false,
             "nyt_id": "mcdonald-d",
@@ -103101,7 +103107,7 @@
           },
           {
             "votes": {
-              "total": 16333
+              "total": 16342
             },
             "leader": false,
             "nyt_id": "walker-j",
@@ -103111,7 +103117,7 @@
         "fips_state": "49",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 248985,
+        "total_votes": 249129,
         "state_postal": "UT",
         "precincts_total": 634,
         "nyt_vote_estimate": {
@@ -103120,9 +103126,9 @@
           "quantiles": null,
           "total_expected_vote": null
         },
-        "precincts_reporting": 608,
-        "provider_updated_at": "2022-11-16T03:04:18.452+00:00",
-        "total_expected_vote": 259739
+        "precincts_reporting": 610,
+        "provider_updated_at": "2022-11-16T03:46:07.533+00:00",
+        "total_expected_vote": 258918
       },
       "historical_2020_pres": {
         "votes": 363066,
@@ -112135,7 +112141,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "G",
-        "updated_at": "2022-11-16T00:46:45.399Z",
+        "updated_at": "2022-11-16T03:43:56.161Z",
         "description": null,
         "max_winners": 1,
         "race_titles": {
@@ -112208,13 +112214,13 @@
             "fips_suffix": null,
             "total_votes": 1007707,
             "state_postal": "NV",
-            "source_run_id": 1845795,
-            "vote_report_id": 1043624289,
+            "source_run_id": 1847750,
+            "vote_report_id": 1043650693,
             "precincts_total": 1690,
             "election_track_id": 24,
             "nyt_vote_estimate": null,
             "precincts_reporting": 1672,
-            "provider_updated_at": "2022-11-16T00:46:45.399+00:00",
+            "provider_updated_at": "2022-11-16T03:43:56.161+00:00",
             "total_expected_vote": 1018308,
             "precincts_reporting_actual": 1690,
             "precincts_reporting_proportional": 1672
@@ -112363,13 +112369,13 @@
           "fips_suffix": null,
           "total_votes": 1007707,
           "state_postal": "NV",
-          "source_run_id": 1845795,
-          "vote_report_id": 1043624289,
+          "source_run_id": 1847750,
+          "vote_report_id": 1043650693,
           "precincts_total": 1690,
           "election_track_id": 24,
           "nyt_vote_estimate": null,
           "precincts_reporting": 1672,
-          "provider_updated_at": "2022-11-16T00:46:45.399+00:00",
+          "provider_updated_at": "2022-11-16T03:43:56.161+00:00",
           "total_expected_vote": 1018308,
           "precincts_reporting_actual": 1690,
           "precincts_reporting_proportional": 1672
@@ -113914,7 +113920,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "S",
-        "updated_at": "2022-11-16T00:46:46.044Z",
+        "updated_at": "2022-11-16T03:43:56.264Z",
         "description": null,
         "max_winners": 1,
         "race_titles": {
@@ -113995,8 +114001,8 @@
             "fips_suffix": null,
             "total_votes": 1009478,
             "state_postal": "NV",
-            "source_run_id": 1845795,
-            "vote_report_id": 1043624299,
+            "source_run_id": 1847750,
+            "vote_report_id": 1043650718,
             "precincts_total": 1690,
             "election_track_id": 24,
             "nyt_vote_estimate": {
@@ -114006,7 +114012,7 @@
               "total_expected_vote": null
             },
             "precincts_reporting": 1673,
-            "provider_updated_at": "2022-11-16T00:46:46.044+00:00",
+            "provider_updated_at": "2022-11-16T03:43:56.264+00:00",
             "total_expected_vote": 1019912,
             "precincts_reporting_actual": 1690,
             "precincts_reporting_proportional": 1673
@@ -114180,8 +114186,8 @@
           "fips_suffix": null,
           "total_votes": 1009478,
           "state_postal": "NV",
-          "source_run_id": 1845795,
-          "vote_report_id": 1043624299,
+          "source_run_id": 1847750,
+          "vote_report_id": 1043650718,
           "precincts_total": 1690,
           "election_track_id": 24,
           "nyt_vote_estimate": {
@@ -114191,7 +114197,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 1673,
-          "provider_updated_at": "2022-11-16T00:46:46.044+00:00",
+          "provider_updated_at": "2022-11-16T03:43:56.264+00:00",
           "total_expected_vote": 1019912,
           "precincts_reporting_actual": 1690,
           "precincts_reporting_proportional": 1673
@@ -114658,17 +114664,6 @@
       "party": "Democrat",
       "is_runoff": false,
       "timestamp": "2022-11-09T06:26:27.15+00:00"
-    },
-    {
-      "id": "UT-G-S-2022-11-08-lee-m",
-      "hed": "",
-      "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-utah-us-senate.html",
-      "text": "Mike Lee, Republican of Utah, wins re-election to the U.S. Senate.",
-      "type": "race_call",
-      "image": "https://static01.nyt.com/elections-assets/2022/headshots/UT-R-S-2022-06-28__lee-m-us-senate-ut.png",
-      "party": "Republican",
-      "is_runoff": false,
-      "timestamp": "2022-11-09T06:24:06.884243+00:00"
     },
     {
       "id": "GA-G-secretary_of_state-2022-11-08-raffensperger-b",
@@ -115744,7 +115739,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "S",
-        "updated_at": "2022-11-16T02:59:17.028Z",
+        "updated_at": "2022-11-16T03:52:10.924Z",
         "description": null,
         "max_winners": 1,
         "race_titles": {
@@ -115813,8 +115808,8 @@
             "fips_suffix": null,
             "total_votes": 3734090,
             "state_postal": "NC",
-            "source_run_id": 1847249,
-            "vote_report_id": 1043643434,
+            "source_run_id": 1847835,
+            "vote_report_id": 1043652154,
             "precincts_total": 2655,
             "election_track_id": 24,
             "nyt_vote_estimate": {
@@ -115824,7 +115819,7 @@
               "total_expected_vote": null
             },
             "precincts_reporting": 2655,
-            "provider_updated_at": "2022-11-16T02:59:17.028+00:00",
+            "provider_updated_at": "2022-11-16T03:52:10.924+00:00",
             "total_expected_vote": 3764680,
             "precincts_reporting_actual": 2655,
             "precincts_reporting_proportional": 2628
@@ -115952,8 +115947,8 @@
           "fips_suffix": null,
           "total_votes": 3734090,
           "state_postal": "NC",
-          "source_run_id": 1847249,
-          "vote_report_id": 1043643434,
+          "source_run_id": 1847835,
+          "vote_report_id": 1043652154,
           "precincts_total": 2655,
           "election_track_id": 24,
           "nyt_vote_estimate": {
@@ -115963,7 +115958,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 2655,
-          "provider_updated_at": "2022-11-16T02:59:17.028+00:00",
+          "provider_updated_at": "2022-11-16T03:52:10.924+00:00",
           "total_expected_vote": 3764680,
           "precincts_reporting_actual": 2655,
           "precincts_reporting_proportional": 2628
@@ -117254,7 +117249,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "S",
-        "updated_at": "2022-11-16T02:59:17.028Z",
+        "updated_at": "2022-11-16T03:52:10.924Z",
         "description": null,
         "max_winners": 1,
         "race_titles": {
@@ -117323,8 +117318,8 @@
             "fips_suffix": null,
             "total_votes": 3734090,
             "state_postal": "NC",
-            "source_run_id": 1847249,
-            "vote_report_id": 1043643434,
+            "source_run_id": 1847835,
+            "vote_report_id": 1043652154,
             "precincts_total": 2655,
             "election_track_id": 24,
             "nyt_vote_estimate": {
@@ -117334,7 +117329,7 @@
               "total_expected_vote": null
             },
             "precincts_reporting": 2655,
-            "provider_updated_at": "2022-11-16T02:59:17.028+00:00",
+            "provider_updated_at": "2022-11-16T03:52:10.924+00:00",
             "total_expected_vote": 3764680,
             "precincts_reporting_actual": 2655,
             "precincts_reporting_proportional": 2628
@@ -117462,8 +117457,8 @@
           "fips_suffix": null,
           "total_votes": 3734090,
           "state_postal": "NC",
-          "source_run_id": 1847249,
-          "vote_report_id": 1043643434,
+          "source_run_id": 1847835,
+          "vote_report_id": 1043652154,
           "precincts_total": 2655,
           "election_track_id": 24,
           "nyt_vote_estimate": {
@@ -117473,7 +117468,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 2655,
-          "provider_updated_at": "2022-11-16T02:59:17.028+00:00",
+          "provider_updated_at": "2022-11-16T03:52:10.924+00:00",
           "total_expected_vote": 3764680,
           "precincts_reporting_actual": 2655,
           "precincts_reporting_proportional": 2628
@@ -117775,7 +117770,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "S",
-        "updated_at": "2022-11-16T02:59:17.028Z",
+        "updated_at": "2022-11-16T03:52:10.924Z",
         "description": null,
         "max_winners": 1,
         "race_titles": {
@@ -117844,8 +117839,8 @@
             "fips_suffix": null,
             "total_votes": 3734090,
             "state_postal": "NC",
-            "source_run_id": 1847249,
-            "vote_report_id": 1043643434,
+            "source_run_id": 1847835,
+            "vote_report_id": 1043652154,
             "precincts_total": 2655,
             "election_track_id": 24,
             "nyt_vote_estimate": {
@@ -117855,7 +117850,7 @@
               "total_expected_vote": null
             },
             "precincts_reporting": 2655,
-            "provider_updated_at": "2022-11-16T02:59:17.028+00:00",
+            "provider_updated_at": "2022-11-16T03:52:10.924+00:00",
             "total_expected_vote": 3764680,
             "precincts_reporting_actual": 2655,
             "precincts_reporting_proportional": 2628
@@ -117983,8 +117978,8 @@
           "fips_suffix": null,
           "total_votes": 3734090,
           "state_postal": "NC",
-          "source_run_id": 1847249,
-          "vote_report_id": 1043643434,
+          "source_run_id": 1847835,
+          "vote_report_id": 1043652154,
           "precincts_total": 2655,
           "election_track_id": 24,
           "nyt_vote_estimate": {
@@ -117994,7 +117989,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 2655,
-          "provider_updated_at": "2022-11-16T02:59:17.028+00:00",
+          "provider_updated_at": "2022-11-16T03:52:10.924+00:00",
           "total_expected_vote": 3764680,
           "precincts_reporting_actual": 2655,
           "precincts_reporting_proportional": 2628
@@ -118858,50 +118853,50 @@
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-arizona.html",
         "race_ids": [
-          "AZ-G-S-2022-11-08",
-          "AZ-G-G-2022-11-08",
-          "AZ-G-H-2-2022-11-08",
-          "AZ-G-S-2022-11-08",
           "AZ-G-H-1-2022-11-08",
-          "AZ-G-G-2022-11-08",
-          "AZ-G-H-6-2022-11-08",
+          "AZ-G-S-2022-11-08",
           "AZ-G-S-2022-11-08",
           "AZ-G-H-8-2022-11-08",
-          "AZ-G-H-1-2022-11-08",
-          "AZ-G-secretary_of_state-2022-11-08",
           "AZ-G-H-7-2022-11-08",
-          "AZ-G-S-2022-11-08",
-          "AZ-G-H-4-2022-11-08",
-          "AZ-G-G-2022-11-08",
-          "AZ-G-H-1-2022-11-08",
-          "AZ-G-H-2-2022-11-08",
-          "AZ-G-S-2022-11-08",
-          "AZ-G-H-1-2022-11-08",
-          "AZ-G-H-4-2022-11-08",
-          "AZ-G-H-2-2022-11-08",
           "AZ-G-H-6-2022-11-08",
           "AZ-G-secretary_of_state-2022-11-08",
+          "AZ-I-4231-AZ-2022-11-08",
+          "AZ-G-S-2022-11-08",
+          "AZ-G-H-1-2022-11-08",
+          "AZ-G-S-2022-11-08",
+          "AZ-G-H-2-2022-11-08",
+          "AZ-G-G-2022-11-08",
+          "AZ-G-H-3-2022-11-08",
           "AZ-G-attorney_general-2022-11-08",
+          "AZ-G-H-9-2022-11-08",
+          "AZ-G-H-1-2022-11-08",
+          "AZ-G-H-2-2022-11-08",
+          "AZ-G-G-2022-11-08",
+          "AZ-G-H-6-2022-11-08",
+          "AZ-G-H-4-2022-11-08",
+          "AZ-G-H-2-2022-11-08",
+          "AZ-G-H-1-2022-11-08",
+          "AZ-G-H-4-2022-11-08",
+          "AZ-G-S-2022-11-08",
+          "AZ-G-G-2022-11-08",
           "AZ-G-H-1-2022-11-08",
           "AZ-G-G-2022-11-08",
-          "AZ-G-H-5-2022-11-08",
-          "AZ-G-H-9-2022-11-08",
-          "AZ-G-H-3-2022-11-08",
-          "AZ-I-4231-AZ-2022-11-08"
+          "AZ-G-secretary_of_state-2022-11-08",
+          "AZ-G-H-5-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-kansas.html",
         "race_ids": [
-          "KS-G-H-1-2022-11-08",
+          "KS-G-H-2-2022-11-08",
           "KS-G-G-2022-11-08",
+          "KS-G-H-4-2022-11-08",
           "KS-G-G-2022-11-08",
           "KS-G-H-3-2022-11-08",
-          "KS-G-G-2022-11-08",
-          "KS-G-H-2-2022-11-08",
-          "KS-G-H-4-2022-11-08",
-          "KS-G-H-3-2022-11-08"
+          "KS-G-H-3-2022-11-08",
+          "KS-G-H-1-2022-11-08",
+          "KS-G-G-2022-11-08"
         ],
         "template": "general-state-page"
       },
@@ -118909,23 +118904,25 @@
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-massachusetts.html",
         "race_ids": [
           "MA-G-H-3-2022-11-08",
-          "MA-G-H-1-2022-11-08",
+          "MA-G-H-4-2022-11-08",
+          "MA-G-H-9-2022-11-08",
+          "MA-G-H-8-2022-11-08",
+          "MA-G-H-5-2022-11-08",
           "MA-G-H-7-2022-11-08",
           "MA-G-H-6-2022-11-08",
-          "MA-G-H-2-2022-11-08",
-          "MA-G-H-9-2022-11-08",
-          "MA-G-H-5-2022-11-08",
-          "MA-G-H-4-2022-11-08",
-          "MA-G-H-8-2022-11-08"
+          "MA-G-H-1-2022-11-08",
+          "MA-G-H-2-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-illinois.html",
         "race_ids": [
-          "IL-G-H-17-2022-11-08",
-          "IL-G-H-1-2022-11-08",
+          "IL-G-H-15-2022-11-08",
+          "IL-G-H-13-2022-11-08",
+          "IL-G-H-14-2022-11-08",
           "IL-G-H-2-2022-11-08",
+          "IL-G-H-1-2022-11-08",
           "IL-G-H-17-2022-11-08",
           "IL-G-H-3-2022-11-08",
           "IL-G-H-13-2022-11-08",
@@ -118939,13 +118936,11 @@
           "IL-G-H-17-2022-11-08",
           "IL-G-H-8-2022-11-08",
           "IL-G-H-9-2022-11-08",
+          "IL-G-H-17-2022-11-08",
           "IL-G-H-10-2022-11-08",
           "IL-G-H-11-2022-11-08",
-          "IL-G-H-12-2022-11-08",
-          "IL-G-H-13-2022-11-08",
-          "IL-G-H-14-2022-11-08",
-          "IL-G-H-15-2022-11-08",
-          "IL-G-H-16-2022-11-08"
+          "IL-G-H-16-2022-11-08",
+          "IL-G-H-12-2022-11-08"
         ],
         "template": "general-state-page"
       },
@@ -118953,24 +118948,24 @@
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-maine.html",
         "race_ids": [
           "ME-G-H-2-2022-11-08",
-          "ME-V-H-2-2022-11-08",
           "ME-G-G-2022-11-08",
           "ME-G-H-2-2022-11-08",
+          "ME-G-H-2-2022-11-08",
+          "ME-G-G-2022-11-08",
           "ME-G-H-2-2022-11-08",
           "ME-V-H-1-2022-11-08",
-          "ME-G-G-2022-11-08",
           "ME-G-H-1-2022-11-08",
-          "ME-G-H-2-2022-11-08"
+          "ME-V-H-2-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-montana.html",
         "race_ids": [
-          "MT-G-H-1-2022-11-08",
-          "MT-G-H-1-2022-11-08",
           "MT-I-28578-MT-2022-11-08",
-          "MT-G-H-2-2022-11-08"
+          "MT-G-H-2-2022-11-08",
+          "MT-G-H-1-2022-11-08",
+          "MT-G-H-1-2022-11-08"
         ],
         "template": "general-state-page"
       },
@@ -118978,8 +118973,8 @@
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-new-mexico.html",
         "race_ids": [
           "NM-G-H-2-2022-11-08",
-          "NM-G-G-2022-11-08",
           "NM-G-H-1-2022-11-08",
+          "NM-G-G-2022-11-08",
           "NM-G-H-3-2022-11-08",
           "NM-G-H-2-2022-11-08",
           "NM-G-H-2-2022-11-08",
@@ -118991,85 +118986,85 @@
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-pennsylvania.html",
         "race_ids": [
-          "PA-G-S-2022-11-08",
-          "PA-G-H-10-2022-11-08",
-          "PA-G-S-2022-11-08",
-          "PA-G-S-2022-11-08",
-          "PA-G-H-8-2022-11-08",
-          "PA-G-H-17-2022-11-08",
-          "PA-G-H-7-2022-11-08",
-          "PA-G-H-17-2022-11-08",
-          "PA-G-S-2022-11-08",
-          "PA-G-G-2022-11-08",
-          "PA-G-H-3-2022-11-08",
           "PA-G-H-5-2022-11-08",
-          "PA-G-H-15-2022-11-08",
-          "PA-G-H-7-2022-11-08",
-          "PA-G-H-13-2022-11-08",
-          "PA-G-H-12-2022-11-08",
           "PA-G-G-2022-11-08",
-          "PA-G-H-1-2022-11-08",
-          "PA-G-H-2-2022-11-08",
-          "PA-G-H-8-2022-11-08",
-          "PA-G-H-4-2022-11-08",
-          "PA-G-H-16-2022-11-08",
-          "PA-G-H-11-2022-11-08",
-          "PA-G-H-14-2022-11-08",
-          "PA-G-H-8-2022-11-08",
-          "PA-G-H-9-2022-11-08",
           "PA-G-H-17-2022-11-08",
+          "PA-G-H-17-2022-11-08",
+          "PA-G-H-8-2022-11-08",
+          "PA-G-S-2022-11-08",
+          "PA-G-H-16-2022-11-08",
+          "PA-G-H-15-2022-11-08",
+          "PA-G-H-14-2022-11-08",
+          "PA-G-H-13-2022-11-08",
+          "PA-G-S-2022-11-08",
+          "PA-G-H-12-2022-11-08",
+          "PA-G-H-11-2022-11-08",
+          "PA-G-H-10-2022-11-08",
+          "PA-G-H-9-2022-11-08",
+          "PA-G-S-2022-11-08",
+          "PA-G-H-8-2022-11-08",
           "PA-G-G-2022-11-08",
-          "PA-G-H-6-2022-11-08"
+          "PA-G-H-7-2022-11-08",
+          "PA-G-H-6-2022-11-08",
+          "PA-G-G-2022-11-08",
+          "PA-G-H-17-2022-11-08",
+          "PA-G-H-7-2022-11-08",
+          "PA-G-H-8-2022-11-08",
+          "PA-G-S-2022-11-08",
+          "PA-G-H-4-2022-11-08",
+          "PA-G-H-3-2022-11-08",
+          "PA-G-H-2-2022-11-08",
+          "PA-G-H-1-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-texas.html",
         "race_ids": [
-          "TX-G-H-8-2022-11-08",
-          "TX-G-H-28-2022-11-08",
-          "TX-G-H-34-2022-11-08",
-          "TX-G-H-16-2022-11-08",
-          "TX-G-H-1-2022-11-08",
-          "TX-G-G-2022-11-08",
-          "TX-G-H-15-2022-11-08",
-          "TX-G-H-14-2022-11-08",
-          "TX-G-H-2-2022-11-08",
-          "TX-G-H-38-2022-11-08",
-          "TX-G-H-13-2022-11-08",
-          "TX-G-H-17-2022-11-08",
-          "TX-G-H-3-2022-11-08",
-          "TX-G-H-37-2022-11-08",
-          "TX-G-H-36-2022-11-08",
-          "TX-G-H-12-2022-11-08",
-          "TX-G-H-35-2022-11-08",
-          "TX-G-G-2022-11-08",
-          "TX-G-H-18-2022-11-08",
-          "TX-G-H-34-2022-11-08",
-          "TX-G-H-33-2022-11-08",
-          "TX-G-H-11-2022-11-08",
-          "TX-G-H-32-2022-11-08",
-          "TX-G-H-19-2022-11-08",
-          "TX-G-H-4-2022-11-08",
           "TX-G-H-31-2022-11-08",
-          "TX-G-H-30-2022-11-08",
-          "TX-G-H-29-2022-11-08",
-          "TX-G-H-34-2022-11-08",
+          "TX-G-H-14-2022-11-08",
+          "TX-G-H-15-2022-11-08",
+          "TX-G-H-13-2022-11-08",
           "TX-G-G-2022-11-08",
-          "TX-G-H-10-2022-11-08",
+          "TX-G-H-22-2022-11-08",
           "TX-G-H-20-2022-11-08",
-          "TX-G-H-28-2022-11-08",
-          "TX-G-H-5-2022-11-08",
-          "TX-G-H-9-2022-11-08",
-          "TX-G-H-27-2022-11-08",
-          "TX-G-H-21-2022-11-08",
+          "TX-G-H-7-2022-11-08",
+          "TX-G-H-23-2022-11-08",
+          "TX-G-H-24-2022-11-08",
+          "TX-G-H-19-2022-11-08",
+          "TX-G-H-2-2022-11-08",
+          "TX-G-H-11-2022-11-08",
+          "TX-G-H-25-2022-11-08",
+          "TX-G-H-8-2022-11-08",
+          "TX-G-H-16-2022-11-08",
           "TX-G-H-6-2022-11-08",
           "TX-G-H-26-2022-11-08",
-          "TX-G-H-7-2022-11-08",
-          "TX-G-H-25-2022-11-08",
-          "TX-G-H-24-2022-11-08",
-          "TX-G-H-22-2022-11-08",
-          "TX-G-H-23-2022-11-08"
+          "TX-G-H-18-2022-11-08",
+          "TX-G-H-34-2022-11-08",
+          "TX-G-H-38-2022-11-08",
+          "TX-G-H-1-2022-11-08",
+          "TX-G-H-28-2022-11-08",
+          "TX-G-H-3-2022-11-08",
+          "TX-G-H-10-2022-11-08",
+          "TX-G-H-5-2022-11-08",
+          "TX-G-H-12-2022-11-08",
+          "TX-G-G-2022-11-08",
+          "TX-G-H-37-2022-11-08",
+          "TX-G-H-27-2022-11-08",
+          "TX-G-H-28-2022-11-08",
+          "TX-G-H-29-2022-11-08",
+          "TX-G-H-36-2022-11-08",
+          "TX-G-H-35-2022-11-08",
+          "TX-G-H-30-2022-11-08",
+          "TX-G-H-34-2022-11-08",
+          "TX-G-H-33-2022-11-08",
+          "TX-G-H-32-2022-11-08",
+          "TX-G-H-21-2022-11-08",
+          "TX-G-G-2022-11-08",
+          "TX-G-H-9-2022-11-08",
+          "TX-G-H-4-2022-11-08",
+          "TX-G-H-17-2022-11-08",
+          "TX-G-H-34-2022-11-08"
         ],
         "template": "general-state-page"
       },
@@ -119087,40 +119082,40 @@
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-colorado.html",
         "race_ids": [
-          "CO-G-H-8-2022-11-08",
-          "CO-G-H-3-2022-11-08",
-          "CO-G-H-3-2022-11-08",
-          "CO-G-S-2022-11-08",
-          "CO-G-H-2-2022-11-08",
-          "CO-G-H-5-2022-11-08",
-          "CO-I-7749-CO-2022-11-08",
           "CO-G-H-3-2022-11-08",
           "CO-G-H-6-2022-11-08",
-          "CO-G-H-1-2022-11-08",
           "CO-G-H-3-2022-11-08",
+          "CO-G-H-8-2022-11-08",
+          "CO-G-H-3-2022-11-08",
+          "CO-G-S-2022-11-08",
+          "CO-G-H-8-2022-11-08",
+          "CO-G-H-3-2022-11-08",
+          "CO-G-H-7-2022-11-08",
+          "CO-G-H-2-2022-11-08",
+          "CO-G-secretary_of_state-2022-11-08",
+          "CO-I-7749-CO-2022-11-08",
+          "CO-G-H-5-2022-11-08",
+          "CO-G-H-1-2022-11-08",
           "CO-G-H-4-2022-11-08",
           "CO-G-H-8-2022-11-08",
           "CO-G-H-3-2022-11-08",
-          "CO-G-H-8-2022-11-08",
-          "CO-G-secretary_of_state-2022-11-08",
-          "CO-G-H-8-2022-11-08",
           "CO-G-H-3-2022-11-08",
           "CO-G-S-2022-11-08",
           "CO-G-H-8-2022-11-08",
-          "CO-G-S-2022-11-08",
-          "CO-G-H-7-2022-11-08"
+          "CO-G-H-8-2022-11-08",
+          "CO-G-S-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-connecticut.html",
         "race_ids": [
-          "CT-G-H-2-2022-11-08",
           "CT-G-H-5-2022-11-08",
-          "CT-G-H-3-2022-11-08",
+          "CT-G-H-4-2022-11-08",
           "CT-G-H-1-2022-11-08",
-          "CT-I-9199-CT-2022-11-08",
-          "CT-G-H-4-2022-11-08"
+          "CT-G-H-2-2022-11-08",
+          "CT-G-H-3-2022-11-08",
+          "CT-I-9199-CT-2022-11-08"
         ],
         "template": "general-state-page"
       },
@@ -119134,87 +119129,87 @@
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-florida.html",
         "race_ids": [
-          "FL-G-H-5-2022-11-08",
-          "FL-G-H-11-2022-11-08",
-          "FL-G-H-20-2022-11-08",
-          "FL-G-H-10-2022-11-08",
-          "FL-G-H-19-2022-11-08",
-          "FL-G-H-12-2022-11-08",
+          "FL-G-H-1-2022-11-08",
           "FL-G-H-21-2022-11-08",
-          "FL-G-H-18-2022-11-08",
-          "FL-G-H-28-2022-11-08",
           "FL-G-H-4-2022-11-08",
-          "FL-G-H-6-2022-11-08",
           "FL-G-H-13-2022-11-08",
-          "FL-G-H-27-2022-11-08",
-          "FL-G-H-7-2022-11-08",
+          "FL-G-H-17-2022-11-08",
+          "FL-G-H-10-2022-11-08",
           "FL-G-H-14-2022-11-08",
-          "FL-G-H-3-2022-11-08",
+          "FL-G-H-18-2022-11-08",
+          "FL-G-H-22-2022-11-08",
+          "FL-G-H-5-2022-11-08",
+          "FL-G-H-15-2022-11-08",
+          "FL-G-H-20-2022-11-08",
+          "FL-G-H-11-2022-11-08",
+          "FL-G-H-9-2022-11-08",
+          "FL-G-G-2022-11-08",
+          "FL-G-H-28-2022-11-08",
+          "FL-G-S-2022-11-08",
+          "FL-G-H-2-2022-11-08",
+          "FL-G-H-23-2022-11-08",
+          "FL-G-H-27-2022-11-08",
+          "FL-G-H-6-2022-11-08",
           "FL-G-H-26-2022-11-08",
+          "FL-G-H-12-2022-11-08",
+          "FL-G-H-3-2022-11-08",
           "FL-G-S-2022-11-08",
           "FL-G-H-13-2022-11-08",
-          "FL-G-H-22-2022-11-08",
           "FL-G-G-2022-11-08",
-          "FL-G-H-9-2022-11-08",
-          "FL-G-H-25-2022-11-08",
-          "FL-G-H-15-2022-11-08",
           "FL-G-H-16-2022-11-08",
           "FL-G-H-8-2022-11-08",
           "FL-G-H-24-2022-11-08",
-          "FL-G-H-1-2022-11-08",
-          "FL-G-H-23-2022-11-08",
-          "FL-G-S-2022-11-08",
-          "FL-G-G-2022-11-08",
-          "FL-G-H-2-2022-11-08",
-          "FL-G-H-17-2022-11-08"
+          "FL-G-H-19-2022-11-08",
+          "FL-G-H-25-2022-11-08",
+          "FL-G-H-7-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-iowa.html",
         "race_ids": [
-          "IA-G-H-1-2022-11-08",
+          "IA-G-H-4-2022-11-08",
           "IA-G-H-2-2022-11-08",
           "IA-G-H-3-2022-11-08",
-          "IA-G-H-4-2022-11-08"
+          "IA-G-H-1-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-idaho.html",
         "race_ids": [
-          "ID-G-H-1-2022-11-08",
-          "ID-G-H-2-2022-11-08"
+          "ID-G-H-2-2022-11-08",
+          "ID-G-H-1-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-indiana.html",
         "race_ids": [
-          "IN-G-H-4-2022-11-08",
-          "IN-S-H-2-2022-11-08",
-          "IN-G-H-5-2022-11-08",
-          "IN-G-H-6-2022-11-08",
-          "IN-G-H-2-2022-11-08",
-          "IN-G-H-1-2022-11-08",
           "IN-G-H-8-2022-11-08",
-          "IN-G-H-1-2022-11-08",
-          "IN-G-H-1-2022-11-08",
           "IN-G-H-9-2022-11-08",
+          "IN-G-H-5-2022-11-08",
+          "IN-S-H-2-2022-11-08",
+          "IN-G-H-4-2022-11-08",
+          "IN-G-H-3-2022-11-08",
+          "IN-G-H-2-2022-11-08",
+          "IN-G-H-6-2022-11-08",
+          "IN-G-H-1-2022-11-08",
           "IN-G-H-7-2022-11-08",
-          "IN-G-H-3-2022-11-08"
+          "IN-G-H-1-2022-11-08",
+          "IN-G-H-1-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-kentucky.html",
         "race_ids": [
-          "KY-G-H-6-2022-11-08",
           "KY-G-H-4-2022-11-08",
+          "KY-G-H-5-2022-11-08",
           "KY-G-H-1-2022-11-08",
           "KY-G-H-2-2022-11-08",
+          "KY-G-H-6-2022-11-08",
           "KY-G-H-3-2022-11-08",
-          "KY-G-H-5-2022-11-08",
           "KY-I-18878-KY-2022-11-08"
         ],
         "template": "general-state-page"
@@ -119222,14 +119217,14 @@
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-maryland.html",
         "race_ids": [
-          "MD-I-22916-MD-2022-11-08",
           "MD-G-H-8-2022-11-08",
           "MD-G-H-1-2022-11-08",
           "MD-G-H-6-2022-11-08",
-          "MD-G-H-5-2022-11-08",
-          "MD-G-H-6-2022-11-08",
           "MD-G-H-7-2022-11-08",
           "MD-G-H-3-2022-11-08",
+          "MD-I-22916-MD-2022-11-08",
+          "MD-G-H-5-2022-11-08",
+          "MD-G-H-6-2022-11-08",
           "MD-G-H-2-2022-11-08",
           "MD-G-H-4-2022-11-08"
         ],
@@ -119238,46 +119233,46 @@
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-michigan.html",
         "race_ids": [
-          "MI-G-H-7-2022-11-08",
-          "MI-G-attorney_general-2022-11-08",
-          "MI-G-G-2022-11-08",
-          "MI-G-secretary_of_state-2022-11-08",
-          "MI-G-H-3-2022-11-08",
-          "MI-G-H-7-2022-11-08",
-          "MI-G-H-8-2022-11-08",
-          "MI-G-H-13-2022-11-08",
-          "MI-I-24627-MI-2022-11-08",
-          "MI-G-H-12-2022-11-08",
+          "MI-G-H-4-2022-11-08",
           "MI-G-H-11-2022-11-08",
           "MI-I-24626-MI-2022-11-08",
-          "MI-G-H-1-2022-11-08",
           "MI-G-H-10-2022-11-08",
+          "MI-I-24627-MI-2022-11-08",
+          "MI-G-H-13-2022-11-08",
+          "MI-G-H-12-2022-11-08",
+          "MI-G-attorney_general-2022-11-08",
           "MI-G-H-9-2022-11-08",
+          "MI-G-G-2022-11-08",
           "MI-G-H-8-2022-11-08",
           "MI-G-G-2022-11-08",
+          "MI-G-H-7-2022-11-08",
           "MI-G-secretary_of_state-2022-11-08",
+          "MI-G-G-2022-11-08",
+          "MI-G-secretary_of_state-2022-11-08",
+          "MI-G-H-1-2022-11-08",
+          "MI-G-H-3-2022-11-08",
+          "MI-G-H-7-2022-11-08",
           "MI-G-H-7-2022-11-08",
           "MI-G-H-2-2022-11-08",
-          "MI-G-H-3-2022-11-08",
           "MI-G-H-6-2022-11-08",
+          "MI-G-H-8-2022-11-08",
           "MI-G-H-5-2022-11-08",
-          "MI-G-G-2022-11-08",
-          "MI-G-H-4-2022-11-08"
+          "MI-G-H-3-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-minnesota.html",
         "race_ids": [
-          "MN-G-H-2-2022-11-08",
           "MN-G-H-8-2022-11-08",
-          "MN-G-H-5-2022-11-08",
-          "MN-G-H-3-2022-11-08",
-          "MN-G-H-4-2022-11-08",
-          "MN-G-H-2-2022-11-08",
-          "MN-G-H-2-2022-11-08",
           "MN-G-H-7-2022-11-08",
+          "MN-G-H-3-2022-11-08",
+          "MN-G-H-2-2022-11-08",
+          "MN-G-H-2-2022-11-08",
           "MN-G-H-6-2022-11-08",
+          "MN-G-H-5-2022-11-08",
+          "MN-G-H-2-2022-11-08",
+          "MN-G-H-4-2022-11-08",
           "MN-G-H-1-2022-11-08"
         ],
         "template": "general-state-page"
@@ -119285,15 +119280,15 @@
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-missouri.html",
         "race_ids": [
+          "MO-G-H-8-2022-11-08",
+          "MO-G-H-5-2022-11-08",
+          "MO-G-H-2-2022-11-08",
+          "MO-G-H-3-2022-11-08",
+          "MO-G-H-6-2022-11-08",
           "MO-I-27543-MO-2022-11-08",
           "MO-G-H-4-2022-11-08",
           "MO-G-H-1-2022-11-08",
-          "MO-G-H-7-2022-11-08",
-          "MO-G-H-8-2022-11-08",
-          "MO-G-H-6-2022-11-08",
-          "MO-G-H-5-2022-11-08",
-          "MO-G-H-3-2022-11-08",
-          "MO-G-H-2-2022-11-08"
+          "MO-G-H-7-2022-11-08"
         ],
         "template": "general-state-page"
       },
@@ -119308,81 +119303,81 @@
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-nebraska.html",
         "race_ids": [
+          "NE-G-H-3-2022-11-08",
           "NE-G-H-2-2022-11-08",
-          "NE-G-H-1-2022-11-08",
+          "NE-G-H-2-2022-11-08",
           "NE-G-H-2-2022-11-08",
           "NE-I-29536-NE-2022-11-08",
-          "NE-G-H-2-2022-11-08",
-          "NE-G-H-3-2022-11-08"
+          "NE-G-H-1-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-mississippi.html",
         "race_ids": [
+          "MS-G-H-1-2022-11-08",
           "MS-G-H-4-2022-11-08",
           "MS-G-H-3-2022-11-08",
-          "MS-G-H-2-2022-11-08",
-          "MS-G-H-1-2022-11-08"
+          "MS-G-H-2-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-new-jersey.html",
         "race_ids": [
-          "NJ-G-H-2-2022-11-08",
           "NJ-G-H-1-2022-11-08",
-          "NJ-G-H-3-2022-11-08",
-          "NJ-G-H-4-2022-11-08",
-          "NJ-G-H-5-2022-11-08",
-          "NJ-G-H-6-2022-11-08",
-          "NJ-G-H-7-2022-11-08",
-          "NJ-G-H-8-2022-11-08",
-          "NJ-G-H-9-2022-11-08",
           "NJ-G-H-10-2022-11-08",
-          "NJ-G-H-11-2022-11-08",
-          "NJ-G-H-12-2022-11-08"
+          "NJ-G-H-5-2022-11-08",
+          "NJ-G-H-7-2022-11-08",
+          "NJ-G-H-3-2022-11-08",
+          "NJ-G-H-6-2022-11-08",
+          "NJ-G-H-9-2022-11-08",
+          "NJ-G-H-8-2022-11-08",
+          "NJ-G-H-12-2022-11-08",
+          "NJ-G-H-4-2022-11-08",
+          "NJ-G-H-2-2022-11-08",
+          "NJ-G-H-11-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-ohio.html",
         "race_ids": [
-          "OH-G-H-13-2022-11-08",
           "OH-G-H-3-2022-11-08",
-          "OH-G-H-2-2022-11-08",
-          "OH-G-H-15-2022-11-08",
-          "OH-G-H-14-2022-11-08",
-          "OH-G-S-2022-11-08",
+          "OH-G-H-1-2022-11-08",
+          "OH-G-H-1-2022-11-08",
+          "OH-G-H-13-2022-11-08",
           "OH-G-H-9-2022-11-08",
           "OH-G-H-4-2022-11-08",
-          "OH-G-H-6-2022-11-08",
-          "OH-G-H-13-2022-11-08",
           "OH-G-S-2022-11-08",
           "OH-G-S-2022-11-08",
           "OH-G-H-13-2022-11-08",
-          "OH-G-H-12-2022-11-08",
           "OH-G-H-1-2022-11-08",
-          "OH-G-H-11-2022-11-08",
-          "OH-G-H-1-2022-11-08",
-          "OH-I-37645-OH-2022-11-08",
-          "OH-G-H-10-2022-11-08",
-          "OH-G-H-9-2022-11-08",
-          "OH-G-S-2022-11-08",
-          "OH-G-H-8-2022-11-08",
+          "OH-G-H-2-2022-11-08",
           "OH-G-H-5-2022-11-08",
+          "OH-G-H-15-2022-11-08",
+          "OH-G-H-6-2022-11-08",
           "OH-G-H-7-2022-11-08",
-          "OH-G-H-1-2022-11-08"
+          "OH-G-H-14-2022-11-08",
+          "OH-G-H-8-2022-11-08",
+          "OH-G-S-2022-11-08",
+          "OH-G-H-13-2022-11-08",
+          "OH-G-S-2022-11-08",
+          "OH-G-H-9-2022-11-08",
+          "OH-G-H-11-2022-11-08",
+          "OH-G-H-12-2022-11-08",
+          "OH-G-H-10-2022-11-08",
+          "OH-I-37645-OH-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-oklahoma.html",
         "race_ids": [
-          "OK-G-H-1-2022-11-08",
           "OK-G-H-4-2022-11-08",
-          "OK-G-H-3-2022-11-08",
           "OK-G-H-5-2022-11-08",
+          "OK-G-H-3-2022-11-08",
+          "OK-G-H-1-2022-11-08",
           "OK-G-H-2-2022-11-08"
         ],
         "template": "general-state-page"
@@ -119390,18 +119385,18 @@
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-oregon.html",
         "race_ids": [
-          "OR-G-G-2022-11-08",
-          "OR-G-H-5-2022-11-08",
-          "OR-G-H-6-2022-11-08",
-          "OR-G-G-2022-11-08",
-          "OR-G-H-4-2022-11-08",
-          "OR-G-H-4-2022-11-08",
-          "OR-G-G-2022-11-08",
-          "OR-G-H-5-2022-11-08",
-          "OR-G-H-6-2022-11-08",
-          "OR-G-H-1-2022-11-08",
           "OR-G-H-3-2022-11-08",
+          "OR-G-H-5-2022-11-08",
+          "OR-G-G-2022-11-08",
+          "OR-G-G-2022-11-08",
+          "OR-G-H-1-2022-11-08",
+          "OR-G-H-4-2022-11-08",
+          "OR-G-H-4-2022-11-08",
+          "OR-G-G-2022-11-08",
           "OR-G-H-2-2022-11-08",
+          "OR-G-H-5-2022-11-08",
+          "OR-G-H-6-2022-11-08",
+          "OR-G-H-6-2022-11-08",
           "OR-G-H-5-2022-11-08"
         ],
         "template": "general-state-page"
@@ -119409,26 +119404,25 @@
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-tennessee.html",
         "race_ids": [
-          "TN-G-H-7-2022-11-08",
-          "TN-G-H-3-2022-11-08",
-          "TN-G-H-4-2022-11-08",
-          "TN-G-H-8-2022-11-08",
           "TN-G-H-5-2022-11-08",
-          "TN-G-H-6-2022-11-08",
+          "TN-G-H-7-2022-11-08",
+          "TN-G-H-2-2022-11-08",
+          "TN-G-H-4-2022-11-08",
           "TN-G-H-9-2022-11-08",
           "TN-G-H-1-2022-11-08",
-          "TN-G-H-2-2022-11-08"
+          "TN-G-H-3-2022-11-08",
+          "TN-G-H-6-2022-11-08",
+          "TN-G-H-8-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-utah.html",
         "race_ids": [
-          "UT-G-S-2022-11-08",
+          "UT-G-H-4-2022-11-08",
           "UT-G-H-3-2022-11-08",
           "UT-G-H-2-2022-11-08",
-          "UT-G-H-1-2022-11-08",
-          "UT-G-H-4-2022-11-08"
+          "UT-G-H-1-2022-11-08"
         ],
         "template": "general-state-page"
       },
@@ -119444,43 +119438,43 @@
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-washington.html",
         "race_ids": [
           "WA-G-H-8-2022-11-08",
+          "WA-G-H-9-2022-11-08",
+          "WA-G-H-3-2022-11-08",
+          "WA-G-H-5-2022-11-08",
+          "WA-G-H-2-2022-11-08",
           "WA-G-H-8-2022-11-08",
           "WA-G-H-8-2022-11-08",
+          "WA-G-H-10-2022-11-08",
           "WA-G-H-7-2022-11-08",
           "WA-G-H-3-2022-11-08",
-          "WA-G-H-1-2022-11-08",
-          "WA-G-H-10-2022-11-08",
-          "WA-G-H-9-2022-11-08",
-          "WA-G-H-2-2022-11-08",
-          "WA-G-H-5-2022-11-08",
-          "WA-G-H-3-2022-11-08",
-          "WA-G-H-4-2022-11-08",
-          "WA-G-H-3-2022-11-08",
           "WA-G-H-8-2022-11-08",
-          "WA-G-H-6-2022-11-08"
+          "WA-G-H-3-2022-11-08",
+          "WA-G-H-6-2022-11-08",
+          "WA-G-H-4-2022-11-08",
+          "WA-G-H-1-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-wisconsin.html",
         "race_ids": [
-          "WI-G-S-2022-11-08",
-          "WI-G-H-2-2022-11-08",
-          "WI-G-H-3-2022-11-08",
           "WI-G-G-2022-11-08",
+          "WI-G-S-2022-11-08",
+          "WI-G-H-4-2022-11-08",
           "WI-G-H-7-2022-11-08",
+          "WI-G-H-5-2022-11-08",
+          "WI-G-H-1-2022-11-08",
+          "WI-G-H-2-2022-11-08",
+          "WI-G-S-2022-11-08",
           "WI-G-H-6-2022-11-08",
-          "WI-G-attorney_general-2022-11-08",
+          "WI-G-G-2022-11-08",
           "WI-G-G-2022-11-08",
           "WI-G-H-8-2022-11-08",
           "WI-G-S-2022-11-08",
           "WI-G-S-2022-11-08",
-          "WI-G-H-5-2022-11-08",
+          "WI-G-H-3-2022-11-08",
           "WI-G-S-2022-11-08",
-          "WI-G-S-2022-11-08",
-          "WI-G-G-2022-11-08",
-          "WI-G-H-4-2022-11-08",
-          "WI-G-H-1-2022-11-08"
+          "WI-G-attorney_general-2022-11-08"
         ],
         "template": "general-state-page"
       },
@@ -119502,53 +119496,53 @@
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-georgia.html",
         "race_ids": [
+          "GA-G-H-14-2022-11-08",
+          "GA-G-H-2-2022-11-08",
+          "GA-G-H-1-2022-11-08",
+          "GA-G-H-3-2022-11-08",
+          "GA-G-S-2022-11-08",
+          "GA-G-H-4-2022-11-08",
           "GA-G-H-5-2022-11-08",
+          "GA-G-H-6-2022-11-08",
           "GA-G-H-7-2022-11-08",
           "GA-G-S-2022-11-08",
           "GA-G-secretary_of_state-2022-11-08",
           "GA-G-G-2022-11-08",
           "GA-G-H-8-2022-11-08",
+          "GA-G-G-2022-11-08",
           "GA-G-H-9-2022-11-08",
-          "GA-G-H-1-2022-11-08",
           "GA-G-S-2022-11-08",
           "GA-G-H-10-2022-11-08",
-          "GA-G-H-2-2022-11-08",
           "GA-G-H-11-2022-11-08",
           "GA-G-H-12-2022-11-08",
-          "GA-G-G-2022-11-08",
           "GA-G-H-13-2022-11-08",
-          "GA-G-H-14-2022-11-08",
-          "GA-G-S-2022-11-08",
-          "GA-G-H-3-2022-11-08",
-          "GA-G-H-4-2022-11-08",
           "GA-G-S-2022-11-08",
           "GA-G-S-2022-11-08",
           "GA-G-secretary_of_state-2022-11-08",
-          "GA-G-G-2022-11-08",
-          "GA-G-H-6-2022-11-08"
+          "GA-G-G-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-louisiana.html",
         "race_ids": [
+          "LA-P-H-3-2022-11-08",
           "LA-P-H-2-2022-11-08",
+          "LA-P-H-1-2022-11-08",
           "LA-P-H-4-2022-11-08",
           "LA-P-H-6-2022-11-08",
-          "LA-P-H-5-2022-11-08",
-          "LA-P-H-3-2022-11-08",
-          "LA-P-H-1-2022-11-08"
+          "LA-P-H-5-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-arkansas.html",
         "race_ids": [
-          "AR-G-H-1-2022-11-08",
-          "AR-G-H-3-2022-11-08",
+          "AR-I-6891-AR-2022-11-08",
           "AR-G-H-2-2022-11-08",
+          "AR-G-H-1-2022-11-08",
           "AR-G-H-4-2022-11-08",
-          "AR-I-6891-AR-2022-11-08"
+          "AR-G-H-3-2022-11-08"
         ],
         "template": "general-state-page"
       },
@@ -119563,148 +119557,148 @@
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-south-carolina.html",
         "race_ids": [
-          "SC-G-H-3-2022-11-08",
-          "SC-G-H-5-2022-11-08",
-          "SC-G-H-6-2022-11-08",
-          "SC-G-H-4-2022-11-08",
-          "SC-G-H-2-2022-11-08",
           "SC-G-H-1-2022-11-08",
-          "SC-G-H-7-2022-11-08"
+          "SC-G-H-3-2022-11-08",
+          "SC-G-H-2-2022-11-08",
+          "SC-G-H-4-2022-11-08",
+          "SC-G-H-7-2022-11-08",
+          "SC-G-H-6-2022-11-08",
+          "SC-G-H-5-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-new-hampshire.html",
         "race_ids": [
-          "NH-G-S-2022-11-08",
           "NH-G-H-1-2022-11-08",
           "NH-G-H-2-2022-11-08",
           "NH-G-S-2022-11-08",
           "NH-G-S-2022-11-08",
-          "NH-G-H-1-2022-11-08",
+          "NH-G-S-2022-11-08",
+          "NH-G-S-2022-11-08",
           "NH-G-H-1-2022-11-08",
           "NH-G-H-2-2022-11-08",
-          "NH-G-S-2022-11-08"
+          "NH-G-H-1-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-alabama.html",
         "race_ids": [
-          "AL-G-H-5-2022-11-08",
+          "AL-G-H-7-2022-11-08",
           "AL-G-H-6-2022-11-08",
-          "AL-G-H-4-2022-11-08",
           "AL-G-H-2-2022-11-08",
-          "AL-G-H-1-2022-11-08",
+          "AL-G-H-4-2022-11-08",
           "AL-G-H-3-2022-11-08",
-          "AL-G-H-7-2022-11-08"
+          "AL-G-H-1-2022-11-08",
+          "AL-G-H-5-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-california.html",
         "race_ids": [
-          "CA-G-H-47-2022-11-08",
-          "CA-G-H-15-2022-11-08",
-          "CA-G-H-27-2022-11-08",
-          "CA-G-H-9-2022-11-08",
-          "CA-G-H-39-2022-11-08",
-          "CA-G-H-3-2022-11-08",
-          "CA-G-H-3-2022-11-08",
-          "CA-G-H-9-2022-11-08",
-          "CA-G-M-los_angeles-2022-11-08",
-          "CA-G-H-6-2022-11-08",
-          "CA-G-H-26-2022-11-08",
-          "CA-G-H-38-2022-11-08",
-          "CA-G-H-50-2022-11-08",
-          "CA-G-H-16-2022-11-08",
-          "CA-G-H-13-2022-11-08",
-          "CA-G-H-37-2022-11-08",
-          "CA-G-H-49-2022-11-08",
-          "CA-G-H-36-2022-11-08",
-          "CA-G-H-1-2022-11-08",
-          "CA-G-H-47-2022-11-08",
-          "CA-G-H-35-2022-11-08",
-          "CA-G-H-17-2022-11-08",
-          "CA-G-H-6-2022-11-08",
+          "CA-G-H-42-2022-11-08",
           "CA-G-H-22-2022-11-08",
+          "CA-G-H-41-2022-11-08",
           "CA-G-H-27-2022-11-08",
-          "CA-G-H-41-2022-11-08",
-          "CA-G-H-46-2022-11-08",
-          "CA-G-H-34-2022-11-08",
-          "CA-G-H-45-2022-11-08",
-          "CA-G-H-41-2022-11-08",
-          "CA-G-H-21-2022-11-08",
-          "CA-G-H-47-2022-11-08",
           "CA-G-H-40-2022-11-08",
-          "CA-G-H-18-2022-11-08",
-          "CA-G-H-38-2022-11-08",
-          "CA-G-H-8-2022-11-08",
-          "CA-G-H-35-2022-11-08",
-          "CA-G-H-19-2022-11-08",
-          "CA-G-H-33-2022-11-08",
-          "CA-G-H-49-2022-11-08",
-          "CA-G-H-32-2022-11-08",
-          "CA-G-H-13-2022-11-08",
-          "CA-G-H-20-2022-11-08",
-          "CA-G-H-31-2022-11-08",
-          "CA-G-H-22-2022-11-08",
-          "CA-G-H-22-2022-11-08",
-          "CA-G-H-30-2022-11-08",
-          "CA-G-H-29-2022-11-08",
-          "CA-G-H-45-2022-11-08",
-          "CA-G-H-21-2022-11-08",
-          "CA-G-H-11-2022-11-08",
-          "CA-G-H-28-2022-11-08",
-          "CA-G-H-22-2022-11-08",
-          "CA-G-H-4-2022-11-08",
-          "CA-G-H-22-2022-11-08",
-          "CA-G-H-7-2022-11-08",
-          "CA-G-H-27-2022-11-08",
-          "CA-G-H-23-2022-11-08",
-          "CA-G-H-27-2022-11-08",
-          "CA-G-H-26-2022-11-08",
-          "CA-G-H-51-2022-11-08",
-          "CA-G-H-24-2022-11-08",
-          "CA-G-H-26-2022-11-08",
-          "CA-G-H-2-2022-11-08",
-          "CA-G-H-13-2022-11-08",
-          "CA-G-H-25-2022-11-08",
-          "CA-I-8966-CA-2022-11-08",
-          "CA-G-H-5-2022-11-08",
-          "CA-G-H-13-2022-11-08",
-          "CA-G-H-13-2022-11-08",
-          "CA-G-H-22-2022-11-08",
-          "CA-G-H-27-2022-11-08",
-          "CA-G-H-10-2022-11-08",
-          "CA-G-H-3-2022-11-08",
           "CA-G-H-47-2022-11-08",
+          "CA-G-H-52-2022-11-08",
+          "CA-G-H-39-2022-11-08",
+          "CA-G-H-7-2022-11-08",
+          "CA-G-H-15-2022-11-08",
+          "CA-G-H-51-2022-11-08",
+          "CA-G-H-38-2022-11-08",
+          "CA-G-H-37-2022-11-08",
+          "CA-G-H-22-2022-11-08",
           "CA-G-H-12-2022-11-08",
-          "CA-G-H-46-2022-11-08",
-          "CA-G-H-9-2022-11-08",
+          "CA-G-H-16-2022-11-08",
+          "CA-G-H-6-2022-11-08",
+          "CA-G-H-49-2022-11-08",
+          "CA-G-H-2-2022-11-08",
+          "CA-G-H-26-2022-11-08",
+          "CA-G-H-36-2022-11-08",
+          "CA-G-H-17-2022-11-08",
+          "CA-G-H-35-2022-11-08",
+          "CA-G-H-1-2022-11-08",
+          "CA-G-H-34-2022-11-08",
+          "CA-G-H-5-2022-11-08",
+          "CA-G-H-33-2022-11-08",
+          "CA-G-H-18-2022-11-08",
+          "CA-G-H-32-2022-11-08",
+          "CA-G-H-31-2022-11-08",
+          "CA-G-H-30-2022-11-08",
+          "CA-G-H-19-2022-11-08",
+          "CA-G-H-13-2022-11-08",
+          "CA-G-H-29-2022-11-08",
+          "CA-G-H-13-2022-11-08",
+          "CA-G-H-22-2022-11-08",
           "CA-G-H-45-2022-11-08",
+          "CA-G-H-20-2022-11-08",
+          "CA-G-H-22-2022-11-08",
+          "CA-G-H-27-2022-11-08",
+          "CA-G-H-3-2022-11-08",
+          "CA-G-H-28-2022-11-08",
+          "CA-G-H-10-2022-11-08",
+          "CA-G-H-21-2022-11-08",
+          "CA-G-H-4-2022-11-08",
+          "CA-G-H-13-2022-11-08",
+          "CA-G-H-9-2022-11-08",
+          "CA-G-H-6-2022-11-08",
+          "CA-G-H-46-2022-11-08",
+          "CA-G-H-45-2022-11-08",
+          "CA-G-H-23-2022-11-08",
+          "CA-G-H-41-2022-11-08",
+          "CA-I-8966-CA-2022-11-08",
+          "CA-G-H-24-2022-11-08",
+          "CA-G-H-47-2022-11-08",
+          "CA-G-H-50-2022-11-08",
+          "CA-G-H-26-2022-11-08",
+          "CA-G-H-40-2022-11-08",
+          "CA-G-H-26-2022-11-08",
+          "CA-G-H-27-2022-11-08",
+          "CA-G-H-48-2022-11-08",
+          "CA-G-H-25-2022-11-08",
+          "CA-G-H-9-2022-11-08",
+          "CA-G-H-3-2022-11-08",
+          "CA-G-H-38-2022-11-08",
+          "CA-G-H-35-2022-11-08",
+          "CA-G-H-27-2022-11-08",
+          "CA-G-H-47-2022-11-08",
+          "CA-G-H-41-2022-11-08",
+          "CA-G-H-46-2022-11-08",
+          "CA-G-H-45-2022-11-08",
+          "CA-G-H-9-2022-11-08",
           "CA-G-H-45-2022-11-08",
           "CA-G-H-47-2022-11-08",
           "CA-G-H-44-2022-11-08",
-          "CA-G-H-14-2022-11-08",
-          "CA-G-H-13-2022-11-08",
           "CA-G-H-49-2022-11-08",
+          "CA-G-H-11-2022-11-08",
+          "CA-G-H-14-2022-11-08",
           "CA-G-H-43-2022-11-08",
-          "CA-G-H-52-2022-11-08",
           "CA-G-H-9-2022-11-08",
-          "CA-G-H-42-2022-11-08",
-          "CA-G-H-48-2022-11-08",
-          "CA-G-H-41-2022-11-08",
-          "CA-G-H-40-2022-11-08",
-          "CA-G-H-23-2022-11-08"
+          "CA-G-H-8-2022-11-08",
+          "CA-G-M-los_angeles-2022-11-08",
+          "CA-G-H-13-2022-11-08",
+          "CA-G-H-13-2022-11-08",
+          "CA-G-H-23-2022-11-08",
+          "CA-G-H-3-2022-11-08",
+          "CA-G-H-22-2022-11-08",
+          "CA-G-H-13-2022-11-08",
+          "CA-G-H-21-2022-11-08",
+          "CA-G-H-49-2022-11-08",
+          "CA-G-H-27-2022-11-08",
+          "CA-G-H-47-2022-11-08",
+          "CA-G-H-22-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-hawaii.html",
         "race_ids": [
-          "HI-G-H-2-2022-11-08",
-          "HI-G-H-1-2022-11-08"
+          "HI-G-H-1-2022-11-08",
+          "HI-G-H-2-2022-11-08"
         ],
         "template": "general-state-page"
       },
@@ -119714,81 +119708,73 @@
           "NV-G-S-2022-11-08",
           "NV-I-31211-NV-2022-11-08",
           "NV-G-S-2022-11-08",
-          "NV-G-H-4-2022-11-08",
-          "NV-G-S-2022-11-08",
           "NV-G-G-2022-11-08",
+          "NV-G-G-2022-11-08",
+          "NV-G-secretary_of_state-2022-11-08",
           "NV-G-H-1-2022-11-08",
           "NV-G-H-3-2022-11-08",
+          "NV-G-S-2022-11-08",
           "NV-G-H-4-2022-11-08",
+          "NV-G-H-1-2022-11-08",
+          "NV-G-H-3-2022-11-08",
+          "NV-G-G-2022-11-08",
+          "NV-G-S-2022-11-08",
           "NV-G-S-2022-11-08",
           "NV-G-H-4-2022-11-08",
           "NV-G-H-3-2022-11-08",
-          "NV-G-G-2022-11-08",
-          "NV-G-H-1-2022-11-08",
+          "NV-G-H-3-2022-11-08",
           "NV-G-H-1-2022-11-08",
           "NV-G-secretary_of_state-2022-11-08",
-          "NV-G-H-2-2022-11-08",
           "NV-G-G-2022-11-08",
           "NV-G-attorney_general-2022-11-08",
-          "NV-G-G-2022-11-08",
-          "NV-G-secretary_of_state-2022-11-08",
-          "NV-G-H-1-2022-11-08",
-          "NV-G-S-2022-11-08",
-          "NV-G-H-3-2022-11-08",
           "NV-G-H-1-2022-11-08",
           "NV-G-H-3-2022-11-08",
-          "NV-G-H-3-2022-11-08"
+          "NV-G-H-4-2022-11-08",
+          "NV-G-H-2-2022-11-08",
+          "NV-G-H-1-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-north-carolina.html",
         "race_ids": [
-          "NC-G-H-7-2022-11-08",
-          "NC-G-H-13-2022-11-08",
-          "NC-G-H-6-2022-11-08",
-          "NC-G-H-11-2022-11-08",
-          "NC-G-H-10-2022-11-08",
-          "NC-G-H-2-2022-11-08",
-          "NC-G-H-14-2022-11-08",
-          "NC-G-H-5-2022-11-08",
-          "NC-G-H-13-2022-11-08",
           "NC-G-H-12-2022-11-08",
-          "NC-G-S-2022-11-08",
+          "NC-G-H-8-2022-11-08",
           "NC-G-H-4-2022-11-08",
-          "NC-G-H-1-2022-11-08",
+          "NC-G-S-2022-11-08",
+          "NC-G-H-14-2022-11-08",
+          "NC-G-H-7-2022-11-08",
+          "NC-G-H-2-2022-11-08",
+          "NC-G-S-2022-11-08",
+          "NC-G-H-9-2022-11-08",
+          "NC-G-H-3-2022-11-08",
+          "NC-G-H-5-2022-11-08",
           "NC-G-S-2022-11-08",
           "NC-G-H-13-2022-11-08",
+          "NC-G-H-13-2022-11-08",
+          "NC-G-H-10-2022-11-08",
           "NC-G-S-2022-11-08",
-          "NC-G-S-2022-11-08",
-          "NC-G-H-3-2022-11-08",
-          "NC-G-H-8-2022-11-08",
-          "NC-G-H-9-2022-11-08"
+          "NC-G-H-1-2022-11-08",
+          "NC-G-H-13-2022-11-08",
+          "NC-G-H-11-2022-11-08",
+          "NC-G-H-6-2022-11-08"
         ],
         "template": "general-state-page"
       },
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-new-york.html",
         "race_ids": [
-          "NY-G-G-2022-11-08",
-          "NY-G-H-3-2022-11-08",
-          "NY-G-H-18-2022-11-08",
           "NY-G-H-17-2022-11-08",
-          "NY-G-H-22-2022-11-08",
-          "NY-G-H-1-2022-11-08",
-          "NY-G-H-16-2022-11-08",
-          "NY-G-H-12-2022-11-08",
-          "NY-G-H-3-2022-11-08",
-          "NY-G-H-19-2022-11-08",
-          "NY-G-H-14-2022-11-08",
           "NY-G-H-5-2022-11-08",
+          "NY-G-H-19-2022-11-08",
+          "NY-G-H-17-2022-11-08",
+          "NY-G-G-2022-11-08",
+          "NY-G-H-16-2022-11-08",
           "NY-G-H-23-2022-11-08",
           "NY-G-G-2022-11-08",
           "NY-G-H-17-2022-11-08",
           "NY-G-H-22-2022-11-08",
           "NY-G-H-18-2022-11-08",
-          "NY-G-H-18-2022-11-08",
-          "NY-G-H-7-2022-11-08",
           "NY-G-H-19-2022-11-08",
           "NY-G-H-21-2022-11-08",
           "NY-G-H-22-2022-11-08",
@@ -119796,21 +119782,29 @@
           "NY-G-H-3-2022-11-08",
           "NY-G-H-20-2022-11-08",
           "NY-G-H-4-2022-11-08",
-          "NY-G-H-6-2022-11-08",
           "NY-G-H-19-2022-11-08",
-          "NY-G-H-10-2022-11-08",
+          "NY-G-H-4-2022-11-08",
+          "NY-G-H-18-2022-11-08",
+          "NY-G-H-18-2022-11-08",
           "NY-G-H-22-2022-11-08",
+          "NY-G-H-2-2022-11-08",
+          "NY-G-H-3-2022-11-08",
+          "NY-G-H-22-2022-11-08",
+          "NY-G-H-6-2022-11-08",
+          "NY-G-H-15-2022-11-08",
+          "NY-G-H-11-2022-11-08",
+          "NY-G-H-7-2022-11-08",
+          "NY-G-H-14-2022-11-08",
+          "NY-G-H-1-2022-11-08",
           "NY-G-G-2022-11-08",
           "NY-G-H-8-2022-11-08",
-          "NY-G-H-15-2022-11-08",
-          "NY-G-H-17-2022-11-08",
-          "NY-G-H-9-2022-11-08",
-          "NY-G-H-4-2022-11-08",
-          "NY-G-H-25-2022-11-08",
-          "NY-G-H-2-2022-11-08",
-          "NY-G-H-11-2022-11-08",
-          "NY-G-H-24-2022-11-08",
           "NY-G-H-13-2022-11-08",
+          "NY-G-H-9-2022-11-08",
+          "NY-G-H-25-2022-11-08",
+          "NY-G-H-10-2022-11-08",
+          "NY-G-H-24-2022-11-08",
+          "NY-G-H-12-2022-11-08",
+          "NY-G-H-3-2022-11-08",
           "NY-G-H-26-2022-11-08"
         ],
         "template": "general-state-page"
@@ -119819,8 +119813,8 @@
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-rhode-island.html",
         "race_ids": [
           "RI-G-H-2-2022-11-08",
-          "RI-G-H-1-2022-11-08",
           "RI-G-H-2-2022-11-08",
+          "RI-G-H-1-2022-11-08",
           "RI-G-H-2-2022-11-08"
         ],
         "template": "general-state-page"
@@ -119828,21 +119822,21 @@
       {
         "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-virginia.html",
         "race_ids": [
-          "VA-G-H-7-2022-11-08",
+          "VA-G-H-2-2022-11-08",
           "VA-G-H-1-2022-11-08",
-          "VA-G-H-6-2022-11-08",
           "VA-G-H-9-2022-11-08",
+          "VA-G-H-8-2022-11-08",
+          "VA-G-H-5-2022-11-08",
+          "VA-G-H-6-2022-11-08",
+          "VA-G-H-10-2022-11-08",
+          "VA-G-H-7-2022-11-08",
           "VA-G-H-7-2022-11-08",
           "VA-G-H-2-2022-11-08",
-          "VA-G-H-11-2022-11-08",
           "VA-G-H-2-2022-11-08",
-          "VA-G-H-8-2022-11-08",
-          "VA-G-H-2-2022-11-08",
-          "VA-G-H-10-2022-11-08",
+          "VA-G-H-3-2022-11-08",
           "VA-G-H-4-2022-11-08",
           "VA-G-H-7-2022-11-08",
-          "VA-G-H-5-2022-11-08",
-          "VA-G-H-3-2022-11-08"
+          "VA-G-H-11-2022-11-08"
         ],
         "template": "general-state-page"
       }
@@ -120797,27 +120791,39 @@
       },
       "race_calls": {
         "race_ids": [
-          "NY-G-H-19-2022-11-08",
-          "WI-G-S-2022-11-08",
-          "WI-G-G-2022-11-08",
-          "WA-G-H-8-2022-11-08",
-          "VA-G-H-7-2022-11-08",
-          "VA-G-H-2-2022-11-08",
-          "UT-G-S-2022-11-08",
-          "TX-G-H-34-2022-11-08",
-          "TX-G-G-2022-11-08",
-          "RI-G-H-2-2022-11-08",
-          "PA-G-S-2022-11-08",
-          "PA-G-H-8-2022-11-08",
-          "PA-G-H-7-2022-11-08",
-          "PA-G-H-17-2022-11-08",
+          "NC-G-H-13-2022-11-08",
+          "NC-G-S-2022-11-08",
           "PA-G-G-2022-11-08",
           "OR-G-G-2022-11-08",
           "OH-G-S-2022-11-08",
+          "PA-G-H-7-2022-11-08",
+          "PA-G-H-8-2022-11-08",
+          "PA-G-S-2022-11-08",
+          "RI-G-H-2-2022-11-08",
+          "TX-G-G-2022-11-08",
+          "TX-G-H-34-2022-11-08",
+          "VA-G-H-2-2022-11-08",
+          "VA-G-H-7-2022-11-08",
+          "WA-G-H-8-2022-11-08",
+          "WI-G-G-2022-11-08",
+          "WI-G-S-2022-11-08",
           "OH-G-H-13-2022-11-08",
           "OH-G-H-1-2022-11-08",
           "NY-G-H-3-2022-11-08",
           "NY-G-H-22-2022-11-08",
+          "NY-G-H-19-2022-11-08",
+          "PA-G-H-17-2022-11-08",
+          "NY-G-H-17-2022-11-08",
+          "NY-G-G-2022-11-08",
+          "NV-G-S-2022-11-08",
+          "NV-G-H-3-2022-11-08",
+          "NV-G-H-1-2022-11-08",
+          "NV-G-secretary_of_state-2022-11-08",
+          "NV-G-G-2022-11-08",
+          "NM-G-H-2-2022-11-08",
+          "NH-G-S-2022-11-08",
+          "NH-G-H-1-2022-11-08",
+          "NE-G-H-2-2022-11-08",
           "AK-G-H-1-2022-11-08",
           "AZ-G-G-2022-11-08",
           "AZ-G-secretary_of_state-2022-11-08",
@@ -120842,20 +120848,7 @@
           "MI-G-G-2022-11-08",
           "MI-G-secretary_of_state-2022-11-08",
           "MI-G-H-7-2022-11-08",
-          "MN-G-H-2-2022-11-08",
-          "NC-G-H-13-2022-11-08",
-          "NC-G-S-2022-11-08",
-          "NE-G-H-2-2022-11-08",
-          "NH-G-H-1-2022-11-08",
-          "NH-G-S-2022-11-08",
-          "NM-G-H-2-2022-11-08",
-          "NV-G-G-2022-11-08",
-          "NV-G-secretary_of_state-2022-11-08",
-          "NV-G-H-1-2022-11-08",
-          "NV-G-H-3-2022-11-08",
-          "NV-G-S-2022-11-08",
-          "NY-G-G-2022-11-08",
-          "NY-G-H-17-2022-11-08"
+          "MN-G-H-2-2022-11-08"
         ],
         "collection_type": "races"
       },
@@ -121305,12 +121298,12 @@
       },
       "voting_rights": {
         "race_ids": [
+          "AZ-I-4231-AZ-2022-11-08",
           "OH-I-37645-OH-2022-11-08",
+          "NV-I-31211-NV-2022-11-08",
           "NE-I-29536-NE-2022-11-08",
           "MI-I-24626-MI-2022-11-08",
-          "AZ-I-4231-AZ-2022-11-08",
-          "CT-I-9199-CT-2022-11-08",
-          "NV-I-31211-NV-2022-11-08"
+          "CT-I-9199-CT-2022-11-08"
         ],
         "collection_type": "races"
       },
@@ -121326,7 +121319,7 @@
       },
       "scoreboard_races": {
         "race_ids": [
-          "WI-G-S-2022-11-08",
+          "PA-G-S-2022-11-08",
           "AZ-G-S-2022-11-08",
           "CA-G-H-13-2022-11-08",
           "CA-G-H-22-2022-11-08",
@@ -121341,7 +121334,7 @@
           "NH-G-S-2022-11-08",
           "NV-G-S-2022-11-08",
           "OH-G-S-2022-11-08",
-          "PA-G-S-2022-11-08"
+          "WI-G-S-2022-11-08"
         ],
         "collection_type": "races"
       },
@@ -121364,37 +121357,37 @@
       },
       "embed_key_house_races": {
         "race_ids": [
+          "NV-G-H-3-2022-11-08",
+          "NY-G-H-18-2022-11-08",
           "SC-D-SS-18-2020-06-09",
-          "CO-G-H-3-2022-11-08",
           "CA-G-H-45-2022-11-08",
+          "CO-G-H-3-2022-11-08",
+          "NV-G-H-1-2022-11-08",
           "CA-G-H-22-2022-11-08",
           "CA-G-H-13-2022-11-08",
-          "AZ-G-H-1-2022-11-08",
-          "NV-G-H-1-2022-11-08",
-          "NV-G-H-3-2022-11-08",
-          "NY-G-H-18-2022-11-08"
+          "AZ-G-H-1-2022-11-08"
         ],
         "collection_type": "races"
       },
       "embed_key_races_table": {
         "race_ids": [
-          "AZ-G-S-2022-11-08",
           "CO-G-H-3-2022-11-08",
-          "GA-G-S-2022-11-08",
           "NV-G-G-2022-11-08",
           "NV-G-S-2022-11-08",
           "WI-G-S-2022-11-08",
-          "AZ-G-G-2022-11-08"
+          "AZ-G-G-2022-11-08",
+          "AZ-G-S-2022-11-08",
+          "GA-G-S-2022-11-08"
         ],
         "collection_type": "races"
       },
       "embed_key_senate_races": {
         "race_ids": [
-          "WI-G-S-2022-11-08",
+          "NV-G-S-2022-11-08",
           "AZ-G-S-2022-11-08",
           "OH-G-S-2022-11-08",
           "PA-G-S-2022-11-08",
-          "NV-G-S-2022-11-08",
+          "WI-G-S-2022-11-08",
           "NH-G-S-2022-11-08",
           "NC-G-S-2022-11-08",
           "GA-G-S-2022-11-08",
@@ -121404,12 +121397,12 @@
       },
       "marijuana_legalization": {
         "race_ids": [
-          "AR-I-6891-AR-2022-11-08",
-          "MD-I-22916-MD-2022-11-08",
+          "CO-I-7749-CO-2022-11-08",
           "MO-I-27543-MO-2022-11-08",
           "ND-I-35923-ND-2022-11-08",
           "SD-I-42582-SD-2022-11-08",
-          "CO-I-7749-CO-2022-11-08"
+          "AR-I-6891-AR-2022-11-08",
+          "MD-I-22916-MD-2022-11-08"
         ],
         "collection_type": "races"
       },
@@ -121485,7 +121478,7 @@
   },
   "resultsMeta": {
     "docsUpdatedAt": "2022-11-09T09:03:24.208Z",
-    "resultsUpdatedAt": "2022-11-16T03:08:13.363Z"
+    "resultsUpdatedAt": "2022-11-16T03:52:14.751Z"
   },
   "raceCollections": {
     "scoreboard_races": [
@@ -121810,7 +121803,7 @@
         "coverage": "multi-county",
         "certified": false,
         "office_id": "H",
-        "updated_at": "2022-11-16T02:50:28.760Z",
+        "updated_at": "2022-11-16T03:00:46.694Z",
         "max_winners": 1,
         "race_titles": {
           "location": null,
@@ -121942,7 +121935,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 449,
-          "provider_updated_at": "2022-11-16T02:50:28.76+00:00",
+          "provider_updated_at": "2022-11-16T03:00:46.694+00:00",
           "total_expected_vote": 322064
         },
         "nyt_voteshare_estimate": {
@@ -122031,17 +122024,23 @@
         "office": "U.S. House",
         "rating": "lean-dem",
         "outcome": {
-          "won": [],
+          "won": [
+            "harder-j"
+          ],
           "gained": null,
-          "called_by": [],
+          "called_by": [
+            "ap"
+          ],
           "advanced_to_runoff": [],
           "runoff_accepted_at": [],
-          "winner_accepted_at": []
+          "winner_accepted_at": [
+            "2022-11-16T03:14:14.835366+00:00"
+          ]
         },
         "coverage": "multi-county",
         "certified": false,
         "office_id": "H",
-        "updated_at": "2022-11-16T02:50:28.657Z",
+        "updated_at": "2022-11-16T03:26:50.370Z",
         "max_winners": 1,
         "rcv_nyt_ids": null,
         "seat_number": "9",
@@ -122051,7 +122050,7 @@
         "has_incumbent": true,
         "reporting_units": [
           {
-            "eevp": 79.17,
+            "eevp": 79.15,
             "name": "California",
             "level": "state",
             "nyt_id": "CA-state",
@@ -122088,7 +122087,7 @@
               "total_expected_vote": null
             },
             "precincts_reporting": 311,
-            "total_expected_vote": 168182
+            "total_expected_vote": 168228
           }
         ],
         "candidate_metadata": {
@@ -122127,7 +122126,7 @@
         },
         "show_precinct_data": null,
         "top_reporting_unit": {
-          "eevp": 79.17,
+          "eevp": 79.15,
           "name": "California",
           "level": "state",
           "nyt_id": "CA-state",
@@ -122165,8 +122164,8 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 311,
-          "provider_updated_at": "2022-11-16T02:50:28.657+00:00",
-          "total_expected_vote": 168182
+          "provider_updated_at": "2022-11-16T03:26:50.37+00:00",
+          "total_expected_vote": 168228
         },
         "nyt_voteshare_estimate": {
           "votes": {
@@ -122264,7 +122263,7 @@
         "coverage": "multi-county",
         "certified": false,
         "office_id": "H",
-        "updated_at": "2022-11-16T02:52:31.065Z",
+        "updated_at": "2022-11-16T03:26:50.545Z",
         "max_winners": 1,
         "race_titles": {
           "location": null,
@@ -122282,7 +122281,7 @@
         "has_incumbent": false,
         "reporting_units": [
           {
-            "eevp": 85.78,
+            "eevp": 85.6,
             "name": "California",
             "level": "state",
             "nyt_id": "CA-state",
@@ -122319,7 +122318,7 @@
               "total_expected_vote": null
             },
             "precincts_reporting": 425,
-            "total_expected_vote": 131083
+            "total_expected_vote": 131356
           }
         ],
         "candidate_metadata": {
@@ -122358,7 +122357,7 @@
         },
         "show_precinct_data": null,
         "top_reporting_unit": {
-          "eevp": 85.78,
+          "eevp": 85.6,
           "name": "California",
           "level": "state",
           "nyt_id": "CA-state",
@@ -122396,8 +122395,8 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 425,
-          "provider_updated_at": "2022-11-16T02:52:31.065+00:00",
-          "total_expected_vote": 131083
+          "provider_updated_at": "2022-11-16T03:26:50.545+00:00",
+          "total_expected_vote": 131356
         },
         "nyt_voteshare_estimate": {
           "votes": {
@@ -124018,7 +124017,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "S",
-        "updated_at": "2022-11-16T00:46:46.044Z",
+        "updated_at": "2022-11-16T03:43:56.264Z",
         "max_winners": 1,
         "race_titles": {
           "location": null,
@@ -124278,7 +124277,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 1673,
-          "provider_updated_at": "2022-11-16T00:46:46.044+00:00",
+          "provider_updated_at": "2022-11-16T03:43:56.264+00:00",
           "total_expected_vote": 1019912
         },
         "nyt_voteshare_estimate": {
@@ -124704,7 +124703,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "S",
-        "updated_at": "2022-11-16T03:00:17.097Z",
+        "updated_at": "2022-11-16T03:52:10.924Z",
         "max_winners": 1,
         "race_titles": {
           "location": null,
@@ -124908,7 +124907,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 2655,
-          "provider_updated_at": "2022-11-16T03:00:17.097+00:00",
+          "provider_updated_at": "2022-11-16T03:52:10.924+00:00",
           "total_expected_vote": 3764680
         },
         "nyt_voteshare_estimate": {
@@ -126820,9 +126819,9 @@
         "open_seats": 435,
         "party_balance": {
           "DEM": {
-            "gains": -12,
+            "gains": -11,
             "party": "Democrat",
-            "seats": 208,
+            "seats": 209,
             "votes": 0,
             "winner": false,
             "percent": 0,
@@ -126858,7 +126857,7 @@
           "GOP": 212,
           "OTH": 0
         },
-        "num_races_called": 424,
+        "num_races_called": 425,
         "incumbent_party_id": "DEM"
       },
       "S": {
