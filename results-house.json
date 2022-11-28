@@ -24,7 +24,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-28T19:46:10.874Z",
       "max_winners": 1,
@@ -36,7 +36,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.45,
+          "eevp": 100,
           "name": "Alabama",
           "level": "state",
           "nyt_id": "AL-state",
@@ -45,7 +45,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 139854
+                "total": 140592
               },
               "leader": true,
               "nyt_id": "carl-j",
@@ -53,7 +53,7 @@
             },
             {
               "votes": {
-                "total": 26197
+                "total": 26369
               },
               "leader": false,
               "nyt_id": "remrey-a",
@@ -63,7 +63,7 @@
           "fips_state": "01",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 166051,
+          "total_votes": 166961,
           "state_postal": "AL",
           "precincts_total": 193,
           "nyt_vote_estimate": {
@@ -112,7 +112,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.45,
+        "eevp": 100,
         "name": "Alabama",
         "level": "state",
         "nyt_id": "AL-state",
@@ -122,7 +122,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 139854
+              "total": 140592
             },
             "leader": true,
             "nyt_id": "carl-j",
@@ -130,7 +130,7 @@
           },
           {
             "votes": {
-              "total": 26197
+              "total": 26369
             },
             "leader": false,
             "nyt_id": "remrey-a",
@@ -140,7 +140,7 @@
         "fips_state": "01",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 166051,
+        "total_votes": 166961,
         "state_postal": "AL",
         "precincts_total": 193,
         "nyt_vote_estimate": {
@@ -259,7 +259,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-28T19:46:56.138Z",
       "max_winners": 1,
@@ -271,7 +271,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.75,
+          "eevp": 100,
           "name": "Alabama",
           "level": "state",
           "nyt_id": "AL-state",
@@ -280,7 +280,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 137193
+                "total": 137460
               },
               "leader": true,
               "nyt_id": "moore-b",
@@ -288,7 +288,7 @@
             },
             {
               "votes": {
-                "total": 57800
+                "total": 58014
               },
               "leader": false,
               "nyt_id": "harveyhall-p",
@@ -296,7 +296,7 @@
             },
             {
               "votes": {
-                "total": 3380
+                "total": 3396
               },
               "leader": false,
               "nyt_id": "realz-j",
@@ -306,7 +306,7 @@
           "fips_state": "01",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 198373,
+          "total_votes": 198870,
           "state_postal": "AL",
           "precincts_total": 356,
           "nyt_vote_estimate": {
@@ -371,7 +371,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.75,
+        "eevp": 100,
         "name": "Alabama",
         "level": "state",
         "nyt_id": "AL-state",
@@ -381,7 +381,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 137193
+              "total": 137460
             },
             "leader": true,
             "nyt_id": "moore-b",
@@ -389,7 +389,7 @@
           },
           {
             "votes": {
-              "total": 57800
+              "total": 58014
             },
             "leader": false,
             "nyt_id": "harveyhall-p",
@@ -397,7 +397,7 @@
           },
           {
             "votes": {
-              "total": 3380
+              "total": 3396
             },
             "leader": false,
             "nyt_id": "realz-j",
@@ -407,7 +407,7 @@
         "fips_state": "01",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 198373,
+        "total_votes": 198870,
         "state_postal": "AL",
         "precincts_total": 356,
         "nyt_vote_estimate": {
@@ -552,7 +552,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-28T19:47:02.689Z",
       "max_winners": 1,
@@ -564,7 +564,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.87,
+          "eevp": 100,
           "name": "Alabama",
           "level": "state",
           "nyt_id": "AL-state",
@@ -573,7 +573,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 135448
+                "total": 135602
               },
               "leader": true,
               "nyt_id": "rogers-m",
@@ -581,7 +581,7 @@
             },
             {
               "votes": {
-                "total": 47770
+                "total": 47859
               },
               "leader": false,
               "nyt_id": "veasey-k",
@@ -589,7 +589,7 @@
             },
             {
               "votes": {
-                "total": 3826
+                "total": 3831
               },
               "leader": false,
               "nyt_id": "bell-d",
@@ -597,7 +597,7 @@
             },
             {
               "votes": {
-                "total": 3027
+                "total": 3034
               },
               "leader": false,
               "nyt_id": "casson-t",
@@ -607,7 +607,7 @@
           "fips_state": "01",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 190071,
+          "total_votes": 190326,
           "state_postal": "AL",
           "precincts_total": 282,
           "nyt_vote_estimate": {
@@ -688,7 +688,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.87,
+        "eevp": 100,
         "name": "Alabama",
         "level": "state",
         "nyt_id": "AL-state",
@@ -698,7 +698,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 135448
+              "total": 135602
             },
             "leader": true,
             "nyt_id": "rogers-m",
@@ -706,7 +706,7 @@
           },
           {
             "votes": {
-              "total": 47770
+              "total": 47859
             },
             "leader": false,
             "nyt_id": "veasey-k",
@@ -714,7 +714,7 @@
           },
           {
             "votes": {
-              "total": 3826
+              "total": 3831
             },
             "leader": false,
             "nyt_id": "bell-d",
@@ -722,7 +722,7 @@
           },
           {
             "votes": {
-              "total": 3027
+              "total": 3034
             },
             "leader": false,
             "nyt_id": "casson-t",
@@ -732,7 +732,7 @@
         "fips_state": "01",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 190071,
+        "total_votes": 190326,
         "state_postal": "AL",
         "precincts_total": 282,
         "nyt_vote_estimate": {
@@ -877,7 +877,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-28T19:46:17.832Z",
       "max_winners": 1,
@@ -889,7 +889,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.82,
+          "eevp": 100,
           "name": "Alabama",
           "level": "state",
           "nyt_id": "AL-state",
@@ -898,7 +898,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 164371
+                "total": 164655
               },
               "leader": true,
               "nyt_id": "aderholt-r",
@@ -906,7 +906,7 @@
             },
             {
               "votes": {
-                "total": 26628
+                "total": 26694
               },
               "leader": false,
               "nyt_id": "neighbors-r",
@@ -914,7 +914,7 @@
             },
             {
               "votes": {
-                "total": 4294
+                "total": 4303
               },
               "leader": false,
               "nyt_id": "cochran-j",
@@ -924,7 +924,7 @@
           "fips_state": "01",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 195293,
+          "total_votes": 195652,
           "state_postal": "AL",
           "precincts_total": 408,
           "nyt_vote_estimate": {
@@ -989,7 +989,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.82,
+        "eevp": 100,
         "name": "Alabama",
         "level": "state",
         "nyt_id": "AL-state",
@@ -999,7 +999,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 164371
+              "total": 164655
             },
             "leader": true,
             "nyt_id": "aderholt-r",
@@ -1007,7 +1007,7 @@
           },
           {
             "votes": {
-              "total": 26628
+              "total": 26694
             },
             "leader": false,
             "nyt_id": "neighbors-r",
@@ -1015,7 +1015,7 @@
           },
           {
             "votes": {
-              "total": 4294
+              "total": 4303
             },
             "leader": false,
             "nyt_id": "cochran-j",
@@ -1025,7 +1025,7 @@
         "fips_state": "01",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 195293,
+        "total_votes": 195652,
         "state_postal": "AL",
         "precincts_total": 408,
         "nyt_vote_estimate": {
@@ -1170,7 +1170,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-28T19:47:05.085Z",
       "max_winners": 1,
@@ -1182,7 +1182,7 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 99.64,
+          "eevp": 100,
           "name": "Alabama",
           "level": "state",
           "nyt_id": "AL-state",
@@ -1191,7 +1191,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 141988
+                "total": 142435
               },
               "leader": true,
               "nyt_id": "strong-d",
@@ -1199,7 +1199,7 @@
             },
             {
               "votes": {
-                "total": 62466
+                "total": 62740
               },
               "leader": false,
               "nyt_id": "warnerstanton-k",
@@ -1207,7 +1207,7 @@
             },
             {
               "votes": {
-                "total": 6740
+                "total": 6773
               },
               "leader": false,
               "nyt_id": "greer-p",
@@ -1217,7 +1217,7 @@
           "fips_state": "01",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 211194,
+          "total_votes": 211948,
           "state_postal": "AL",
           "precincts_total": 185,
           "nyt_vote_estimate": {
@@ -1282,7 +1282,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.64,
+        "eevp": 100,
         "name": "Alabama",
         "level": "state",
         "nyt_id": "AL-state",
@@ -1292,7 +1292,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 141988
+              "total": 142435
             },
             "leader": true,
             "nyt_id": "strong-d",
@@ -1300,7 +1300,7 @@
           },
           {
             "votes": {
-              "total": 62466
+              "total": 62740
             },
             "leader": false,
             "nyt_id": "warnerstanton-k",
@@ -1308,7 +1308,7 @@
           },
           {
             "votes": {
-              "total": 6740
+              "total": 6773
             },
             "leader": false,
             "nyt_id": "greer-p",
@@ -1318,7 +1318,7 @@
         "fips_state": "01",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 211194,
+        "total_votes": 211948,
         "state_postal": "AL",
         "precincts_total": 185,
         "nyt_vote_estimate": {
@@ -1463,7 +1463,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-28T19:47:07.623Z",
       "max_winners": 1,
@@ -1475,7 +1475,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.88,
+          "eevp": 100,
           "name": "Alabama",
           "level": "state",
           "nyt_id": "AL-state",
@@ -1484,7 +1484,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 154058
+                "total": 154233
               },
               "leader": true,
               "nyt_id": "palmer-g",
@@ -1492,7 +1492,7 @@
             },
             {
               "votes": {
-                "total": 27792
+                "total": 27833
               },
               "leader": false,
               "nyt_id": "chieffo-a",
@@ -1502,7 +1502,7 @@
           "fips_state": "01",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 181850,
+          "total_votes": 182066,
           "state_postal": "AL",
           "precincts_total": 164,
           "nyt_vote_estimate": {
@@ -1551,7 +1551,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.88,
+        "eevp": 100,
         "name": "Alabama",
         "level": "state",
         "nyt_id": "AL-state",
@@ -1561,7 +1561,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 154058
+              "total": 154233
             },
             "leader": true,
             "nyt_id": "palmer-g",
@@ -1569,7 +1569,7 @@
           },
           {
             "votes": {
-              "total": 27792
+              "total": 27833
             },
             "leader": false,
             "nyt_id": "chieffo-a",
@@ -1579,7 +1579,7 @@
         "fips_state": "01",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 181850,
+        "total_votes": 182066,
         "state_postal": "AL",
         "precincts_total": 164,
         "nyt_vote_estimate": {
@@ -1698,7 +1698,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-28T19:47:14.378Z",
       "max_winners": 1,
@@ -1710,7 +1710,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.88,
+          "eevp": 100,
           "name": "Alabama",
           "level": "state",
           "nyt_id": "AL-state",
@@ -1719,7 +1719,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 123060
+                "total": 123233
               },
               "leader": true,
               "nyt_id": "sewell-t",
@@ -1727,7 +1727,7 @@
             },
             {
               "votes": {
-                "total": 67353
+                "total": 67416
               },
               "leader": false,
               "nyt_id": "nichols-b",
@@ -1735,7 +1735,7 @@
             },
             {
               "votes": {
-                "total": 3207
+                "total": 3212
               },
               "leader": false,
               "nyt_id": "goodman-g",
@@ -1745,7 +1745,7 @@
           "fips_state": "01",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 193620,
+          "total_votes": 193861,
           "state_postal": "AL",
           "precincts_total": 351,
           "nyt_vote_estimate": {
@@ -1810,7 +1810,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.88,
+        "eevp": 100,
         "name": "Alabama",
         "level": "state",
         "nyt_id": "AL-state",
@@ -1820,7 +1820,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 123060
+              "total": 123233
             },
             "leader": true,
             "nyt_id": "sewell-t",
@@ -1828,7 +1828,7 @@
           },
           {
             "votes": {
-              "total": 67353
+              "total": 67416
             },
             "leader": false,
             "nyt_id": "nichols-b",
@@ -1836,7 +1836,7 @@
           },
           {
             "votes": {
-              "total": 3207
+              "total": 3212
             },
             "leader": false,
             "nyt_id": "goodman-g",
@@ -1846,7 +1846,7 @@
         "fips_state": "01",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 193620,
+        "total_votes": 193861,
         "state_postal": "AL",
         "precincts_total": 351,
         "nyt_vote_estimate": {
@@ -45439,7 +45439,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:09:04.255Z",
+      "updated_at": "2022-11-28T21:06:03.870Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -45595,7 +45595,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 307,
-        "provider_updated_at": "2022-11-28T20:09:04.255+00:00",
+        "provider_updated_at": "2022-11-28T21:06:03.87+00:00",
         "total_expected_vote": 296069
       },
       "historical_2020_pres": {
@@ -46437,7 +46437,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:09:05.301Z",
+      "updated_at": "2022-11-28T20:58:04.406Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "5",
@@ -46561,7 +46561,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 248,
-        "provider_updated_at": "2022-11-28T20:09:05.301+00:00",
+        "provider_updated_at": "2022-11-28T20:58:04.406+00:00",
         "total_expected_vote": 279170
       },
       "historical_2020_pres": {
@@ -46672,7 +46672,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:08:01.623Z",
+      "updated_at": "2022-11-28T21:06:02.889Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -46804,7 +46804,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 245,
-        "provider_updated_at": "2022-11-28T20:08:01.623+00:00",
+        "provider_updated_at": "2022-11-28T21:06:02.889+00:00",
         "total_expected_vote": 258653
       },
       "historical_2020_pres": {
@@ -47150,7 +47150,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:01:05.052Z",
+      "updated_at": "2022-11-28T21:05:03.751Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "8",
@@ -47306,7 +47306,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 197,
-        "provider_updated_at": "2022-11-28T20:01:05.052+00:00",
+        "provider_updated_at": "2022-11-28T21:05:03.751+00:00",
         "total_expected_vote": 266597
       },
       "historical_2020_pres": {
@@ -49558,7 +49558,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-14T21:29:02.090Z",
+      "updated_at": "2022-11-28T20:51:05.368Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -49568,11 +49568,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 98.97,
+          "eevp": 99.5,
           "name": "Michigan",
           "level": "state",
           "nyt_id": "MI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mich.",
           "candidates": [
             {
@@ -49621,7 +49621,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 561,
-          "total_expected_vote": 390677
+          "total_expected_vote": 388599
         }
       ],
       "candidate_metadata": {
@@ -49692,11 +49692,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 98.97,
+        "eevp": 99.5,
         "name": "Michigan",
         "level": "state",
         "nyt_id": "MI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mich.",
         "candidates": [
@@ -49746,8 +49746,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 561,
-        "provider_updated_at": "2022-11-14T21:29:02.09+00:00",
-        "total_expected_vote": 390677
+        "provider_updated_at": "2022-11-28T20:51:05.368+00:00",
+        "total_expected_vote": 388599
       },
       "historical_2020_pres": {
         "votes": 464957,
@@ -49883,7 +49883,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-14T21:29:02.233Z",
+      "updated_at": "2022-11-28T20:51:04.904Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "2",
@@ -49893,11 +49893,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 98.99,
+          "eevp": 99.44,
           "name": "Michigan",
           "level": "state",
           "nyt_id": "MI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mich.",
           "candidates": [
             {
@@ -49938,7 +49938,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 400,
-          "total_expected_vote": 341056
+          "total_expected_vote": 339521
         }
       ],
       "candidate_metadata": {
@@ -49993,11 +49993,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 98.99,
+        "eevp": 99.44,
         "name": "Michigan",
         "level": "state",
         "nyt_id": "MI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mich.",
         "candidates": [
@@ -50039,8 +50039,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 400,
-        "provider_updated_at": "2022-11-14T21:29:02.233+00:00",
-        "total_expected_vote": 341056
+        "provider_updated_at": "2022-11-28T20:51:04.904+00:00",
+        "total_expected_vote": 339521
       },
       "historical_2020_pres": {
         "votes": 414555,
@@ -50176,7 +50176,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-14T17:22:15.040Z",
+      "updated_at": "2022-11-28T20:51:03.968Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -50194,11 +50194,11 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Michigan",
           "level": "state",
           "nyt_id": "MI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mich.",
           "candidates": [
             {
@@ -50247,7 +50247,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 297,
-          "total_expected_vote": 342767
+          "total_expected_vote": 338988
         }
       ],
       "candidate_metadata": {
@@ -50318,11 +50318,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "Michigan",
         "level": "state",
         "nyt_id": "MI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mich.",
         "candidates": [
@@ -50372,8 +50372,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 297,
-        "provider_updated_at": "2022-11-14T17:22:15.04+00:00",
-        "total_expected_vote": 342767
+        "provider_updated_at": "2022-11-28T20:51:03.968+00:00",
+        "total_expected_vote": 338988
       },
       "historical_2020_pres": {
         "votes": 417227,
@@ -50509,7 +50509,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-14T17:22:15.105Z",
+      "updated_at": "2022-11-28T20:51:04.471Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "4",
@@ -50519,11 +50519,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Michigan",
           "level": "state",
           "nyt_id": "MI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mich.",
           "candidates": [
             {
@@ -50572,7 +50572,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 311,
-          "total_expected_vote": 345054
+          "total_expected_vote": 338348
         }
       ],
       "candidate_metadata": {
@@ -50643,11 +50643,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "Michigan",
         "level": "state",
         "nyt_id": "MI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mich.",
         "candidates": [
@@ -50697,8 +50697,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 311,
-        "provider_updated_at": "2022-11-14T17:22:15.105+00:00",
-        "total_expected_vote": 345054
+        "provider_updated_at": "2022-11-28T20:51:04.471+00:00",
+        "total_expected_vote": 338348
       },
       "historical_2020_pres": {
         "votes": 417433,
@@ -50834,7 +50834,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-14T19:36:25.802Z",
+      "updated_at": "2022-11-28T20:51:04.262Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "5",
@@ -50844,11 +50844,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 99.05,
           "name": "Michigan",
           "level": "state",
           "nyt_id": "MI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mich.",
           "candidates": [
             {
@@ -50897,7 +50897,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 329,
-          "total_expected_vote": 317425
+          "total_expected_vote": 317257
         }
       ],
       "candidate_metadata": {
@@ -50968,11 +50968,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 99.05,
         "name": "Michigan",
         "level": "state",
         "nyt_id": "MI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mich.",
         "candidates": [
@@ -51022,8 +51022,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 329,
-        "provider_updated_at": "2022-11-14T19:36:25.802+00:00",
-        "total_expected_vote": 317425
+        "provider_updated_at": "2022-11-28T20:51:04.262+00:00",
+        "total_expected_vote": 317257
       },
       "historical_2020_pres": {
         "votes": 405907,
@@ -51159,7 +51159,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-14T20:26:41.847Z",
+      "updated_at": "2022-11-28T20:51:04.738Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "6",
@@ -51169,11 +51169,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Michigan",
           "level": "state",
           "nyt_id": "MI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mich.",
           "candidates": [
             {
@@ -51208,7 +51208,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 303,
-          "total_expected_vote": 370638
+          "total_expected_vote": 366926
         }
       ],
       "candidate_metadata": {
@@ -51247,11 +51247,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "Michigan",
         "level": "state",
         "nyt_id": "MI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mich.",
         "candidates": [
@@ -51287,8 +51287,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 303,
-        "provider_updated_at": "2022-11-14T20:26:41.847+00:00",
-        "total_expected_vote": 370638
+        "provider_updated_at": "2022-11-28T20:51:04.738+00:00",
+        "total_expected_vote": 366926
       },
       "historical_2020_pres": {
         "votes": 456315,
@@ -51398,7 +51398,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-11T18:58:34.608Z",
+      "updated_at": "2022-11-28T20:51:04.445Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -51416,11 +51416,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Michigan",
           "level": "state",
           "nyt_id": "MI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mich.",
           "candidates": [
             {
@@ -51461,7 +51461,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 328,
-          "total_expected_vote": 376488
+          "total_expected_vote": 372708
         }
       ],
       "candidate_metadata": {
@@ -51516,11 +51516,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "Michigan",
         "level": "state",
         "nyt_id": "MI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mich.",
         "candidates": [
@@ -51562,8 +51562,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 328,
-        "provider_updated_at": "2022-11-11T18:58:34.608+00:00",
-        "total_expected_vote": 376488
+        "provider_updated_at": "2022-11-28T20:51:04.445+00:00",
+        "total_expected_vote": 372708
       },
       "historical_2020_pres": {
         "votes": 448503,
@@ -51699,7 +51699,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-14T21:29:02.510Z",
+      "updated_at": "2022-11-28T20:51:04.495Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -51717,11 +51717,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Michigan",
           "level": "state",
           "nyt_id": "MI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mich.",
           "candidates": [
             {
@@ -51770,7 +51770,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 373,
-          "total_expected_vote": 339170
+          "total_expected_vote": 335829
         }
       ],
       "candidate_metadata": {
@@ -51841,11 +51841,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "Michigan",
         "level": "state",
         "nyt_id": "MI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mich.",
         "candidates": [
@@ -51895,8 +51895,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 373,
-        "provider_updated_at": "2022-11-14T21:29:02.51+00:00",
-        "total_expected_vote": 339170
+        "provider_updated_at": "2022-11-28T20:51:04.495+00:00",
+        "total_expected_vote": 335829
       },
       "historical_2020_pres": {
         "votes": 428794,
@@ -52032,7 +52032,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-11T12:11:20.500Z",
+      "updated_at": "2022-11-28T20:51:04.465Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "9",
@@ -52042,11 +52042,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 99.99,
           "name": "Michigan",
           "level": "state",
           "nyt_id": "MI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mich.",
           "candidates": [
             {
@@ -52095,7 +52095,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 346,
-          "total_expected_vote": 376667
+          "total_expected_vote": 372922
         }
       ],
       "candidate_metadata": {
@@ -52166,11 +52166,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 99.99,
         "name": "Michigan",
         "level": "state",
         "nyt_id": "MI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mich.",
         "candidates": [
@@ -52220,8 +52220,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 346,
-        "provider_updated_at": "2022-11-11T12:11:20.5+00:00",
-        "total_expected_vote": 376667
+        "provider_updated_at": "2022-11-28T20:51:04.465+00:00",
+        "total_expected_vote": 372922
       },
       "historical_2020_pres": {
         "votes": 463720,
@@ -52357,7 +52357,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-11T12:11:20.399Z",
+      "updated_at": "2022-11-28T20:51:03.348Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "10",
@@ -52367,11 +52367,11 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Michigan",
           "level": "state",
           "nyt_id": "MI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mich.",
           "candidates": [
             {
@@ -52420,7 +52420,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 301,
-          "total_expected_vote": 329529
+          "total_expected_vote": 326233
         }
       ],
       "candidate_metadata": {
@@ -52491,11 +52491,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "Michigan",
         "level": "state",
         "nyt_id": "MI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mich.",
         "candidates": [
@@ -52545,8 +52545,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 301,
-        "provider_updated_at": "2022-11-11T12:11:20.399+00:00",
-        "total_expected_vote": 329529
+        "provider_updated_at": "2022-11-28T20:51:03.348+00:00",
+        "total_expected_vote": 326233
       },
       "historical_2020_pres": {
         "votes": 430086,
@@ -52682,7 +52682,7 @@
       "coverage": "county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-11T12:11:20.422Z",
+      "updated_at": "2022-11-28T20:51:03.203Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "11",
@@ -52692,11 +52692,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 99.79,
           "name": "Michigan",
           "level": "state",
           "nyt_id": "MI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mich.",
           "candidates": [
             {
@@ -52729,7 +52729,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 299,
-          "total_expected_vote": 369083
+          "total_expected_vote": 366179
         }
       ],
       "candidate_metadata": {
@@ -52768,11 +52768,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 99.79,
         "name": "Michigan",
         "level": "state",
         "nyt_id": "MI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mich.",
         "candidates": [
@@ -52806,8 +52806,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 299,
-        "provider_updated_at": "2022-11-11T12:11:20.422+00:00",
-        "total_expected_vote": 369083
+        "provider_updated_at": "2022-11-28T20:51:03.203+00:00",
+        "total_expected_vote": 366179
       },
       "historical_2020_pres": {
         "votes": 462740,
@@ -52917,7 +52917,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-14T20:26:42.479Z",
+      "updated_at": "2022-11-28T20:51:04.721Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "12",
@@ -52927,11 +52927,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 99.99,
           "name": "Michigan",
           "level": "state",
           "nyt_id": "MI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mich.",
           "candidates": [
             {
@@ -52975,7 +52975,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 410,
-          "total_expected_vote": 280339
+          "total_expected_vote": 277577
         }
       ],
       "candidate_metadata": {
@@ -53030,11 +53030,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 99.99,
         "name": "Michigan",
         "level": "state",
         "nyt_id": "MI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mich.",
         "candidates": [
@@ -53079,8 +53079,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 410,
-        "provider_updated_at": "2022-11-14T20:26:42.479+00:00",
-        "total_expected_vote": 280339
+        "provider_updated_at": "2022-11-28T20:51:04.721+00:00",
+        "total_expected_vote": 277577
       },
       "historical_2020_pres": {
         "votes": 387371,
@@ -53216,7 +53216,7 @@
       "coverage": "county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-14T20:26:41.546Z",
+      "updated_at": "2022-11-28T20:51:04.736Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "13",
@@ -53226,11 +53226,11 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 99.76,
           "name": "Michigan",
           "level": "state",
           "nyt_id": "MI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mich.",
           "candidates": [
             {
@@ -53283,7 +53283,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 430,
-          "total_expected_vote": 236251
+          "total_expected_vote": 234439
         }
       ],
       "candidate_metadata": {
@@ -53354,11 +53354,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 99.76,
         "name": "Michigan",
         "level": "state",
         "nyt_id": "MI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mich.",
         "candidates": [
@@ -53412,8 +53412,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 430,
-        "provider_updated_at": "2022-11-14T20:26:41.546+00:00",
-        "total_expected_vote": 236251
+        "provider_updated_at": "2022-11-28T20:51:04.736+00:00",
+        "total_expected_vote": 234439
       },
       "historical_2020_pres": {
         "votes": 340599,
@@ -61930,7 +61930,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-23T19:43:35.256Z",
+      "updated_at": "2022-11-28T20:59:20.968Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -61949,7 +61949,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 139487
+                "total": 139559
               },
               "leader": true,
               "nyt_id": "norcross-d",
@@ -61957,7 +61957,7 @@
             },
             {
               "votes": {
-                "total": 78754
+                "total": 78794
               },
               "leader": false,
               "nyt_id": "gustafson-c",
@@ -61965,7 +61965,7 @@
             },
             {
               "votes": {
-                "total": 3342
+                "total": 3343
               },
               "leader": false,
               "nyt_id": "kline-p",
@@ -61991,7 +61991,7 @@
           "fips_state": "34",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 223771,
+          "total_votes": 223884,
           "state_postal": "NJ",
           "precincts_total": 541,
           "nyt_vote_estimate": {
@@ -62001,7 +62001,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 541,
-          "total_expected_vote": 224297
+          "total_expected_vote": 224107
         }
       ],
       "candidate_metadata": {
@@ -62098,7 +62098,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 139487
+              "total": 139559
             },
             "leader": true,
             "nyt_id": "norcross-d",
@@ -62106,7 +62106,7 @@
           },
           {
             "votes": {
-              "total": 78754
+              "total": 78794
             },
             "leader": false,
             "nyt_id": "gustafson-c",
@@ -62114,7 +62114,7 @@
           },
           {
             "votes": {
-              "total": 3342
+              "total": 3343
             },
             "leader": false,
             "nyt_id": "kline-p",
@@ -62140,7 +62140,7 @@
         "fips_state": "34",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 223771,
+        "total_votes": 223884,
         "state_postal": "NJ",
         "precincts_total": 541,
         "nyt_vote_estimate": {
@@ -62150,8 +62150,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 541,
-        "provider_updated_at": "2022-11-23T19:43:35.256+00:00",
-        "total_expected_vote": 224297
+        "provider_updated_at": "2022-11-28T20:59:20.968+00:00",
+        "total_expected_vote": 224107
       },
       "historical_2020_pres": {
         "votes": 402228,
@@ -62287,7 +62287,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-21T21:04:11.042Z",
+      "updated_at": "2022-11-28T21:08:18.839Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "2",
@@ -62306,7 +62306,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 137584
+                "total": 138784
               },
               "leader": true,
               "nyt_id": "van_drew-j",
@@ -62314,7 +62314,7 @@
             },
             {
               "votes": {
-                "total": 92368
+                "total": 94025
               },
               "leader": false,
               "nyt_id": "alexander-t",
@@ -62322,7 +62322,7 @@
             },
             {
               "votes": {
-                "total": 1786
+                "total": 1811
               },
               "leader": false,
               "nyt_id": "gallo-m",
@@ -62330,7 +62330,7 @@
             },
             {
               "votes": {
-                "total": 901
+                "total": 916
               },
               "leader": false,
               "nyt_id": "sanchez-a",
@@ -62340,7 +62340,7 @@
           "fips_state": "34",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 232639,
+          "total_votes": 235536,
           "state_postal": "NJ",
           "precincts_total": 551,
           "nyt_vote_estimate": {
@@ -62350,7 +62350,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 551,
-          "total_expected_vote": 238769
+          "total_expected_vote": 237674
         }
       ],
       "candidate_metadata": {
@@ -62431,7 +62431,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 137584
+              "total": 138784
             },
             "leader": true,
             "nyt_id": "van_drew-j",
@@ -62439,7 +62439,7 @@
           },
           {
             "votes": {
-              "total": 92368
+              "total": 94025
             },
             "leader": false,
             "nyt_id": "alexander-t",
@@ -62447,7 +62447,7 @@
           },
           {
             "votes": {
-              "total": 1786
+              "total": 1811
             },
             "leader": false,
             "nyt_id": "gallo-m",
@@ -62455,7 +62455,7 @@
           },
           {
             "votes": {
-              "total": 901
+              "total": 916
             },
             "leader": false,
             "nyt_id": "sanchez-a",
@@ -62465,7 +62465,7 @@
         "fips_state": "34",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 232639,
+        "total_votes": 235536,
         "state_postal": "NJ",
         "precincts_total": 551,
         "nyt_vote_estimate": {
@@ -62475,8 +62475,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 551,
-        "provider_updated_at": "2022-11-21T21:04:11.042+00:00",
-        "total_expected_vote": 238769
+        "provider_updated_at": "2022-11-28T21:08:18.839+00:00",
+        "total_expected_vote": 237674
       },
       "historical_2020_pres": {
         "votes": 412074,
@@ -62612,7 +62612,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-23T19:25:26.142Z",
+      "updated_at": "2022-11-28T21:01:56.260Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "3",
@@ -62631,7 +62631,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 131760
+                "total": 150497
               },
               "leader": true,
               "nyt_id": "kim-a",
@@ -62639,7 +62639,7 @@
             },
             {
               "votes": {
-                "total": 101806
+                "total": 118413
               },
               "leader": false,
               "nyt_id": "healey-b",
@@ -62647,7 +62647,7 @@
             },
             {
               "votes": {
-                "total": 1103
+                "total": 1347
               },
               "leader": false,
               "nyt_id": "russomanno-c",
@@ -62655,7 +62655,7 @@
             },
             {
               "votes": {
-                "total": 967
+                "total": 1116
               },
               "leader": false,
               "nyt_id": "sobocinski-g",
@@ -62665,7 +62665,7 @@
           "fips_state": "34",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 235636,
+          "total_votes": 271373,
           "state_postal": "NJ",
           "precincts_total": 563,
           "nyt_vote_estimate": {
@@ -62675,7 +62675,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 563,
-          "total_expected_vote": 241425
+          "total_expected_vote": 271645
         }
       ],
       "candidate_metadata": {
@@ -62756,7 +62756,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 131760
+              "total": 150497
             },
             "leader": true,
             "nyt_id": "kim-a",
@@ -62764,7 +62764,7 @@
           },
           {
             "votes": {
-              "total": 101806
+              "total": 118413
             },
             "leader": false,
             "nyt_id": "healey-b",
@@ -62772,7 +62772,7 @@
           },
           {
             "votes": {
-              "total": 1103
+              "total": 1347
             },
             "leader": false,
             "nyt_id": "russomanno-c",
@@ -62780,7 +62780,7 @@
           },
           {
             "votes": {
-              "total": 967
+              "total": 1116
             },
             "leader": false,
             "nyt_id": "sobocinski-g",
@@ -62790,7 +62790,7 @@
         "fips_state": "34",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 235636,
+        "total_votes": 271373,
         "state_postal": "NJ",
         "precincts_total": 563,
         "nyt_vote_estimate": {
@@ -62800,8 +62800,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 563,
-        "provider_updated_at": "2022-11-23T19:25:26.142+00:00",
-        "total_expected_vote": 241425
+        "provider_updated_at": "2022-11-28T21:01:56.26+00:00",
+        "total_expected_vote": 271645
       },
       "historical_2020_pres": {
         "votes": 433457,
@@ -63691,7 +63691,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-22T21:11:26.723Z",
+      "updated_at": "2022-11-28T21:03:24.064Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "6",
@@ -63710,7 +63710,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 106236
+                "total": 106238
               },
               "leader": true,
               "nyt_id": "pallone-f",
@@ -63752,7 +63752,7 @@
           "fips_state": "34",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 184917,
+          "total_votes": 184919,
           "state_postal": "NJ",
           "precincts_total": 546,
           "nyt_vote_estimate": {
@@ -63859,7 +63859,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 106236
+              "total": 106238
             },
             "leader": true,
             "nyt_id": "pallone-f",
@@ -63901,7 +63901,7 @@
         "fips_state": "34",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 184917,
+        "total_votes": 184919,
         "state_postal": "NJ",
         "precincts_total": 546,
         "nyt_vote_estimate": {
@@ -63911,7 +63911,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 546,
-        "provider_updated_at": "2022-11-22T21:11:26.723+00:00",
+        "provider_updated_at": "2022-11-28T21:03:24.064+00:00",
         "total_expected_vote": 185102
       },
       "historical_2020_pres": {
@@ -64291,7 +64291,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-21T21:09:23.628Z",
+      "updated_at": "2022-11-28T21:07:04.643Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "8",
@@ -64575,7 +64575,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 446,
-        "provider_updated_at": "2022-11-21T21:09:23.628+00:00",
+        "provider_updated_at": "2022-11-28T21:07:04.643+00:00",
         "total_expected_vote": 106567
       },
       "historical_2020_pres": {
@@ -65037,7 +65037,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-22T22:47:34.957Z",
+      "updated_at": "2022-11-28T21:07:04.734Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "10",
@@ -65056,7 +65056,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 100640
+                "total": 100644
               },
               "leader": true,
               "nyt_id": "payne_jr-d",
@@ -65064,7 +65064,7 @@
             },
             {
               "votes": {
-                "total": 25982
+                "total": 25984
               },
               "leader": false,
               "nyt_id": "pinckney-d",
@@ -65098,7 +65098,7 @@
           "fips_state": "34",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 129625,
+          "total_votes": 129631,
           "state_postal": "NJ",
           "precincts_total": 549,
           "nyt_vote_estimate": {
@@ -65108,7 +65108,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 549,
-          "total_expected_vote": 129755
+          "total_expected_vote": 129761
         }
       ],
       "candidate_metadata": {
@@ -65205,7 +65205,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 100640
+              "total": 100644
             },
             "leader": true,
             "nyt_id": "payne_jr-d",
@@ -65213,7 +65213,7 @@
           },
           {
             "votes": {
-              "total": 25982
+              "total": 25984
             },
             "leader": false,
             "nyt_id": "pinckney-d",
@@ -65247,7 +65247,7 @@
         "fips_state": "34",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 129625,
+        "total_votes": 129631,
         "state_postal": "NJ",
         "precincts_total": 549,
         "nyt_vote_estimate": {
@@ -65257,8 +65257,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 549,
-        "provider_updated_at": "2022-11-22T22:47:34.957+00:00",
-        "total_expected_vote": 129755
+        "provider_updated_at": "2022-11-28T21:07:04.734+00:00",
+        "total_expected_vote": 129761
       },
       "historical_2020_pres": {
         "votes": 288099,
@@ -65394,7 +65394,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T03:27:32.166Z",
+      "updated_at": "2022-11-28T21:07:04.823Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "11",
@@ -65413,7 +65413,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 161233
+                "total": 161238
               },
               "leader": true,
               "nyt_id": "sherrill-m",
@@ -65421,7 +65421,7 @@
             },
             {
               "votes": {
-                "total": 109939
+                "total": 109944
               },
               "leader": false,
               "nyt_id": "degroot-p",
@@ -65429,7 +65429,7 @@
             },
             {
               "votes": {
-                "total": 2275
+                "total": 2276
               },
               "leader": false,
               "nyt_id": "biasco-j",
@@ -65439,7 +65439,7 @@
           "fips_state": "34",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 273447,
+          "total_votes": 273458,
           "state_postal": "NJ",
           "precincts_total": 601,
           "nyt_vote_estimate": {
@@ -65449,7 +65449,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 601,
-          "total_expected_vote": 273721
+          "total_expected_vote": 273732
         }
       ],
       "candidate_metadata": {
@@ -65514,7 +65514,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 161233
+              "total": 161238
             },
             "leader": true,
             "nyt_id": "sherrill-m",
@@ -65522,7 +65522,7 @@
           },
           {
             "votes": {
-              "total": 109939
+              "total": 109944
             },
             "leader": false,
             "nyt_id": "degroot-p",
@@ -65530,7 +65530,7 @@
           },
           {
             "votes": {
-              "total": 2275
+              "total": 2276
             },
             "leader": false,
             "nyt_id": "biasco-j",
@@ -65540,7 +65540,7 @@
         "fips_state": "34",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 273447,
+        "total_votes": 273458,
         "state_postal": "NJ",
         "precincts_total": 601,
         "nyt_vote_estimate": {
@@ -65550,8 +65550,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 601,
-        "provider_updated_at": "2022-11-28T03:27:32.166+00:00",
-        "total_expected_vote": 273721
+        "provider_updated_at": "2022-11-28T21:07:04.823+00:00",
+        "total_expected_vote": 273732
       },
       "historical_2020_pres": {
         "votes": 433947,
@@ -65687,7 +65687,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-23T19:25:26.198Z",
+      "updated_at": "2022-11-28T21:03:38.800Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "12",
@@ -65706,7 +65706,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 106654
+                "total": 125127
               },
               "leader": true,
               "nyt_id": "watson_coleman-b",
@@ -65714,7 +65714,7 @@
             },
             {
               "votes": {
-                "total": 64067
+                "total": 71175
               },
               "leader": false,
               "nyt_id": "mayfield-d",
@@ -65722,7 +65722,7 @@
             },
             {
               "votes": {
-                "total": 1627
+                "total": 1925
               },
               "leader": false,
               "nyt_id": "genrich-l",
@@ -65732,7 +65732,7 @@
           "fips_state": "34",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 172348,
+          "total_votes": 198227,
           "state_postal": "NJ",
           "precincts_total": 540,
           "nyt_vote_estimate": {
@@ -65742,7 +65742,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 540,
-          "total_expected_vote": 172520
+          "total_expected_vote": 198425
         }
       ],
       "candidate_metadata": {
@@ -65807,7 +65807,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 106654
+              "total": 125127
             },
             "leader": true,
             "nyt_id": "watson_coleman-b",
@@ -65815,7 +65815,7 @@
           },
           {
             "votes": {
-              "total": 64067
+              "total": 71175
             },
             "leader": false,
             "nyt_id": "mayfield-d",
@@ -65823,7 +65823,7 @@
           },
           {
             "votes": {
-              "total": 1627
+              "total": 1925
             },
             "leader": false,
             "nyt_id": "genrich-l",
@@ -65833,7 +65833,7 @@
         "fips_state": "34",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 172348,
+        "total_votes": 198227,
         "state_postal": "NJ",
         "precincts_total": 540,
         "nyt_vote_estimate": {
@@ -65843,8 +65843,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 540,
-        "provider_updated_at": "2022-11-23T19:25:26.198+00:00",
-        "total_expected_vote": 172520
+        "provider_updated_at": "2022-11-28T21:03:38.8+00:00",
+        "total_expected_vote": 198425
       },
       "historical_2020_pres": {
         "votes": 351030,
@@ -65980,7 +65980,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:09:18.726Z",
+      "updated_at": "2022-11-28T21:10:27.265Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -66104,7 +66104,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 751,
-        "provider_updated_at": "2022-11-28T20:09:18.726+00:00",
+        "provider_updated_at": "2022-11-28T21:10:27.265+00:00",
         "total_expected_vote": 282980
       },
       "historical_2020_pres": {
@@ -66215,7 +66215,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:09:17.273Z",
+      "updated_at": "2022-11-28T21:10:27.321Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -66347,7 +66347,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 637,
-        "provider_updated_at": "2022-11-28T20:09:17.273+00:00",
+        "provider_updated_at": "2022-11-28T21:10:27.321+00:00",
         "total_expected_vote": 194325
       },
       "historical_2020_pres": {
@@ -66458,7 +66458,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:09:17.262Z",
+      "updated_at": "2022-11-28T21:10:27.384Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "3",
@@ -66582,7 +66582,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 732,
-        "provider_updated_at": "2022-11-28T20:09:17.262+00:00",
+        "provider_updated_at": "2022-11-28T21:10:27.384+00:00",
         "total_expected_vote": 232180
       },
       "historical_2020_pres": {
@@ -72959,7 +72959,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:09:18.015Z",
+      "updated_at": "2022-11-28T21:05:18.934Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -73095,7 +73095,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 266,
-        "provider_updated_at": "2022-11-28T20:09:18.015+00:00",
+        "provider_updated_at": "2022-11-28T21:05:18.934+00:00",
         "total_expected_vote": 259433
       },
       "historical_2020_pres": {
@@ -73206,7 +73206,7 @@
       "coverage": "county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:04:21.904Z",
+      "updated_at": "2022-11-28T21:05:18.284Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "2",
@@ -73334,7 +73334,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 145,
-        "provider_updated_at": "2022-11-28T20:04:21.904+00:00",
+        "provider_updated_at": "2022-11-28T21:05:18.284+00:00",
         "total_expected_vote": 297847
       },
       "historical_2020_pres": {
@@ -73445,7 +73445,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:09:16.817Z",
+      "updated_at": "2022-11-28T21:05:18.135Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "3",
@@ -73573,7 +73573,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 224,
-        "provider_updated_at": "2022-11-28T20:09:16.817+00:00",
+        "provider_updated_at": "2022-11-28T21:05:18.135+00:00",
         "total_expected_vote": 250403
       },
       "historical_2020_pres": {
@@ -73684,7 +73684,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:09:12.493Z",
+      "updated_at": "2022-11-28T21:05:15.965Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "4",
@@ -73812,7 +73812,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 162,
-        "provider_updated_at": "2022-11-28T20:09:12.493+00:00",
+        "provider_updated_at": "2022-11-28T21:05:15.965+00:00",
         "total_expected_vote": 293641
       },
       "historical_2020_pres": {
@@ -73923,7 +73923,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:09:17.731Z",
+      "updated_at": "2022-11-28T21:05:18.969Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "5",
@@ -74051,7 +74051,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 261,
-        "provider_updated_at": "2022-11-28T20:09:17.731+00:00",
+        "provider_updated_at": "2022-11-28T21:05:18.969+00:00",
         "total_expected_vote": 279593
       },
       "historical_2020_pres": {
@@ -74162,7 +74162,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:09:12.681Z",
+      "updated_at": "2022-11-28T21:05:15.988Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "6",
@@ -74324,7 +74324,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 214,
-        "provider_updated_at": "2022-11-28T20:09:12.681+00:00",
+        "provider_updated_at": "2022-11-28T21:05:15.988+00:00",
         "total_expected_vote": 259923
       },
       "historical_2020_pres": {
@@ -74461,7 +74461,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:09:15.331Z",
+      "updated_at": "2022-11-28T21:05:16.104Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "7",
@@ -74589,7 +74589,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 196,
-        "provider_updated_at": "2022-11-28T20:09:15.331+00:00",
+        "provider_updated_at": "2022-11-28T21:05:16.104+00:00",
         "total_expected_vote": 285955
       },
       "historical_2020_pres": {
@@ -74700,7 +74700,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:09:17.675Z",
+      "updated_at": "2022-11-28T21:05:18.468Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "8",
@@ -74828,7 +74828,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 205,
-        "provider_updated_at": "2022-11-28T20:09:17.675+00:00",
+        "provider_updated_at": "2022-11-28T21:05:18.468+00:00",
         "total_expected_vote": 265480
       },
       "historical_2020_pres": {
@@ -74939,7 +74939,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:09:17.709Z",
+      "updated_at": "2022-11-28T21:05:15.851Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "9",
@@ -75067,7 +75067,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 149,
-        "provider_updated_at": "2022-11-28T20:09:17.709+00:00",
+        "provider_updated_at": "2022-11-28T21:05:15.851+00:00",
         "total_expected_vote": 234150
       },
       "historical_2020_pres": {
@@ -75178,7 +75178,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:09:12.717Z",
+      "updated_at": "2022-11-28T21:05:15.103Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "10",
@@ -75306,7 +75306,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 176,
-        "provider_updated_at": "2022-11-28T20:09:12.717+00:00",
+        "provider_updated_at": "2022-11-28T21:05:15.103+00:00",
         "total_expected_vote": 269048
       },
       "historical_2020_pres": {
@@ -75417,7 +75417,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:09:16.767Z",
+      "updated_at": "2022-11-28T21:05:16.972Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -75587,7 +75587,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 275,
-        "provider_updated_at": "2022-11-28T20:09:16.767+00:00",
+        "provider_updated_at": "2022-11-28T21:05:16.972+00:00",
         "total_expected_vote": 326600
       },
       "historical_2020_pres": {
@@ -75724,7 +75724,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T19:52:08.862Z",
+      "updated_at": "2022-11-28T20:58:10.050Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "12",
@@ -75852,7 +75852,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 114,
-        "provider_updated_at": "2022-11-28T19:52:08.862+00:00",
+        "provider_updated_at": "2022-11-28T20:58:10.05+00:00",
         "total_expected_vote": 226170
       },
       "historical_2020_pres": {
@@ -75963,7 +75963,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:09:16.558Z",
+      "updated_at": "2022-11-28T21:05:17.646Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -76099,7 +76099,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 129,
-        "provider_updated_at": "2022-11-28T20:09:16.558+00:00",
+        "provider_updated_at": "2022-11-28T21:05:17.646+00:00",
         "total_expected_vote": 279882
       },
       "historical_2020_pres": {
@@ -76210,7 +76210,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T20:03:12.682Z",
+      "updated_at": "2022-11-28T21:05:11.529Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "14",
@@ -76338,7 +76338,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 151,
-        "provider_updated_at": "2022-11-28T20:03:12.682+00:00",
+        "provider_updated_at": "2022-11-28T21:05:11.529+00:00",
         "total_expected_vote": 260029
       },
       "historical_2020_pres": {
@@ -81624,7 +81624,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T18:38:54.419Z",
+      "updated_at": "2022-11-28T20:24:06.834Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -81634,7 +81634,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 98.53,
+          "eevp": 98.29,
           "name": "Oregon",
           "level": "state",
           "nyt_id": "OR-state",
@@ -81670,8 +81670,8 @@
             "quantiles": null,
             "total_expected_vote": null
           },
-          "precincts_reporting": 216,
-          "total_expected_vote": 313177
+          "precincts_reporting": 215,
+          "total_expected_vote": 313941
         }
       ],
       "candidate_metadata": {
@@ -81710,7 +81710,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 98.53,
+        "eevp": 98.29,
         "name": "Oregon",
         "level": "state",
         "nyt_id": "OR-state",
@@ -81747,9 +81747,9 @@
           "quantiles": null,
           "total_expected_vote": null
         },
-        "precincts_reporting": 216,
-        "provider_updated_at": "2022-11-28T18:38:54.419+00:00",
-        "total_expected_vote": 313177
+        "precincts_reporting": 215,
+        "provider_updated_at": "2022-11-28T20:24:06.834+00:00",
+        "total_expected_vote": 313941
       },
       "historical_2020_pres": {
         "votes": 394195,
@@ -81859,7 +81859,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T18:38:53.100Z",
+      "updated_at": "2022-11-28T20:24:36.019Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "2",
@@ -81869,7 +81869,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 98.09,
+          "eevp": 98.58,
           "name": "Oregon",
           "level": "state",
           "nyt_id": "OR-state",
@@ -81905,8 +81905,8 @@
             "quantiles": null,
             "total_expected_vote": null
           },
-          "precincts_reporting": 363,
-          "total_expected_vote": 310966
+          "precincts_reporting": 365,
+          "total_expected_vote": 309423
         }
       ],
       "candidate_metadata": {
@@ -81945,7 +81945,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 98.09,
+        "eevp": 98.58,
         "name": "Oregon",
         "level": "state",
         "nyt_id": "OR-state",
@@ -81982,9 +81982,9 @@
           "quantiles": null,
           "total_expected_vote": null
         },
-        "precincts_reporting": 363,
-        "provider_updated_at": "2022-11-28T18:38:53.1+00:00",
-        "total_expected_vote": 310966
+        "precincts_reporting": 365,
+        "provider_updated_at": "2022-11-28T20:24:36.019+00:00",
+        "total_expected_vote": 309423
       },
       "historical_2020_pres": {
         "votes": 388060,
@@ -82094,7 +82094,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T18:38:53.318Z",
+      "updated_at": "2022-11-28T20:24:06.487Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "3",
@@ -82149,7 +82149,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 108,
-          "total_expected_vote": 303042
+          "total_expected_vote": 304699
         }
       ],
       "candidate_metadata": {
@@ -82250,8 +82250,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 108,
-        "provider_updated_at": "2022-11-28T18:38:53.318+00:00",
-        "total_expected_vote": 303042
+        "provider_updated_at": "2022-11-28T20:24:06.487+00:00",
+        "total_expected_vote": 304699
       },
       "historical_2020_pres": {
         "votes": 388926,
@@ -82744,7 +82744,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T18:38:54.690Z",
+      "updated_at": "2022-11-28T20:24:36.015Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -82799,7 +82799,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 235,
-          "total_expected_vote": 348807
+          "total_expected_vote": 349047
         }
       ],
       "candidate_metadata": {
@@ -82876,8 +82876,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 235,
-        "provider_updated_at": "2022-11-28T18:38:54.69+00:00",
-        "total_expected_vote": 348807
+        "provider_updated_at": "2022-11-28T20:24:36.015+00:00",
+        "total_expected_vote": 349047
       },
       "historical_2020_pres": {
         "votes": 427383,
@@ -82987,7 +82987,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T18:48:20.460Z",
+      "updated_at": "2022-11-28T20:24:36.200Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "6",
@@ -82997,7 +82997,7 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 98.65,
           "name": "Oregon",
           "level": "state",
           "nyt_id": "OR-state",
@@ -83042,7 +83042,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 175,
-          "total_expected_vote": 295250
+          "total_expected_vote": 296748
         }
       ],
       "candidate_metadata": {
@@ -83097,7 +83097,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 98.65,
         "name": "Oregon",
         "level": "state",
         "nyt_id": "OR-state",
@@ -83143,8 +83143,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 175,
-        "provider_updated_at": "2022-11-28T18:48:20.46+00:00",
-        "total_expected_vote": 295250
+        "provider_updated_at": "2022-11-28T20:24:36.2+00:00",
+        "total_expected_vote": 296748
       },
       "historical_2020_pres": {
         "votes": 370468,
@@ -115912,7 +115912,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "S",
-        "updated_at": "2022-11-28T20:09:18.023Z",
+        "updated_at": "2022-11-28T21:05:18.369Z",
         "description": null,
         "max_winners": 1,
         "race_titles": {
@@ -115981,8 +115981,8 @@
             "fips_suffix": null,
             "total_votes": 3771307,
             "state_postal": "NC",
-            "source_run_id": 2046656,
-            "vote_report_id": 1047324085,
+            "source_run_id": 2046789,
+            "vote_report_id": 1047342073,
             "precincts_total": 2655,
             "election_track_id": 24,
             "nyt_vote_estimate": {
@@ -115992,7 +115992,7 @@
               "total_expected_vote": null
             },
             "precincts_reporting": 2655,
-            "provider_updated_at": "2022-11-28T20:09:18.023+00:00",
+            "provider_updated_at": "2022-11-28T21:05:18.369+00:00",
             "total_expected_vote": 3809603,
             "precincts_reporting_actual": 2655,
             "precincts_reporting_proportional": 2628
@@ -116120,8 +116120,8 @@
           "fips_suffix": null,
           "total_votes": 3771307,
           "state_postal": "NC",
-          "source_run_id": 2046656,
-          "vote_report_id": 1047324085,
+          "source_run_id": 2046789,
+          "vote_report_id": 1047342073,
           "precincts_total": 2655,
           "election_track_id": 24,
           "nyt_vote_estimate": {
@@ -116131,7 +116131,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 2655,
-          "provider_updated_at": "2022-11-28T20:09:18.023+00:00",
+          "provider_updated_at": "2022-11-28T21:05:18.369+00:00",
           "total_expected_vote": 3809603,
           "precincts_reporting_actual": 2655,
           "precincts_reporting_proportional": 2628
@@ -117422,7 +117422,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "S",
-        "updated_at": "2022-11-28T20:09:18.023Z",
+        "updated_at": "2022-11-28T21:05:18.369Z",
         "description": null,
         "max_winners": 1,
         "race_titles": {
@@ -117491,8 +117491,8 @@
             "fips_suffix": null,
             "total_votes": 3771307,
             "state_postal": "NC",
-            "source_run_id": 2046656,
-            "vote_report_id": 1047324085,
+            "source_run_id": 2046789,
+            "vote_report_id": 1047342073,
             "precincts_total": 2655,
             "election_track_id": 24,
             "nyt_vote_estimate": {
@@ -117502,7 +117502,7 @@
               "total_expected_vote": null
             },
             "precincts_reporting": 2655,
-            "provider_updated_at": "2022-11-28T20:09:18.023+00:00",
+            "provider_updated_at": "2022-11-28T21:05:18.369+00:00",
             "total_expected_vote": 3809603,
             "precincts_reporting_actual": 2655,
             "precincts_reporting_proportional": 2628
@@ -117630,8 +117630,8 @@
           "fips_suffix": null,
           "total_votes": 3771307,
           "state_postal": "NC",
-          "source_run_id": 2046656,
-          "vote_report_id": 1047324085,
+          "source_run_id": 2046789,
+          "vote_report_id": 1047342073,
           "precincts_total": 2655,
           "election_track_id": 24,
           "nyt_vote_estimate": {
@@ -117641,7 +117641,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 2655,
-          "provider_updated_at": "2022-11-28T20:09:18.023+00:00",
+          "provider_updated_at": "2022-11-28T21:05:18.369+00:00",
           "total_expected_vote": 3809603,
           "precincts_reporting_actual": 2655,
           "precincts_reporting_proportional": 2628
@@ -117943,7 +117943,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "S",
-        "updated_at": "2022-11-28T20:09:18.023Z",
+        "updated_at": "2022-11-28T21:05:18.369Z",
         "description": null,
         "max_winners": 1,
         "race_titles": {
@@ -118012,8 +118012,8 @@
             "fips_suffix": null,
             "total_votes": 3771307,
             "state_postal": "NC",
-            "source_run_id": 2046656,
-            "vote_report_id": 1047324085,
+            "source_run_id": 2046789,
+            "vote_report_id": 1047342073,
             "precincts_total": 2655,
             "election_track_id": 24,
             "nyt_vote_estimate": {
@@ -118023,7 +118023,7 @@
               "total_expected_vote": null
             },
             "precincts_reporting": 2655,
-            "provider_updated_at": "2022-11-28T20:09:18.023+00:00",
+            "provider_updated_at": "2022-11-28T21:05:18.369+00:00",
             "total_expected_vote": 3809603,
             "precincts_reporting_actual": 2655,
             "precincts_reporting_proportional": 2628
@@ -118151,8 +118151,8 @@
           "fips_suffix": null,
           "total_votes": 3771307,
           "state_postal": "NC",
-          "source_run_id": 2046656,
-          "vote_report_id": 1047324085,
+          "source_run_id": 2046789,
+          "vote_report_id": 1047342073,
           "precincts_total": 2655,
           "election_track_id": 24,
           "nyt_vote_estimate": {
@@ -118162,7 +118162,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 2655,
-          "provider_updated_at": "2022-11-28T20:09:18.023+00:00",
+          "provider_updated_at": "2022-11-28T21:05:18.369+00:00",
           "total_expected_vote": 3809603,
           "precincts_reporting_actual": 2655,
           "precincts_reporting_proportional": 2628
@@ -121573,7 +121573,7 @@
   },
   "resultsMeta": {
     "docsUpdatedAt": "2022-11-09T09:03:24.208Z",
-    "resultsUpdatedAt": "2022-11-28T20:09:18.726Z"
+    "resultsUpdatedAt": "2022-11-28T21:10:27.384Z"
   },
   "raceCollections": {
     "scoreboard_races": [
@@ -124828,7 +124828,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "S",
-        "updated_at": "2022-11-28T20:09:18.023Z",
+        "updated_at": "2022-11-28T21:05:18.369Z",
         "max_winners": 1,
         "race_titles": {
           "location": null,
@@ -125032,7 +125032,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 2655,
-          "provider_updated_at": "2022-11-28T20:09:18.023+00:00",
+          "provider_updated_at": "2022-11-28T21:05:18.369+00:00",
           "total_expected_vote": 3809603
         },
         "nyt_voteshare_estimate": {
