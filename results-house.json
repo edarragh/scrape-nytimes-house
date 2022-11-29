@@ -41701,7 +41701,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-29T15:40:42.326Z",
       "max_winners": 1,
@@ -41713,7 +41713,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.97,
+          "eevp": 100,
           "name": "Kentucky",
           "level": "state",
           "nyt_id": "KY-state",
@@ -41722,7 +41722,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 184103
+                "total": 184157
               },
               "leader": true,
               "nyt_id": "comer-j",
@@ -41730,7 +41730,7 @@
             },
             {
               "votes": {
-                "total": 61693
+                "total": 61701
               },
               "leader": false,
               "nyt_id": "ausbrooks-j",
@@ -41740,7 +41740,7 @@
           "fips_state": "21",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 245796,
+          "total_votes": 245858,
           "state_postal": "KY",
           "precincts_total": 665,
           "nyt_vote_estimate": {
@@ -41789,7 +41789,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.97,
+        "eevp": 100,
         "name": "Kentucky",
         "level": "state",
         "nyt_id": "KY-state",
@@ -41799,7 +41799,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 184103
+              "total": 184157
             },
             "leader": true,
             "nyt_id": "comer-j",
@@ -41807,7 +41807,7 @@
           },
           {
             "votes": {
-              "total": 61693
+              "total": 61701
             },
             "leader": false,
             "nyt_id": "ausbrooks-j",
@@ -41817,7 +41817,7 @@
         "fips_state": "21",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 245796,
+        "total_votes": 245858,
         "state_postal": "KY",
         "precincts_total": 665,
         "nyt_vote_estimate": {
@@ -41936,7 +41936,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-29T15:40:51.664Z",
       "max_winners": 1,
@@ -41957,7 +41957,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 170486
+                "total": 170487
               },
               "leader": true,
               "nyt_id": "guthrie-b",
@@ -41965,7 +41965,7 @@
             },
             {
               "votes": {
-                "total": 66767
+                "total": 66769
               },
               "leader": false,
               "nyt_id": "linderman-h",
@@ -41975,7 +41975,7 @@
           "fips_state": "21",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 237253,
+          "total_votes": 237256,
           "state_postal": "KY",
           "precincts_total": 530,
           "nyt_vote_estimate": {
@@ -42034,7 +42034,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 170486
+              "total": 170487
             },
             "leader": true,
             "nyt_id": "guthrie-b",
@@ -42042,7 +42042,7 @@
           },
           {
             "votes": {
-              "total": 66767
+              "total": 66769
             },
             "leader": false,
             "nyt_id": "linderman-h",
@@ -42052,7 +42052,7 @@
         "fips_state": "21",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 237253,
+        "total_votes": 237256,
         "state_postal": "KY",
         "precincts_total": 530,
         "nyt_vote_estimate": {
@@ -42171,7 +42171,7 @@
         ]
       },
       "coverage": "county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-29T15:40:03.128Z",
       "max_winners": 1,
@@ -42183,7 +42183,7 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 99.97,
+          "eevp": 100,
           "name": "Kentucky",
           "level": "state",
           "nyt_id": "KY-state",
@@ -42192,7 +42192,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 160853
+                "total": 160920
               },
               "leader": true,
               "nyt_id": "mcgarvey-m",
@@ -42200,7 +42200,7 @@
             },
             {
               "votes": {
-                "total": 98622
+                "total": 98637
               },
               "leader": false,
               "nyt_id": "ray-s",
@@ -42210,7 +42210,7 @@
           "fips_state": "21",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 259475,
+          "total_votes": 259557,
           "state_postal": "KY",
           "precincts_total": 648,
           "nyt_vote_estimate": {
@@ -42259,7 +42259,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.97,
+        "eevp": 100,
         "name": "Kentucky",
         "level": "state",
         "nyt_id": "KY-state",
@@ -42269,7 +42269,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 160853
+              "total": 160920
             },
             "leader": true,
             "nyt_id": "mcgarvey-m",
@@ -42277,7 +42277,7 @@
           },
           {
             "votes": {
-              "total": 98622
+              "total": 98637
             },
             "leader": false,
             "nyt_id": "ray-s",
@@ -42287,7 +42287,7 @@
         "fips_state": "21",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 259475,
+        "total_votes": 259557,
         "state_postal": "KY",
         "precincts_total": 648,
         "nyt_vote_estimate": {
@@ -42406,7 +42406,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-29T15:41:01.949Z",
       "max_winners": 1,
@@ -42699,7 +42699,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-29T15:40:19.373Z",
       "max_winners": 1,
@@ -42720,7 +42720,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 177714
+                "total": 177712
               },
               "leader": true,
               "nyt_id": "rogers-h",
@@ -42738,7 +42738,7 @@
           "fips_state": "21",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 216263,
+          "total_votes": 216261,
           "state_postal": "KY",
           "precincts_total": 792,
           "nyt_vote_estimate": {
@@ -42797,7 +42797,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 177714
+              "total": 177712
             },
             "leader": true,
             "nyt_id": "rogers-h",
@@ -42815,7 +42815,7 @@
         "fips_state": "21",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 216263,
+        "total_votes": 216261,
         "state_postal": "KY",
         "precincts_total": 792,
         "nyt_vote_estimate": {
@@ -42934,7 +42934,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-29T15:40:26.559Z",
       "max_winners": 1,
@@ -42955,7 +42955,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 154760
+                "total": 154762
               },
               "leader": true,
               "nyt_id": "barr-a",
@@ -42963,7 +42963,7 @@
             },
             {
               "votes": {
-                "total": 83003
+                "total": 83005
               },
               "leader": false,
               "nyt_id": "young-g",
@@ -42973,7 +42973,7 @@
           "fips_state": "21",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 237763,
+          "total_votes": 237767,
           "state_postal": "KY",
           "precincts_total": 589,
           "nyt_vote_estimate": {
@@ -43032,7 +43032,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 154760
+              "total": 154762
             },
             "leader": true,
             "nyt_id": "barr-a",
@@ -43040,7 +43040,7 @@
           },
           {
             "votes": {
-              "total": 83003
+              "total": 83005
             },
             "leader": false,
             "nyt_id": "young-g",
@@ -43050,7 +43050,7 @@
         "fips_state": "21",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 237763,
+        "total_votes": 237767,
         "state_postal": "KY",
         "precincts_total": 589,
         "nyt_vote_estimate": {
@@ -66215,7 +66215,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-29T14:52:09.357Z",
+      "updated_at": "2022-11-29T16:50:17.231Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -66347,7 +66347,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 637,
-        "provider_updated_at": "2022-11-29T14:52:09.357+00:00",
+        "provider_updated_at": "2022-11-29T16:50:17.231+00:00",
         "total_expected_vote": 194325
       },
       "historical_2020_pres": {
@@ -66458,7 +66458,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-29T14:48:11.192Z",
+      "updated_at": "2022-11-29T16:45:13.414Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "3",
@@ -66582,7 +66582,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 732,
-        "provider_updated_at": "2022-11-29T14:48:11.192+00:00",
+        "provider_updated_at": "2022-11-29T16:45:13.414+00:00",
         "total_expected_vote": 232180
       },
       "historical_2020_pres": {
@@ -107032,7 +107032,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-29T12:49:54.963Z",
+      "updated_at": "2022-11-29T16:42:10.319Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -107059,7 +107059,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 160217
+                "total": 160222
               },
               "leader": true,
               "nyt_id": "gluesenkamp_perez-m",
@@ -107077,7 +107077,7 @@
           "fips_state": "53",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 317801,
+          "total_votes": 317806,
           "state_postal": "WA",
           "precincts_total": 628,
           "nyt_vote_estimate": {
@@ -107136,7 +107136,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 160217
+              "total": 160222
             },
             "leader": true,
             "nyt_id": "gluesenkamp_perez-m",
@@ -107154,7 +107154,7 @@
         "fips_state": "53",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 317801,
+        "total_votes": 317806,
         "state_postal": "WA",
         "precincts_total": 628,
         "nyt_vote_estimate": {
@@ -107164,7 +107164,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 622,
-        "provider_updated_at": "2022-11-29T12:49:54.963+00:00",
+        "provider_updated_at": "2022-11-29T16:42:10.319+00:00",
         "total_expected_vote": 320308
       },
       "historical_2020_pres": {
@@ -107518,7 +107518,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-29T12:49:54.728Z",
+      "updated_at": "2022-11-29T16:34:24.851Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "5",
@@ -107537,7 +107537,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 187955
+                "total": 187956
               },
               "leader": true,
               "nyt_id": "mcmorris_rodgers-c",
@@ -107545,7 +107545,7 @@
             },
             {
               "votes": {
-                "total": 127227
+                "total": 127228
               },
               "leader": false,
               "nyt_id": "hill-n",
@@ -107555,7 +107555,7 @@
           "fips_state": "53",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 315182,
+          "total_votes": 315184,
           "state_postal": "WA",
           "precincts_total": 626,
           "nyt_vote_estimate": {
@@ -107614,7 +107614,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 187955
+              "total": 187956
             },
             "leader": true,
             "nyt_id": "mcmorris_rodgers-c",
@@ -107622,7 +107622,7 @@
           },
           {
             "votes": {
-              "total": 127227
+              "total": 127228
             },
             "leader": false,
             "nyt_id": "hill-n",
@@ -107632,7 +107632,7 @@
         "fips_state": "53",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 315182,
+        "total_votes": 315184,
         "state_postal": "WA",
         "precincts_total": 626,
         "nyt_vote_estimate": {
@@ -107642,7 +107642,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 620,
-        "provider_updated_at": "2022-11-29T12:49:54.728+00:00",
+        "provider_updated_at": "2022-11-29T16:34:24.851+00:00",
         "total_expected_vote": 318332
       },
       "historical_2020_pres": {
@@ -107753,7 +107753,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-29T12:49:53.446Z",
+      "updated_at": "2022-11-29T16:52:42.835Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "6",
@@ -107772,7 +107772,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 208138
+                "total": 208156
               },
               "leader": true,
               "nyt_id": "kilmer-d",
@@ -107780,7 +107780,7 @@
             },
             {
               "votes": {
-                "total": 138412
+                "total": 138434
               },
               "leader": false,
               "nyt_id": "kreiselmaier-e",
@@ -107790,7 +107790,7 @@
           "fips_state": "53",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 346550,
+          "total_votes": 346590,
           "state_postal": "WA",
           "precincts_total": 634,
           "nyt_vote_estimate": {
@@ -107849,7 +107849,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 208138
+              "total": 208156
             },
             "leader": true,
             "nyt_id": "kilmer-d",
@@ -107857,7 +107857,7 @@
           },
           {
             "votes": {
-              "total": 138412
+              "total": 138434
             },
             "leader": false,
             "nyt_id": "kreiselmaier-e",
@@ -107867,7 +107867,7 @@
         "fips_state": "53",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 346550,
+        "total_votes": 346590,
         "state_postal": "WA",
         "precincts_total": 634,
         "nyt_vote_estimate": {
@@ -107877,7 +107877,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 628,
-        "provider_updated_at": "2022-11-29T12:49:53.446+00:00",
+        "provider_updated_at": "2022-11-29T16:52:42.835+00:00",
         "total_expected_vote": 348885
       },
       "historical_2020_pres": {
@@ -113717,7 +113717,7 @@
           ]
         },
         "coverage": "state",
-        "certified": false,
+        "certified": true,
         "office_id": "I",
         "updated_at": "2022-11-29T15:42:50.067Z",
         "description": "No requirement to fund",
@@ -113748,7 +113748,7 @@
             "candidates": [
               {
                 "votes": {
-                  "total": 742206
+                  "total": 742232
                 },
                 "leader": true,
                 "nyt_id": "no",
@@ -113756,7 +113756,7 @@
               },
               {
                 "votes": {
-                  "total": 675601
+                  "total": 675634
                 },
                 "leader": false,
                 "nyt_id": "yes",
@@ -113766,7 +113766,7 @@
             "fips_state": "21",
             "fips_county": null,
             "fips_suffix": null,
-            "total_votes": 1417807,
+            "total_votes": 1417866,
             "state_postal": "KY",
             "source_run_id": 2049438,
             "vote_report_id": 1047670002,
@@ -113828,7 +113828,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 742206
+                "total": 742232
               },
               "leader": true,
               "nyt_id": "no",
@@ -113836,7 +113836,7 @@
             },
             {
               "votes": {
-                "total": 675601
+                "total": 675634
               },
               "leader": false,
               "nyt_id": "yes",
@@ -113846,7 +113846,7 @@
           "fips_state": "21",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 1417807,
+          "total_votes": 1417866,
           "state_postal": "KY",
           "source_run_id": 2049438,
           "vote_report_id": 1047670002,
@@ -118699,7 +118699,7 @@
           ]
         },
         "coverage": "state",
-        "certified": false,
+        "certified": true,
         "office_id": "I",
         "updated_at": "2022-11-29T15:42:50.067Z",
         "description": "No requirement to fund",
@@ -118730,7 +118730,7 @@
             "candidates": [
               {
                 "votes": {
-                  "total": 742206
+                  "total": 742232
                 },
                 "leader": true,
                 "nyt_id": "no",
@@ -118738,7 +118738,7 @@
               },
               {
                 "votes": {
-                  "total": 675601
+                  "total": 675634
                 },
                 "leader": false,
                 "nyt_id": "yes",
@@ -118748,7 +118748,7 @@
             "fips_state": "21",
             "fips_county": null,
             "fips_suffix": null,
-            "total_votes": 1417807,
+            "total_votes": 1417866,
             "state_postal": "KY",
             "source_run_id": 2049438,
             "vote_report_id": 1047670002,
@@ -118810,7 +118810,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 742206
+                "total": 742232
               },
               "leader": true,
               "nyt_id": "no",
@@ -118818,7 +118818,7 @@
             },
             {
               "votes": {
-                "total": 675601
+                "total": 675634
               },
               "leader": false,
               "nyt_id": "yes",
@@ -118828,7 +118828,7 @@
           "fips_state": "21",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 1417807,
+          "total_votes": 1417866,
           "state_postal": "KY",
           "source_run_id": 2049438,
           "vote_report_id": 1047670002,
@@ -121573,7 +121573,7 @@
   },
   "resultsMeta": {
     "docsUpdatedAt": "2022-11-09T09:03:24.208Z",
-    "resultsUpdatedAt": "2022-11-29T16:05:26.036Z"
+    "resultsUpdatedAt": "2022-11-29T16:52:42.835Z"
   },
   "raceCollections": {
     "scoreboard_races": [
