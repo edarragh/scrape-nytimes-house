@@ -37035,7 +37035,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-23T21:36:32.502Z",
+      "updated_at": "2022-11-29T16:05:26.036Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -37167,7 +37167,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 630,
-        "provider_updated_at": "2022-11-23T21:36:32.502+00:00",
+        "provider_updated_at": "2022-11-29T16:05:26.036+00:00",
         "total_expected_vote": 234983
       },
       "historical_2020_pres": {
@@ -41703,7 +41703,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T14:28:12.598Z",
+      "updated_at": "2022-11-29T15:40:42.326Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -41713,11 +41713,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 99.97,
           "name": "Kentucky",
           "level": "state",
           "nyt_id": "KY-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Ky.",
           "candidates": [
             {
@@ -41750,7 +41750,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 665,
-          "total_expected_vote": 248277
+          "total_expected_vote": 245858
         }
       ],
       "candidate_metadata": {
@@ -41789,11 +41789,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 99.97,
         "name": "Kentucky",
         "level": "state",
         "nyt_id": "KY-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Ky.",
         "candidates": [
@@ -41827,8 +41827,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 665,
-        "provider_updated_at": "2022-11-16T14:28:12.598+00:00",
-        "total_expected_vote": 248277
+        "provider_updated_at": "2022-11-29T15:40:42.326+00:00",
+        "total_expected_vote": 245858
       },
       "historical_2020_pres": {
         "votes": 355826,
@@ -41938,7 +41938,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T14:26:59.318Z",
+      "updated_at": "2022-11-29T15:40:51.664Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "2",
@@ -41948,11 +41948,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Kentucky",
           "level": "state",
           "nyt_id": "KY-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Ky.",
           "candidates": [
             {
@@ -41985,7 +41985,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 530,
-          "total_expected_vote": 239648
+          "total_expected_vote": 237256
         }
       ],
       "candidate_metadata": {
@@ -42024,11 +42024,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "Kentucky",
         "level": "state",
         "nyt_id": "KY-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Ky.",
         "candidates": [
@@ -42062,8 +42062,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 530,
-        "provider_updated_at": "2022-11-16T14:26:59.318+00:00",
-        "total_expected_vote": 239648
+        "provider_updated_at": "2022-11-29T15:40:51.664+00:00",
+        "total_expected_vote": 237256
       },
       "historical_2020_pres": {
         "votes": 355436,
@@ -42173,7 +42173,7 @@
       "coverage": "county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-10T21:06:58.413Z",
+      "updated_at": "2022-11-29T15:40:03.128Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "3",
@@ -42183,11 +42183,11 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 99.97,
           "name": "Kentucky",
           "level": "state",
           "nyt_id": "KY-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Ky.",
           "candidates": [
             {
@@ -42220,7 +42220,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 648,
-          "total_expected_vote": 262096
+          "total_expected_vote": 259557
         }
       ],
       "candidate_metadata": {
@@ -42259,11 +42259,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 99.97,
         "name": "Kentucky",
         "level": "state",
         "nyt_id": "KY-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Ky.",
         "candidates": [
@@ -42297,8 +42297,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 648,
-        "provider_updated_at": "2022-11-10T21:06:58.413+00:00",
-        "total_expected_vote": 262096
+        "provider_updated_at": "2022-11-29T15:40:03.128+00:00",
+        "total_expected_vote": 259557
       },
       "historical_2020_pres": {
         "votes": 363966,
@@ -42408,7 +42408,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T15:44:24.603Z",
+      "updated_at": "2022-11-29T15:41:01.949Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "4",
@@ -42418,11 +42418,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Kentucky",
           "level": "state",
           "nyt_id": "KY-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Ky.",
           "candidates": [
             {
@@ -42463,7 +42463,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 489,
-          "total_expected_vote": 260233
+          "total_expected_vote": 257629
         }
       ],
       "candidate_metadata": {
@@ -42518,11 +42518,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "Kentucky",
         "level": "state",
         "nyt_id": "KY-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Ky.",
         "candidates": [
@@ -42564,8 +42564,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 489,
-        "provider_updated_at": "2022-11-16T15:44:24.603+00:00",
-        "total_expected_vote": 260233
+        "provider_updated_at": "2022-11-29T15:41:01.949+00:00",
+        "total_expected_vote": 257629
       },
       "historical_2020_pres": {
         "votes": 375360,
@@ -42701,7 +42701,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T15:44:24.593Z",
+      "updated_at": "2022-11-29T15:40:19.373Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "5",
@@ -42711,11 +42711,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Kentucky",
           "level": "state",
           "nyt_id": "KY-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Ky.",
           "candidates": [
             {
@@ -42748,7 +42748,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 792,
-          "total_expected_vote": 218451
+          "total_expected_vote": 216261
         }
       ],
       "candidate_metadata": {
@@ -42787,11 +42787,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "Kentucky",
         "level": "state",
         "nyt_id": "KY-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Ky.",
         "candidates": [
@@ -42825,8 +42825,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 792,
-        "provider_updated_at": "2022-11-16T15:44:24.593+00:00",
-        "total_expected_vote": 218451
+        "provider_updated_at": "2022-11-29T15:40:19.373+00:00",
+        "total_expected_vote": 216261
       },
       "historical_2020_pres": {
         "votes": 324914,
@@ -42936,7 +42936,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T14:27:18.270Z",
+      "updated_at": "2022-11-29T15:40:26.559Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "6",
@@ -42946,11 +42946,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Kentucky",
           "level": "state",
           "nyt_id": "KY-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Ky.",
           "candidates": [
             {
@@ -42983,7 +42983,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 589,
-          "total_expected_vote": 240165
+          "total_expected_vote": 237767
         }
       ],
       "candidate_metadata": {
@@ -43022,11 +43022,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "Kentucky",
         "level": "state",
         "nyt_id": "KY-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Ky.",
         "candidates": [
@@ -43060,8 +43060,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 589,
-        "provider_updated_at": "2022-11-16T14:27:18.27+00:00",
-        "total_expected_vote": 240165
+        "provider_updated_at": "2022-11-29T15:40:26.559+00:00",
+        "total_expected_vote": 237767
       },
       "historical_2020_pres": {
         "votes": 359934,
@@ -72959,7 +72959,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-29T14:26:11.513Z",
+      "updated_at": "2022-11-29T15:34:18.427Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -72977,11 +72977,11 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "North Carolina",
           "level": "state",
           "nyt_id": "NC-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "N.C.",
           "candidates": [
             {
@@ -73016,7 +73016,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 266,
-          "total_expected_vote": 259433
+          "total_expected_vote": 77322
         }
       ],
       "candidate_metadata": {
@@ -73055,11 +73055,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "North Carolina",
         "level": "state",
         "nyt_id": "NC-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "N.C.",
         "candidates": [
@@ -73095,8 +73095,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 266,
-        "provider_updated_at": "2022-11-29T14:26:11.513+00:00",
-        "total_expected_vote": 259433
+        "provider_updated_at": "2022-11-29T15:34:18.427+00:00",
+        "total_expected_vote": 77322
       },
       "historical_2020_pres": {
         "votes": 389254,
@@ -73206,7 +73206,7 @@
       "coverage": "county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-29T09:23:19.849Z",
+      "updated_at": "2022-11-29T15:34:18.169Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "2",
@@ -73216,11 +73216,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "North Carolina",
           "level": "state",
           "nyt_id": "NC-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "N.C.",
           "candidates": [
             {
@@ -73255,7 +73255,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 145,
-          "total_expected_vote": 297847
+          "total_expected_vote": 294869
         }
       ],
       "candidate_metadata": {
@@ -73294,11 +73294,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "North Carolina",
         "level": "state",
         "nyt_id": "NC-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "N.C.",
         "candidates": [
@@ -73334,8 +73334,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 145,
-        "provider_updated_at": "2022-11-29T09:23:19.849+00:00",
-        "total_expected_vote": 297847
+        "provider_updated_at": "2022-11-29T15:34:18.169+00:00",
+        "total_expected_vote": 294869
       },
       "historical_2020_pres": {
         "votes": 405766,
@@ -73445,7 +73445,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-29T14:00:09.890Z",
+      "updated_at": "2022-11-29T15:34:18.440Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "3",
@@ -73455,11 +73455,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "North Carolina",
           "level": "state",
           "nyt_id": "NC-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "N.C.",
           "candidates": [
             {
@@ -73494,7 +73494,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 224,
-          "total_expected_vote": 250403
+          "total_expected_vote": 36252
         }
       ],
       "candidate_metadata": {
@@ -73533,11 +73533,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "North Carolina",
         "level": "state",
         "nyt_id": "NC-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "N.C.",
         "candidates": [
@@ -73573,8 +73573,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 224,
-        "provider_updated_at": "2022-11-29T14:00:09.89+00:00",
-        "total_expected_vote": 250403
+        "provider_updated_at": "2022-11-29T15:34:18.44+00:00",
+        "total_expected_vote": 36252
       },
       "historical_2020_pres": {
         "votes": 380382,
@@ -73684,7 +73684,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-29T13:10:08.777Z",
+      "updated_at": "2022-11-29T15:34:16.964Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "4",
@@ -73694,11 +73694,11 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "North Carolina",
           "level": "state",
           "nyt_id": "NC-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "N.C.",
           "candidates": [
             {
@@ -73733,7 +73733,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 162,
-          "total_expected_vote": 293641
+          "total_expected_vote": 165275
         }
       ],
       "candidate_metadata": {
@@ -73772,11 +73772,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "North Carolina",
         "level": "state",
         "nyt_id": "NC-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "N.C.",
         "candidates": [
@@ -73812,8 +73812,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 162,
-        "provider_updated_at": "2022-11-29T13:10:08.777+00:00",
-        "total_expected_vote": 293641
+        "provider_updated_at": "2022-11-29T15:34:16.964+00:00",
+        "total_expected_vote": 165275
       },
       "historical_2020_pres": {
         "votes": 404686,
@@ -73923,7 +73923,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-29T13:41:09.157Z",
+      "updated_at": "2022-11-29T15:34:18.600Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "5",
@@ -73933,11 +73933,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "North Carolina",
           "level": "state",
           "nyt_id": "NC-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "N.C.",
           "candidates": [
             {
@@ -73972,7 +73972,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 261,
-          "total_expected_vote": 279593
+          "total_expected_vote": 145903
         }
       ],
       "candidate_metadata": {
@@ -74011,11 +74011,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "North Carolina",
         "level": "state",
         "nyt_id": "NC-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "N.C.",
         "candidates": [
@@ -74051,8 +74051,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 261,
-        "provider_updated_at": "2022-11-29T13:41:09.157+00:00",
-        "total_expected_vote": 279593
+        "provider_updated_at": "2022-11-29T15:34:18.6+00:00",
+        "total_expected_vote": 145903
       },
       "historical_2020_pres": {
         "votes": 406873,
@@ -74162,7 +74162,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-29T10:54:14.060Z",
+      "updated_at": "2022-11-29T15:34:15.602Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "6",
@@ -74172,11 +74172,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "North Carolina",
           "level": "state",
           "nyt_id": "NC-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "N.C.",
           "candidates": [
             {
@@ -74220,7 +74220,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 214,
-          "total_expected_vote": 259923
+          "total_expected_vote": 194778
         }
       ],
       "candidate_metadata": {
@@ -74275,11 +74275,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "North Carolina",
         "level": "state",
         "nyt_id": "NC-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "N.C.",
         "candidates": [
@@ -74324,8 +74324,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 214,
-        "provider_updated_at": "2022-11-29T10:54:14.06+00:00",
-        "total_expected_vote": 259923
+        "provider_updated_at": "2022-11-29T15:34:15.602+00:00",
+        "total_expected_vote": 194778
       },
       "historical_2020_pres": {
         "votes": 389309,
@@ -74700,7 +74700,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-29T13:58:14.041Z",
+      "updated_at": "2022-11-29T15:34:17.547Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "8",
@@ -74710,11 +74710,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "North Carolina",
           "level": "state",
           "nyt_id": "NC-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "N.C.",
           "candidates": [
             {
@@ -74749,7 +74749,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 205,
-          "total_expected_vote": 265480
+          "total_expected_vote": 32945
         }
       ],
       "candidate_metadata": {
@@ -74788,11 +74788,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "North Carolina",
         "level": "state",
         "nyt_id": "NC-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "N.C.",
         "candidates": [
@@ -74828,8 +74828,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 205,
-        "provider_updated_at": "2022-11-29T13:58:14.041+00:00",
-        "total_expected_vote": 265480
+        "provider_updated_at": "2022-11-29T15:34:17.547+00:00",
+        "total_expected_vote": 32945
       },
       "historical_2020_pres": {
         "votes": 404468,
@@ -74939,7 +74939,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-29T11:19:13.602Z",
+      "updated_at": "2022-11-29T15:34:17.538Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "9",
@@ -74949,11 +74949,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "North Carolina",
           "level": "state",
           "nyt_id": "NC-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "N.C.",
           "candidates": [
             {
@@ -74988,7 +74988,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 149,
-          "total_expected_vote": 234150
+          "total_expected_vote": 42955
         }
       ],
       "candidate_metadata": {
@@ -75027,11 +75027,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "North Carolina",
         "level": "state",
         "nyt_id": "NC-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "N.C.",
         "candidates": [
@@ -75067,8 +75067,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 149,
-        "provider_updated_at": "2022-11-29T11:19:13.602+00:00",
-        "total_expected_vote": 234150
+        "provider_updated_at": "2022-11-29T15:34:17.538+00:00",
+        "total_expected_vote": 42955
       },
       "historical_2020_pres": {
         "votes": 356812,
@@ -75178,7 +75178,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-29T14:10:09.619Z",
+      "updated_at": "2022-11-29T15:34:17.413Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "10",
@@ -75188,11 +75188,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "North Carolina",
           "level": "state",
           "nyt_id": "NC-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "N.C.",
           "candidates": [
             {
@@ -75227,7 +75227,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 176,
-          "total_expected_vote": 269048
+          "total_expected_vote": 44248
         }
       ],
       "candidate_metadata": {
@@ -75266,11 +75266,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "North Carolina",
         "level": "state",
         "nyt_id": "NC-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "N.C.",
         "candidates": [
@@ -75306,8 +75306,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 176,
-        "provider_updated_at": "2022-11-29T14:10:09.619+00:00",
-        "total_expected_vote": 269048
+        "provider_updated_at": "2022-11-29T15:34:17.413+00:00",
+        "total_expected_vote": 44248
       },
       "historical_2020_pres": {
         "votes": 400809,
@@ -75417,7 +75417,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-29T14:26:15.248Z",
+      "updated_at": "2022-11-29T15:34:18.605Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -75435,11 +75435,11 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "North Carolina",
           "level": "state",
           "nyt_id": "NC-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "N.C.",
           "candidates": [
             {
@@ -75483,7 +75483,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 275,
-          "total_expected_vote": 326600
+          "total_expected_vote": 217651
         }
       ],
       "candidate_metadata": {
@@ -75538,11 +75538,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "North Carolina",
         "level": "state",
         "nyt_id": "NC-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "N.C.",
         "candidates": [
@@ -75587,8 +75587,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 275,
-        "provider_updated_at": "2022-11-29T14:26:15.248+00:00",
-        "total_expected_vote": 326600
+        "provider_updated_at": "2022-11-29T15:34:18.605+00:00",
+        "total_expected_vote": 217651
       },
       "historical_2020_pres": {
         "votes": 436128,
@@ -75724,7 +75724,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T21:33:09.657Z",
+      "updated_at": "2022-11-29T15:34:16.256Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "12",
@@ -75734,11 +75734,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "North Carolina",
           "level": "state",
           "nyt_id": "NC-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "N.C.",
           "candidates": [
             {
@@ -75773,7 +75773,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 114,
-          "total_expected_vote": 226170
+          "total_expected_vote": 165847
         }
       ],
       "candidate_metadata": {
@@ -75812,11 +75812,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "North Carolina",
         "level": "state",
         "nyt_id": "NC-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "N.C.",
         "candidates": [
@@ -75852,8 +75852,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 114,
-        "provider_updated_at": "2022-11-28T21:33:09.657+00:00",
-        "total_expected_vote": 226170
+        "provider_updated_at": "2022-11-29T15:34:16.256+00:00",
+        "total_expected_vote": 165847
       },
       "historical_2020_pres": {
         "votes": 355246,
@@ -75963,7 +75963,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-29T13:36:12.336Z",
+      "updated_at": "2022-11-29T15:34:18.199Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -75981,11 +75981,11 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "North Carolina",
           "level": "state",
           "nyt_id": "NC-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "N.C.",
           "candidates": [
             {
@@ -76020,7 +76020,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 129,
-          "total_expected_vote": 279882
+          "total_expected_vote": 180847
         }
       ],
       "candidate_metadata": {
@@ -76059,11 +76059,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "North Carolina",
         "level": "state",
         "nyt_id": "NC-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "N.C.",
         "candidates": [
@@ -76099,8 +76099,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 129,
-        "provider_updated_at": "2022-11-29T13:36:12.336+00:00",
-        "total_expected_vote": 279882
+        "provider_updated_at": "2022-11-29T15:34:18.199+00:00",
+        "total_expected_vote": 180847
       },
       "historical_2020_pres": {
         "votes": 395054,
@@ -76210,7 +76210,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-28T21:35:14.611Z",
+      "updated_at": "2022-11-29T15:34:16.897Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "14",
@@ -76220,11 +76220,11 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "North Carolina",
           "level": "state",
           "nyt_id": "NC-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "N.C.",
           "candidates": [
             {
@@ -76259,7 +76259,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 151,
-          "total_expected_vote": 260029
+          "total_expected_vote": 194073
         }
       ],
       "candidate_metadata": {
@@ -76298,11 +76298,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "North Carolina",
         "level": "state",
         "nyt_id": "NC-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "N.C.",
         "candidates": [
@@ -76338,8 +76338,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 151,
-        "provider_updated_at": "2022-11-28T21:35:14.611+00:00",
-        "total_expected_vote": 260029
+        "provider_updated_at": "2022-11-29T15:34:16.897+00:00",
+        "total_expected_vote": 194073
       },
       "historical_2020_pres": {
         "votes": 389344,
@@ -113719,7 +113719,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "I",
-        "updated_at": "2022-11-16T15:44:24.670Z",
+        "updated_at": "2022-11-29T15:42:50.067Z",
         "description": "No requirement to fund",
         "max_winners": 1,
         "race_titles": {
@@ -113738,11 +113738,11 @@
         "has_incumbent": false,
         "reporting_units": [
           {
-            "eevp": 99,
+            "eevp": 100,
             "name": "Kentucky",
             "level": "state",
             "nyt_id": "KY-state",
-            "eevp_max": 99,
+            "eevp_max": 100,
             "provider": "ap",
             "state_abb": "Ky.",
             "candidates": [
@@ -113768,14 +113768,14 @@
             "fips_suffix": null,
             "total_votes": 1417807,
             "state_postal": "KY",
-            "source_run_id": 1855721,
-            "vote_report_id": 1043762449,
+            "source_run_id": 2049438,
+            "vote_report_id": 1047670002,
             "precincts_total": 3713,
             "election_track_id": 24,
             "nyt_vote_estimate": null,
             "precincts_reporting": 3713,
-            "provider_updated_at": "2022-11-16T15:44:24.67+00:00",
-            "total_expected_vote": 1428337,
+            "provider_updated_at": "2022-11-29T15:42:50.067+00:00",
+            "total_expected_vote": 1417866,
             "precincts_reporting_actual": 3713,
             "precincts_reporting_proportional": 3676
           }
@@ -113818,11 +113818,11 @@
         },
         "show_precinct_data": null,
         "top_reporting_unit": {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Kentucky",
           "level": "state",
           "nyt_id": "KY-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "provider": "ap",
           "state_abb": "Ky.",
           "candidates": [
@@ -113848,14 +113848,14 @@
           "fips_suffix": null,
           "total_votes": 1417807,
           "state_postal": "KY",
-          "source_run_id": 1855721,
-          "vote_report_id": 1043762449,
+          "source_run_id": 2049438,
+          "vote_report_id": 1047670002,
           "precincts_total": 3713,
           "election_track_id": 24,
           "nyt_vote_estimate": null,
           "precincts_reporting": 3713,
-          "provider_updated_at": "2022-11-16T15:44:24.67+00:00",
-          "total_expected_vote": 1428337,
+          "provider_updated_at": "2022-11-29T15:42:50.067+00:00",
+          "total_expected_vote": 1417866,
           "precincts_reporting_actual": 3713,
           "precincts_reporting_proportional": 3676
         }
@@ -115912,7 +115912,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "S",
-        "updated_at": "2022-11-29T13:52:11.950Z",
+        "updated_at": "2022-11-29T15:34:19.569Z",
         "description": null,
         "max_winners": 1,
         "race_titles": {
@@ -115931,11 +115931,11 @@
         "has_incumbent": false,
         "reporting_units": [
           {
-            "eevp": 99,
+            "eevp": 100,
             "name": "North Carolina",
             "level": "state",
             "nyt_id": "NC-state",
-            "eevp_max": 99,
+            "eevp_max": 100,
             "provider": "ap",
             "state_abb": "N.C.",
             "candidates": [
@@ -115981,8 +115981,8 @@
             "fips_suffix": null,
             "total_votes": 3771409,
             "state_postal": "NC",
-            "source_run_id": 2049170,
-            "vote_report_id": 1047635282,
+            "source_run_id": 2049411,
+            "vote_report_id": 1047666665,
             "precincts_total": 2655,
             "election_track_id": 24,
             "nyt_vote_estimate": {
@@ -115992,8 +115992,8 @@
               "total_expected_vote": null
             },
             "precincts_reporting": 2655,
-            "provider_updated_at": "2022-11-29T13:52:11.95+00:00",
-            "total_expected_vote": 3809603,
+            "provider_updated_at": "2022-11-29T15:34:19.569+00:00",
+            "total_expected_vote": 1957162,
             "precincts_reporting_actual": 2655,
             "precincts_reporting_proportional": 2628
           }
@@ -116070,11 +116070,11 @@
         },
         "show_precinct_data": null,
         "top_reporting_unit": {
-          "eevp": 99,
+          "eevp": 100,
           "name": "North Carolina",
           "level": "state",
           "nyt_id": "NC-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "provider": "ap",
           "state_abb": "N.C.",
           "candidates": [
@@ -116120,8 +116120,8 @@
           "fips_suffix": null,
           "total_votes": 3771409,
           "state_postal": "NC",
-          "source_run_id": 2049170,
-          "vote_report_id": 1047635282,
+          "source_run_id": 2049411,
+          "vote_report_id": 1047666665,
           "precincts_total": 2655,
           "election_track_id": 24,
           "nyt_vote_estimate": {
@@ -116131,8 +116131,8 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 2655,
-          "provider_updated_at": "2022-11-29T13:52:11.95+00:00",
-          "total_expected_vote": 3809603,
+          "provider_updated_at": "2022-11-29T15:34:19.569+00:00",
+          "total_expected_vote": 1957162,
           "precincts_reporting_actual": 2655,
           "precincts_reporting_proportional": 2628
         }
@@ -117422,7 +117422,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "S",
-        "updated_at": "2022-11-29T13:52:11.950Z",
+        "updated_at": "2022-11-29T15:34:19.569Z",
         "description": null,
         "max_winners": 1,
         "race_titles": {
@@ -117441,11 +117441,11 @@
         "has_incumbent": false,
         "reporting_units": [
           {
-            "eevp": 99,
+            "eevp": 100,
             "name": "North Carolina",
             "level": "state",
             "nyt_id": "NC-state",
-            "eevp_max": 99,
+            "eevp_max": 100,
             "provider": "ap",
             "state_abb": "N.C.",
             "candidates": [
@@ -117491,8 +117491,8 @@
             "fips_suffix": null,
             "total_votes": 3771409,
             "state_postal": "NC",
-            "source_run_id": 2049170,
-            "vote_report_id": 1047635282,
+            "source_run_id": 2049411,
+            "vote_report_id": 1047666665,
             "precincts_total": 2655,
             "election_track_id": 24,
             "nyt_vote_estimate": {
@@ -117502,8 +117502,8 @@
               "total_expected_vote": null
             },
             "precincts_reporting": 2655,
-            "provider_updated_at": "2022-11-29T13:52:11.95+00:00",
-            "total_expected_vote": 3809603,
+            "provider_updated_at": "2022-11-29T15:34:19.569+00:00",
+            "total_expected_vote": 1957162,
             "precincts_reporting_actual": 2655,
             "precincts_reporting_proportional": 2628
           }
@@ -117580,11 +117580,11 @@
         },
         "show_precinct_data": null,
         "top_reporting_unit": {
-          "eevp": 99,
+          "eevp": 100,
           "name": "North Carolina",
           "level": "state",
           "nyt_id": "NC-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "provider": "ap",
           "state_abb": "N.C.",
           "candidates": [
@@ -117630,8 +117630,8 @@
           "fips_suffix": null,
           "total_votes": 3771409,
           "state_postal": "NC",
-          "source_run_id": 2049170,
-          "vote_report_id": 1047635282,
+          "source_run_id": 2049411,
+          "vote_report_id": 1047666665,
           "precincts_total": 2655,
           "election_track_id": 24,
           "nyt_vote_estimate": {
@@ -117641,8 +117641,8 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 2655,
-          "provider_updated_at": "2022-11-29T13:52:11.95+00:00",
-          "total_expected_vote": 3809603,
+          "provider_updated_at": "2022-11-29T15:34:19.569+00:00",
+          "total_expected_vote": 1957162,
           "precincts_reporting_actual": 2655,
           "precincts_reporting_proportional": 2628
         }
@@ -117943,7 +117943,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "S",
-        "updated_at": "2022-11-29T13:52:11.950Z",
+        "updated_at": "2022-11-29T15:34:19.569Z",
         "description": null,
         "max_winners": 1,
         "race_titles": {
@@ -117962,11 +117962,11 @@
         "has_incumbent": false,
         "reporting_units": [
           {
-            "eevp": 99,
+            "eevp": 100,
             "name": "North Carolina",
             "level": "state",
             "nyt_id": "NC-state",
-            "eevp_max": 99,
+            "eevp_max": 100,
             "provider": "ap",
             "state_abb": "N.C.",
             "candidates": [
@@ -118012,8 +118012,8 @@
             "fips_suffix": null,
             "total_votes": 3771409,
             "state_postal": "NC",
-            "source_run_id": 2049170,
-            "vote_report_id": 1047635282,
+            "source_run_id": 2049411,
+            "vote_report_id": 1047666665,
             "precincts_total": 2655,
             "election_track_id": 24,
             "nyt_vote_estimate": {
@@ -118023,8 +118023,8 @@
               "total_expected_vote": null
             },
             "precincts_reporting": 2655,
-            "provider_updated_at": "2022-11-29T13:52:11.95+00:00",
-            "total_expected_vote": 3809603,
+            "provider_updated_at": "2022-11-29T15:34:19.569+00:00",
+            "total_expected_vote": 1957162,
             "precincts_reporting_actual": 2655,
             "precincts_reporting_proportional": 2628
           }
@@ -118101,11 +118101,11 @@
         },
         "show_precinct_data": null,
         "top_reporting_unit": {
-          "eevp": 99,
+          "eevp": 100,
           "name": "North Carolina",
           "level": "state",
           "nyt_id": "NC-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "provider": "ap",
           "state_abb": "N.C.",
           "candidates": [
@@ -118151,8 +118151,8 @@
           "fips_suffix": null,
           "total_votes": 3771409,
           "state_postal": "NC",
-          "source_run_id": 2049170,
-          "vote_report_id": 1047635282,
+          "source_run_id": 2049411,
+          "vote_report_id": 1047666665,
           "precincts_total": 2655,
           "election_track_id": 24,
           "nyt_vote_estimate": {
@@ -118162,8 +118162,8 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 2655,
-          "provider_updated_at": "2022-11-29T13:52:11.95+00:00",
-          "total_expected_vote": 3809603,
+          "provider_updated_at": "2022-11-29T15:34:19.569+00:00",
+          "total_expected_vote": 1957162,
           "precincts_reporting_actual": 2655,
           "precincts_reporting_proportional": 2628
         }
@@ -118701,7 +118701,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "I",
-        "updated_at": "2022-11-16T15:44:24.670Z",
+        "updated_at": "2022-11-29T15:42:50.067Z",
         "description": "No requirement to fund",
         "max_winners": 1,
         "race_titles": {
@@ -118720,11 +118720,11 @@
         "has_incumbent": false,
         "reporting_units": [
           {
-            "eevp": 99,
+            "eevp": 100,
             "name": "Kentucky",
             "level": "state",
             "nyt_id": "KY-state",
-            "eevp_max": 99,
+            "eevp_max": 100,
             "provider": "ap",
             "state_abb": "Ky.",
             "candidates": [
@@ -118750,14 +118750,14 @@
             "fips_suffix": null,
             "total_votes": 1417807,
             "state_postal": "KY",
-            "source_run_id": 1855721,
-            "vote_report_id": 1043762449,
+            "source_run_id": 2049438,
+            "vote_report_id": 1047670002,
             "precincts_total": 3713,
             "election_track_id": 24,
             "nyt_vote_estimate": null,
             "precincts_reporting": 3713,
-            "provider_updated_at": "2022-11-16T15:44:24.67+00:00",
-            "total_expected_vote": 1428337,
+            "provider_updated_at": "2022-11-29T15:42:50.067+00:00",
+            "total_expected_vote": 1417866,
             "precincts_reporting_actual": 3713,
             "precincts_reporting_proportional": 3676
           }
@@ -118800,11 +118800,11 @@
         },
         "show_precinct_data": null,
         "top_reporting_unit": {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Kentucky",
           "level": "state",
           "nyt_id": "KY-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "provider": "ap",
           "state_abb": "Ky.",
           "candidates": [
@@ -118830,14 +118830,14 @@
           "fips_suffix": null,
           "total_votes": 1417807,
           "state_postal": "KY",
-          "source_run_id": 1855721,
-          "vote_report_id": 1043762449,
+          "source_run_id": 2049438,
+          "vote_report_id": 1047670002,
           "precincts_total": 3713,
           "election_track_id": 24,
           "nyt_vote_estimate": null,
           "precincts_reporting": 3713,
-          "provider_updated_at": "2022-11-16T15:44:24.67+00:00",
-          "total_expected_vote": 1428337,
+          "provider_updated_at": "2022-11-29T15:42:50.067+00:00",
+          "total_expected_vote": 1417866,
           "precincts_reporting_actual": 3713,
           "precincts_reporting_proportional": 3676
         }
@@ -121573,7 +121573,7 @@
   },
   "resultsMeta": {
     "docsUpdatedAt": "2022-11-09T09:03:24.208Z",
-    "resultsUpdatedAt": "2022-11-29T14:52:09.357Z"
+    "resultsUpdatedAt": "2022-11-29T16:05:26.036Z"
   },
   "raceCollections": {
     "scoreboard_races": [
@@ -124828,7 +124828,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "S",
-        "updated_at": "2022-11-29T13:52:11.950Z",
+        "updated_at": "2022-11-29T15:34:19.569Z",
         "max_winners": 1,
         "race_titles": {
           "location": null,
@@ -124846,11 +124846,11 @@
         "has_incumbent": false,
         "reporting_units": [
           {
-            "eevp": 99,
+            "eevp": 100,
             "name": "North Carolina",
             "level": "state",
             "nyt_id": "NC-state",
-            "eevp_max": 99,
+            "eevp_max": 100,
             "state_abb": "N.C.",
             "candidates": [
               {
@@ -124903,7 +124903,7 @@
               "total_expected_vote": null
             },
             "precincts_reporting": 2655,
-            "total_expected_vote": 3809603
+            "total_expected_vote": 1957162
           }
         ],
         "candidate_metadata": {
@@ -124974,11 +124974,11 @@
         },
         "show_precinct_data": null,
         "top_reporting_unit": {
-          "eevp": 99,
+          "eevp": 100,
           "name": "North Carolina",
           "level": "state",
           "nyt_id": "NC-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "provider": "ap",
           "state_abb": "N.C.",
           "candidates": [
@@ -125032,8 +125032,8 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 2655,
-          "provider_updated_at": "2022-11-29T13:52:11.95+00:00",
-          "total_expected_vote": 3809603
+          "provider_updated_at": "2022-11-29T15:34:19.569+00:00",
+          "total_expected_vote": 1957162
         },
         "nyt_voteshare_estimate": {
           "votes": {
