@@ -44833,7 +44833,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-15T14:27:06.077Z",
+      "updated_at": "2022-11-30T02:34:30.697Z",
       "max_winners": 1,
       "rcv_nyt_ids": [
         "ME-V-H-1-2022-11-08"
@@ -44845,11 +44845,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Maine",
           "level": "state",
           "nyt_id": "ME-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Maine",
           "candidates": [
             {
@@ -44890,7 +44890,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 150,
-          "total_expected_vote": 351497
+          "total_expected_vote": 347988
         }
       ],
       "candidate_metadata": {
@@ -44945,11 +44945,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "Maine",
         "level": "state",
         "nyt_id": "ME-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Maine",
         "candidates": [
@@ -44991,8 +44991,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 150,
-        "provider_updated_at": "2022-11-15T14:27:06.077+00:00",
-        "total_expected_vote": 351497
+        "provider_updated_at": "2022-11-30T02:34:30.697+00:00",
+        "total_expected_vote": 347988
       },
       "historical_2020_pres": {
         "votes": 430153,
@@ -66215,7 +66215,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-30T00:17:12.059Z",
+      "updated_at": "2022-11-30T02:40:22.813Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -66347,7 +66347,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 637,
-        "provider_updated_at": "2022-11-30T00:17:12.059+00:00",
+        "provider_updated_at": "2022-11-30T02:40:22.813+00:00",
         "total_expected_vote": 192609
       },
       "historical_2020_pres": {
@@ -66458,7 +66458,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-30T00:39:11.526Z",
+      "updated_at": "2022-11-30T02:25:22.218Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "3",
@@ -66582,7 +66582,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 732,
-        "provider_updated_at": "2022-11-30T00:39:11.526+00:00",
+        "provider_updated_at": "2022-11-30T02:25:22.218+00:00",
         "total_expected_vote": 230757
       },
       "historical_2020_pres": {
@@ -107032,7 +107032,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-29T23:49:22.865Z",
+      "updated_at": "2022-11-30T01:12:56.724Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -107059,7 +107059,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 160277
+                "total": 160314
               },
               "leader": true,
               "nyt_id": "gluesenkamp_perez-m",
@@ -107067,7 +107067,7 @@
             },
             {
               "votes": {
-                "total": 157632
+                "total": 157685
               },
               "leader": false,
               "nyt_id": "kent-j",
@@ -107077,7 +107077,7 @@
           "fips_state": "53",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 317909,
+          "total_votes": 317999,
           "state_postal": "WA",
           "precincts_total": 628,
           "nyt_vote_estimate": {
@@ -107136,7 +107136,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 160277
+              "total": 160314
             },
             "leader": true,
             "nyt_id": "gluesenkamp_perez-m",
@@ -107144,7 +107144,7 @@
           },
           {
             "votes": {
-              "total": 157632
+              "total": 157685
             },
             "leader": false,
             "nyt_id": "kent-j",
@@ -107154,7 +107154,7 @@
         "fips_state": "53",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 317909,
+        "total_votes": 317999,
         "state_postal": "WA",
         "precincts_total": 628,
         "nyt_vote_estimate": {
@@ -107164,7 +107164,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 622,
-        "provider_updated_at": "2022-11-29T23:49:22.865+00:00",
+        "provider_updated_at": "2022-11-30T01:12:56.724+00:00",
         "total_expected_vote": 319994
       },
       "historical_2020_pres": {
@@ -121573,7 +121573,7 @@
   },
   "resultsMeta": {
     "docsUpdatedAt": "2022-11-09T09:03:24.208Z",
-    "resultsUpdatedAt": "2022-11-30T01:00:28.679Z"
+    "resultsUpdatedAt": "2022-11-30T02:40:22.813Z"
   },
   "raceCollections": {
     "scoreboard_races": [
