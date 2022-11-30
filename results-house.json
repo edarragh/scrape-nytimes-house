@@ -4459,7 +4459,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-29T22:46:38.946Z",
+      "updated_at": "2022-11-30T23:05:21.887Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -4469,7 +4469,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 100,
+          "eevp": 99.43,
           "name": "Arkansas",
           "level": "state",
           "nyt_id": "AR-state",
@@ -4508,7 +4508,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 787,
-          "total_expected_vote": 8432
+          "total_expected_vote": 208368
         }
       ],
       "candidate_metadata": {
@@ -4547,7 +4547,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 100,
+        "eevp": 99.43,
         "name": "Arkansas",
         "level": "state",
         "nyt_id": "AR-state",
@@ -4587,8 +4587,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 787,
-        "provider_updated_at": "2022-11-29T22:46:38.946+00:00",
-        "total_expected_vote": 8432
+        "provider_updated_at": "2022-11-30T23:05:21.887+00:00",
+        "total_expected_vote": 208368
       },
       "historical_2020_pres": {
         "votes": 286803,
@@ -4698,7 +4698,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-17T22:07:30.236Z",
+      "updated_at": "2022-11-30T23:05:21.982Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "2",
@@ -4708,11 +4708,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 99.74,
           "name": "Arkansas",
           "level": "state",
           "nyt_id": "AR-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Ark.",
           "candidates": [
             {
@@ -4756,7 +4756,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 407,
-          "total_expected_vote": 248300
+          "total_expected_vote": 246446
         }
       ],
       "candidate_metadata": {
@@ -4811,11 +4811,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 99.74,
         "name": "Arkansas",
         "level": "state",
         "nyt_id": "AR-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Ark.",
         "candidates": [
@@ -4860,8 +4860,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 407,
-        "provider_updated_at": "2022-11-17T22:07:30.236+00:00",
-        "total_expected_vote": 248300
+        "provider_updated_at": "2022-11-30T23:05:21.982+00:00",
+        "total_expected_vote": 246446
       },
       "historical_2020_pres": {
         "votes": 333038,
@@ -4997,7 +4997,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-17T22:06:53.818Z",
+      "updated_at": "2022-11-30T23:05:21.696Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "3",
@@ -5007,7 +5007,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 100,
+          "eevp": 99.89,
           "name": "Arkansas",
           "level": "state",
           "nyt_id": "AR-state",
@@ -5055,7 +5055,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 477,
-          "total_expected_vote": 26569
+          "total_expected_vote": 223588
         }
       ],
       "candidate_metadata": {
@@ -5110,7 +5110,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 100,
+        "eevp": 99.89,
         "name": "Arkansas",
         "level": "state",
         "nyt_id": "AR-state",
@@ -5159,8 +5159,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 477,
-        "provider_updated_at": "2022-11-17T22:06:53.818+00:00",
-        "total_expected_vote": 26569
+        "provider_updated_at": "2022-11-30T23:05:21.696+00:00",
+        "total_expected_vote": 223588
       },
       "historical_2020_pres": {
         "votes": 300273,
@@ -5296,7 +5296,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-17T22:06:52.925Z",
+      "updated_at": "2022-11-30T23:05:22.040Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "4",
@@ -5306,7 +5306,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 100,
+          "eevp": 99.88,
           "name": "Arkansas",
           "level": "state",
           "nyt_id": "AR-state",
@@ -5354,7 +5354,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 898,
-          "total_expected_vote": 7406
+          "total_expected_vote": 216696
         }
       ],
       "candidate_metadata": {
@@ -5409,7 +5409,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 100,
+        "eevp": 99.88,
         "name": "Arkansas",
         "level": "state",
         "nyt_id": "AR-state",
@@ -5458,8 +5458,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 898,
-        "provider_updated_at": "2022-11-17T22:06:52.925+00:00",
-        "total_expected_vote": 7406
+        "provider_updated_at": "2022-11-30T23:05:22.04+00:00",
+        "total_expected_vote": 216696
       },
       "historical_2020_pres": {
         "votes": 298955,
@@ -45439,7 +45439,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-30T20:19:02.448Z",
+      "updated_at": "2022-11-30T22:54:04.312Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -45595,7 +45595,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 307,
-        "provider_updated_at": "2022-11-30T20:19:02.448+00:00",
+        "provider_updated_at": "2022-11-30T22:54:04.312+00:00",
         "total_expected_vote": 296069
       },
       "historical_2020_pres": {
@@ -46672,7 +46672,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-29T20:48:04.873Z",
+      "updated_at": "2022-11-30T22:54:03.415Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -46804,7 +46804,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 245,
-        "provider_updated_at": "2022-11-29T20:48:04.873+00:00",
+        "provider_updated_at": "2022-11-30T22:54:03.415+00:00",
         "total_expected_vote": 258653
       },
       "historical_2020_pres": {
@@ -47443,7 +47443,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T17:54:03.749Z",
+      "updated_at": "2022-11-30T22:19:05.756Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -47453,11 +47453,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 97.68,
+          "eevp": 97.61,
           "name": "Massachusetts",
           "level": "state",
           "nyt_id": "MA-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mass.",
           "candidates": [
             {
@@ -47490,7 +47490,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 303,
-          "total_expected_vote": 255844
+          "total_expected_vote": 256021
         }
       ],
       "candidate_metadata": {
@@ -47529,11 +47529,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 97.68,
+        "eevp": 97.61,
         "name": "Massachusetts",
         "level": "state",
         "nyt_id": "MA-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mass.",
         "candidates": [
@@ -47567,8 +47567,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 303,
-        "provider_updated_at": "2022-11-16T17:54:03.749+00:00",
-        "total_expected_vote": 255844
+        "provider_updated_at": "2022-11-30T22:19:05.756+00:00",
+        "total_expected_vote": 256021
       },
       "historical_2020_pres": {
         "votes": 394060,
@@ -47678,7 +47678,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T17:59:52.043Z",
+      "updated_at": "2022-11-30T22:19:40.811Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "2",
@@ -47688,11 +47688,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 98.89,
           "name": "Massachusetts",
           "level": "state",
           "nyt_id": "MA-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mass.",
           "candidates": [
             {
@@ -47725,7 +47725,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 257,
-          "total_expected_vote": 272247
+          "total_expected_vote": 272595
         }
       ],
       "candidate_metadata": {
@@ -47764,11 +47764,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 98.89,
         "name": "Massachusetts",
         "level": "state",
         "nyt_id": "MA-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mass.",
         "candidates": [
@@ -47802,8 +47802,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 257,
-        "provider_updated_at": "2022-11-16T17:59:52.043+00:00",
-        "total_expected_vote": 272247
+        "provider_updated_at": "2022-11-30T22:19:40.811+00:00",
+        "total_expected_vote": 272595
       },
       "historical_2020_pres": {
         "votes": 398525,
@@ -47913,7 +47913,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T17:55:37.839Z",
+      "updated_at": "2022-11-30T22:19:56.992Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "3",
@@ -47923,11 +47923,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 93.85,
           "name": "Massachusetts",
           "level": "state",
           "nyt_id": "MA-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mass.",
           "candidates": [
             {
@@ -47960,7 +47960,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 256,
-          "total_expected_vote": 230439
+          "total_expected_vote": 243081
         }
       ],
       "candidate_metadata": {
@@ -47999,11 +47999,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 93.85,
         "name": "Massachusetts",
         "level": "state",
         "nyt_id": "MA-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mass.",
         "candidates": [
@@ -48037,8 +48037,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 256,
-        "provider_updated_at": "2022-11-16T17:55:37.839+00:00",
-        "total_expected_vote": 230439
+        "provider_updated_at": "2022-11-30T22:19:56.992+00:00",
+        "total_expected_vote": 243081
       },
       "historical_2020_pres": {
         "votes": 373745,
@@ -48148,7 +48148,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-10T21:02:11.249Z",
+      "updated_at": "2022-11-30T22:20:13.059Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "4",
@@ -48240,7 +48240,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 0,
-        "provider_updated_at": "2022-11-10T21:02:11.249+00:00",
+        "provider_updated_at": "2022-11-30T22:20:13.059+00:00",
         "total_expected_vote": null
       },
       "historical_2020_pres": {
@@ -48325,7 +48325,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T17:52:32.893Z",
+      "updated_at": "2022-11-30T22:24:19.072Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "5",
@@ -48335,11 +48335,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 97.76,
           "name": "Massachusetts",
           "level": "state",
           "nyt_id": "MA-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mass.",
           "candidates": [
             {
@@ -48372,7 +48372,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 272,
-          "total_expected_vote": 272001
+          "total_expected_vote": 275485
         }
       ],
       "candidate_metadata": {
@@ -48411,11 +48411,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 97.76,
         "name": "Massachusetts",
         "level": "state",
         "nyt_id": "MA-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mass.",
         "candidates": [
@@ -48449,8 +48449,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 272,
-        "provider_updated_at": "2022-11-16T17:52:32.893+00:00",
-        "total_expected_vote": 272001
+        "provider_updated_at": "2022-11-30T22:24:19.072+00:00",
+        "total_expected_vote": 275485
       },
       "historical_2020_pres": {
         "votes": 401615,
@@ -48560,7 +48560,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T17:52:47.217Z",
+      "updated_at": "2022-11-30T22:20:31.815Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "6",
@@ -48570,11 +48570,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 98.7,
+          "eevp": 96.32,
           "name": "Massachusetts",
           "level": "state",
           "nyt_id": "MA-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mass.",
           "candidates": [
             {
@@ -48615,7 +48615,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 235,
-          "total_expected_vote": 307284
+          "total_expected_vote": 314884
         }
       ],
       "candidate_metadata": {
@@ -48670,11 +48670,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 98.7,
+        "eevp": 96.32,
         "name": "Massachusetts",
         "level": "state",
         "nyt_id": "MA-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mass.",
         "candidates": [
@@ -48716,8 +48716,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 235,
-        "provider_updated_at": "2022-11-16T17:52:47.217+00:00",
-        "total_expected_vote": 307284
+        "provider_updated_at": "2022-11-30T22:20:31.815+00:00",
+        "total_expected_vote": 314884
       },
       "historical_2020_pres": {
         "votes": 451743,
@@ -48853,7 +48853,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-11T05:46:42.110Z",
+      "updated_at": "2022-11-30T22:20:35.352Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "7",
@@ -48863,11 +48863,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 98.4,
+          "eevp": 95.77,
           "name": "Massachusetts",
           "level": "state",
           "nyt_id": "MA-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mass.",
           "candidates": [
             {
@@ -48900,7 +48900,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 301,
-          "total_expected_vote": 174173
+          "total_expected_vote": 178954
         }
       ],
       "candidate_metadata": {
@@ -48939,11 +48939,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 98.4,
+        "eevp": 95.77,
         "name": "Massachusetts",
         "level": "state",
         "nyt_id": "MA-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mass.",
         "candidates": [
@@ -48977,8 +48977,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 301,
-        "provider_updated_at": "2022-11-11T05:46:42.11+00:00",
-        "total_expected_vote": 174173
+        "provider_updated_at": "2022-11-30T22:20:35.352+00:00",
+        "total_expected_vote": 178954
       },
       "historical_2020_pres": {
         "votes": 316404,
@@ -49088,7 +49088,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T18:01:34.258Z",
+      "updated_at": "2022-11-30T22:20:45.681Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "8",
@@ -49098,11 +49098,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 98.25,
+          "eevp": 97.4,
           "name": "Massachusetts",
           "level": "state",
           "nyt_id": "MA-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mass.",
           "candidates": [
             {
@@ -49135,7 +49135,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 272,
-          "total_expected_vote": 269765
+          "total_expected_vote": 272113
         }
       ],
       "candidate_metadata": {
@@ -49174,11 +49174,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 98.25,
+        "eevp": 97.4,
         "name": "Massachusetts",
         "level": "state",
         "nyt_id": "MA-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mass.",
         "candidates": [
@@ -49212,8 +49212,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 272,
-        "provider_updated_at": "2022-11-16T18:01:34.258+00:00",
-        "total_expected_vote": 269765
+        "provider_updated_at": "2022-11-30T22:20:45.681+00:00",
+        "total_expected_vote": 272113
       },
       "historical_2020_pres": {
         "votes": 412882,
@@ -49323,7 +49323,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T17:53:12.008Z",
+      "updated_at": "2022-11-30T22:24:08.136Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "9",
@@ -49333,11 +49333,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 98.28,
+          "eevp": 98.27,
           "name": "Massachusetts",
           "level": "state",
           "nyt_id": "MA-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Mass.",
           "candidates": [
             {
@@ -49370,7 +49370,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 247,
-          "total_expected_vote": 331046
+          "total_expected_vote": 331076
         }
       ],
       "candidate_metadata": {
@@ -49409,11 +49409,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 98.28,
+        "eevp": 98.27,
         "name": "Massachusetts",
         "level": "state",
         "nyt_id": "MA-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Mass.",
         "candidates": [
@@ -49447,8 +49447,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 247,
-        "provider_updated_at": "2022-11-16T17:53:12.008+00:00",
-        "total_expected_vote": 331046
+        "provider_updated_at": "2022-11-30T22:24:08.136+00:00",
+        "total_expected_vote": 331076
       },
       "historical_2020_pres": {
         "votes": 456005,
@@ -65980,7 +65980,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-30T21:57:20.347Z",
+      "updated_at": "2022-11-30T22:27:30.737Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -65990,7 +65990,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 100,
+          "eevp": 99.96,
           "name": "New Mexico",
           "level": "state",
           "nyt_id": "NM-state",
@@ -66027,7 +66027,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 751,
-          "total_expected_vote": 280489
+          "total_expected_vote": 280613
         }
       ],
       "candidate_metadata": {
@@ -66066,7 +66066,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 100,
+        "eevp": 99.96,
         "name": "New Mexico",
         "level": "state",
         "nyt_id": "NM-state",
@@ -66104,8 +66104,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 751,
-        "provider_updated_at": "2022-11-30T21:57:20.347+00:00",
-        "total_expected_vote": 280489
+        "provider_updated_at": "2022-11-30T22:27:30.737+00:00",
+        "total_expected_vote": 280613
       },
       "historical_2020_pres": {
         "votes": 357519,
@@ -66215,7 +66215,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-30T21:46:14.140Z",
+      "updated_at": "2022-11-30T22:59:20.646Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -66270,7 +66270,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 637,
-          "total_expected_vote": 192609
+          "total_expected_vote": 192622
         }
       ],
       "candidate_metadata": {
@@ -66347,8 +66347,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 637,
-        "provider_updated_at": "2022-11-30T21:46:14.14+00:00",
-        "total_expected_vote": 192609
+        "provider_updated_at": "2022-11-30T22:59:20.646+00:00",
+        "total_expected_vote": 192622
       },
       "historical_2020_pres": {
         "votes": 267152,
@@ -66458,7 +66458,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-30T21:14:14.246Z",
+      "updated_at": "2022-11-30T22:44:24.585Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "3",
@@ -66468,7 +66468,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 100,
+          "eevp": 99.99,
           "name": "New Mexico",
           "level": "state",
           "nyt_id": "NM-state",
@@ -66505,7 +66505,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 732,
-          "total_expected_vote": 230757
+          "total_expected_vote": 230782
         }
       ],
       "candidate_metadata": {
@@ -66544,7 +66544,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 100,
+        "eevp": 99.99,
         "name": "New Mexico",
         "level": "state",
         "nyt_id": "NM-state",
@@ -66582,8 +66582,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 732,
-        "provider_updated_at": "2022-11-30T21:14:14.246+00:00",
-        "total_expected_vote": 230757
+        "provider_updated_at": "2022-11-30T22:44:24.585+00:00",
+        "total_expected_vote": 230782
       },
       "historical_2020_pres": {
         "votes": 299294,
@@ -117692,7 +117692,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "G",
-        "updated_at": "2022-11-16T18:01:34.279Z",
+        "updated_at": "2022-11-30T22:23:45.169Z",
         "description": null,
         "max_winners": 1,
         "race_titles": {
@@ -117711,11 +117711,11 @@
         "has_incumbent": false,
         "reporting_units": [
           {
-            "eevp": 99,
+            "eevp": 98.09,
             "name": "Massachusetts",
             "level": "state",
             "nyt_id": "MA-state",
-            "eevp_max": 99,
+            "eevp_max": 100,
             "provider": "ap",
             "state_abb": "Mass.",
             "candidates": [
@@ -117749,14 +117749,14 @@
             "fips_suffix": null,
             "total_votes": 2432418,
             "state_postal": "MA",
-            "source_run_id": 1857247,
-            "vote_report_id": 1043777711,
+            "source_run_id": 2053796,
+            "vote_report_id": 1047820876,
             "precincts_total": 2390,
             "election_track_id": 24,
             "nyt_vote_estimate": null,
             "precincts_reporting": 2386,
-            "provider_updated_at": "2022-11-16T18:01:34.279+00:00",
-            "total_expected_vote": 2448797,
+            "provider_updated_at": "2022-11-30T22:23:45.169+00:00",
+            "total_expected_vote": 2479852,
             "precincts_reporting_actual": 2386,
             "precincts_reporting_proportional": 2366
           }
@@ -117816,11 +117816,11 @@
         },
         "show_precinct_data": null,
         "top_reporting_unit": {
-          "eevp": 99,
+          "eevp": 98.09,
           "name": "Massachusetts",
           "level": "state",
           "nyt_id": "MA-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "provider": "ap",
           "state_abb": "Mass.",
           "candidates": [
@@ -117854,14 +117854,14 @@
           "fips_suffix": null,
           "total_votes": 2432418,
           "state_postal": "MA",
-          "source_run_id": 1857247,
-          "vote_report_id": 1043777711,
+          "source_run_id": 2053796,
+          "vote_report_id": 1047820876,
           "precincts_total": 2390,
           "election_track_id": 24,
           "nyt_vote_estimate": null,
           "precincts_reporting": 2386,
-          "provider_updated_at": "2022-11-16T18:01:34.279+00:00",
-          "total_expected_vote": 2448797,
+          "provider_updated_at": "2022-11-30T22:23:45.169+00:00",
+          "total_expected_vote": 2479852,
           "precincts_reporting_actual": 2386,
           "precincts_reporting_proportional": 2366
         }
@@ -121573,7 +121573,7 @@
   },
   "resultsMeta": {
     "docsUpdatedAt": "2022-11-09T09:03:24.208Z",
-    "resultsUpdatedAt": "2022-11-30T21:57:20.347Z"
+    "resultsUpdatedAt": "2022-11-30T23:05:22.040Z"
   },
   "raceCollections": {
     "scoreboard_races": [
