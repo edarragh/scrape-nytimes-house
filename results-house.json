@@ -5595,7 +5595,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-30T18:31:22.443Z",
+      "updated_at": "2022-11-30T20:03:15.071Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -5642,7 +5642,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 562,
-          "total_expected_vote": 247288
+          "total_expected_vote": 247401
         }
       ],
       "candidate_metadata": {
@@ -5719,8 +5719,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 562,
-        "provider_updated_at": "2022-11-30T18:31:22.443+00:00",
-        "total_expected_vote": 247288
+        "provider_updated_at": "2022-11-30T20:03:15.071+00:00",
+        "total_expected_vote": 247401
       },
       "historical_2020_pres": {
         "votes": 348521,
@@ -65980,7 +65980,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-30T17:54:12.335Z",
+      "updated_at": "2022-11-30T19:24:24.032Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -66104,7 +66104,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 751,
-        "provider_updated_at": "2022-11-30T17:54:12.335+00:00",
+        "provider_updated_at": "2022-11-30T19:24:24.032+00:00",
         "total_expected_vote": 280489
       },
       "historical_2020_pres": {
@@ -66215,7 +66215,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-30T19:05:17.168Z",
+      "updated_at": "2022-11-30T20:11:10.935Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -66347,7 +66347,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 637,
-        "provider_updated_at": "2022-11-30T19:05:17.168+00:00",
+        "provider_updated_at": "2022-11-30T20:11:10.935+00:00",
         "total_expected_vote": 192609
       },
       "historical_2020_pres": {
@@ -109464,7 +109464,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-23T14:20:15.189Z",
+      "updated_at": "2022-11-30T19:06:47.546Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -109474,11 +109474,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 99.97,
           "name": "Wisconsin",
           "level": "state",
           "nyt_id": "WI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Wis.",
           "candidates": [
             {
@@ -109519,7 +109519,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 353,
-          "total_expected_vote": 303634
+          "total_expected_vote": 300682
         }
       ],
       "candidate_metadata": {
@@ -109574,11 +109574,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 99.97,
         "name": "Wisconsin",
         "level": "state",
         "nyt_id": "WI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Wis.",
         "candidates": [
@@ -109620,8 +109620,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 353,
-        "provider_updated_at": "2022-11-23T14:20:15.189+00:00",
-        "total_expected_vote": 303634
+        "provider_updated_at": "2022-11-30T19:06:47.546+00:00",
+        "total_expected_vote": 300682
       },
       "historical_2020_pres": {
         "votes": 394643,
@@ -109757,7 +109757,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-23T01:45:45.539Z",
+      "updated_at": "2022-11-30T19:06:50.519Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "2",
@@ -109767,11 +109767,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Wisconsin",
           "level": "state",
           "nyt_id": "WI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Wis.",
           "candidates": [
             {
@@ -109812,7 +109812,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 416,
-          "total_expected_vote": 382019
+          "total_expected_vote": 378319
         }
       ],
       "candidate_metadata": {
@@ -109867,11 +109867,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "Wisconsin",
         "level": "state",
         "nyt_id": "WI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Wis.",
         "candidates": [
@@ -109913,8 +109913,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 416,
-        "provider_updated_at": "2022-11-23T01:45:45.539+00:00",
-        "total_expected_vote": 382019
+        "provider_updated_at": "2022-11-30T19:06:50.519+00:00",
+        "total_expected_vote": 378319
       },
       "historical_2020_pres": {
         "votes": 444408,
@@ -110050,7 +110050,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-23T02:22:21.103Z",
+      "updated_at": "2022-11-30T19:06:59.891Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -110068,11 +110068,11 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 98.99,
+          "eevp": 99.95,
           "name": "Wisconsin",
           "level": "state",
           "nyt_id": "WI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Wis.",
           "candidates": [
             {
@@ -110105,7 +110105,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 602,
-          "total_expected_vote": 320809
+          "total_expected_vote": 317720
         }
       ],
       "candidate_metadata": {
@@ -110144,11 +110144,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 98.99,
+        "eevp": 99.95,
         "name": "Wisconsin",
         "level": "state",
         "nyt_id": "WI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Wis.",
         "candidates": [
@@ -110182,8 +110182,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 602,
-        "provider_updated_at": "2022-11-23T02:22:21.103+00:00",
-        "total_expected_vote": 320809
+        "provider_updated_at": "2022-11-30T19:06:59.891+00:00",
+        "total_expected_vote": 317720
       },
       "historical_2020_pres": {
         "votes": 396358,
@@ -110293,7 +110293,7 @@
       "coverage": "county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-23T14:20:56.832Z",
+      "updated_at": "2022-11-30T19:07:00.532Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "4",
@@ -110303,11 +110303,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Wisconsin",
           "level": "state",
           "nyt_id": "WI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Wis.",
           "candidates": [
             {
@@ -110348,7 +110348,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 431,
-          "total_expected_vote": 257627
+          "total_expected_vote": 254779
         }
       ],
       "candidate_metadata": {
@@ -110403,11 +110403,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "Wisconsin",
         "level": "state",
         "nyt_id": "WI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Wis.",
         "candidates": [
@@ -110449,8 +110449,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 431,
-        "provider_updated_at": "2022-11-23T14:20:56.832+00:00",
-        "total_expected_vote": 257627
+        "provider_updated_at": "2022-11-30T19:07:00.532+00:00",
+        "total_expected_vote": 254779
       },
       "historical_2020_pres": {
         "votes": 344072,
@@ -110586,7 +110586,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-23T14:44:40.631Z",
+      "updated_at": "2022-11-30T19:07:03.490Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "5",
@@ -110596,11 +110596,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Wisconsin",
           "level": "state",
           "nyt_id": "WI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Wis.",
           "candidates": [
             {
@@ -110633,7 +110633,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 336,
-          "total_expected_vote": 382097
+          "total_expected_vote": 378322
         }
       ],
       "candidate_metadata": {
@@ -110672,11 +110672,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "Wisconsin",
         "level": "state",
         "nyt_id": "WI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Wis.",
         "candidates": [
@@ -110710,8 +110710,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 336,
-        "provider_updated_at": "2022-11-23T14:44:40.631+00:00",
-        "total_expected_vote": 382097
+        "provider_updated_at": "2022-11-30T19:07:03.49+00:00",
+        "total_expected_vote": 378322
       },
       "historical_2020_pres": {
         "votes": 466098,
@@ -110821,7 +110821,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-09T09:57:24.081Z",
+      "updated_at": "2022-11-30T19:07:09.394Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "6",
@@ -110913,7 +110913,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 0,
-        "provider_updated_at": "2022-11-09T09:57:24.081+00:00",
+        "provider_updated_at": "2022-11-30T19:07:09.394+00:00",
         "total_expected_vote": null
       },
       "historical_2020_pres": {
@@ -110998,7 +110998,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-23T15:01:48.899Z",
+      "updated_at": "2022-11-30T19:07:21.485Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "7",
@@ -111008,11 +111008,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Wisconsin",
           "level": "state",
           "nyt_id": "WI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Wis.",
           "candidates": [
             {
@@ -111045,7 +111045,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 688,
-          "total_expected_vote": 341563
+          "total_expected_vote": 338101
         }
       ],
       "candidate_metadata": {
@@ -111084,11 +111084,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 100,
         "name": "Wisconsin",
         "level": "state",
         "nyt_id": "WI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Wis.",
         "candidates": [
@@ -111122,8 +111122,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 688,
-        "provider_updated_at": "2022-11-23T15:01:48.899+00:00",
-        "total_expected_vote": 341563
+        "provider_updated_at": "2022-11-30T19:07:21.485+00:00",
+        "total_expected_vote": 338101
       },
       "historical_2020_pres": {
         "votes": 423194,
@@ -111233,7 +111233,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-23T15:21:58.785Z",
+      "updated_at": "2022-11-30T19:46:45.849Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "8",
@@ -111243,11 +111243,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 99.89,
           "name": "Wisconsin",
           "level": "state",
           "nyt_id": "WI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Wis.",
           "candidates": [
             {
@@ -111288,7 +111288,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 402,
-          "total_expected_vote": 307593
+          "total_expected_vote": 304934
         }
       ],
       "candidate_metadata": {
@@ -111343,11 +111343,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 99.89,
         "name": "Wisconsin",
         "level": "state",
         "nyt_id": "WI-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Wis.",
         "candidates": [
@@ -111389,8 +111389,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 402,
-        "provider_updated_at": "2022-11-23T15:21:58.785+00:00",
-        "total_expected_vote": 307593
+        "provider_updated_at": "2022-11-30T19:46:45.849+00:00",
+        "total_expected_vote": 304934
       },
       "historical_2020_pres": {
         "votes": 412600,
@@ -114466,7 +114466,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "S",
-        "updated_at": "2022-11-22T23:05:05.335Z",
+        "updated_at": "2022-11-30T19:08:01.966Z",
         "description": null,
         "max_winners": 1,
         "race_titles": {
@@ -114485,11 +114485,11 @@
         "has_incumbent": true,
         "reporting_units": [
           {
-            "eevp": 99,
+            "eevp": 100,
             "name": "Wisconsin",
             "level": "state",
             "nyt_id": "WI-state",
-            "eevp_max": 99,
+            "eevp_max": 100,
             "provider": "ap",
             "state_abb": "Wis.",
             "candidates": [
@@ -114515,8 +114515,8 @@
             "fips_suffix": null,
             "total_votes": 2647601,
             "state_postal": "WI",
-            "source_run_id": 1956364,
-            "vote_report_id": 1045559041,
+            "source_run_id": 2053333,
+            "vote_report_id": 1047810545,
             "precincts_total": 3630,
             "election_track_id": 24,
             "nyt_vote_estimate": {
@@ -114526,8 +114526,8 @@
               "total_expected_vote": null
             },
             "precincts_reporting": 3630,
-            "provider_updated_at": "2022-11-22T23:05:05.335+00:00",
-            "total_expected_vote": 2668648,
+            "provider_updated_at": "2022-11-30T19:08:01.966+00:00",
+            "total_expected_vote": 2647652,
             "precincts_reporting_actual": 3630,
             "precincts_reporting_proportional": 3594
           }
@@ -114570,11 +114570,11 @@
         },
         "show_precinct_data": null,
         "top_reporting_unit": {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Wisconsin",
           "level": "state",
           "nyt_id": "WI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "provider": "ap",
           "state_abb": "Wis.",
           "candidates": [
@@ -114600,8 +114600,8 @@
           "fips_suffix": null,
           "total_votes": 2647601,
           "state_postal": "WI",
-          "source_run_id": 1956364,
-          "vote_report_id": 1045559041,
+          "source_run_id": 2053333,
+          "vote_report_id": 1047810545,
           "precincts_total": 3630,
           "election_track_id": 24,
           "nyt_vote_estimate": {
@@ -114611,8 +114611,8 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 3630,
-          "provider_updated_at": "2022-11-22T23:05:05.335+00:00",
-          "total_expected_vote": 2668648,
+          "provider_updated_at": "2022-11-30T19:08:01.966+00:00",
+          "total_expected_vote": 2647652,
           "precincts_reporting_actual": 3630,
           "precincts_reporting_proportional": 3594
         }
@@ -116500,7 +116500,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "S",
-        "updated_at": "2022-11-22T23:05:05.335Z",
+        "updated_at": "2022-11-30T19:08:01.966Z",
         "description": null,
         "max_winners": 1,
         "race_titles": {
@@ -116519,11 +116519,11 @@
         "has_incumbent": true,
         "reporting_units": [
           {
-            "eevp": 99,
+            "eevp": 100,
             "name": "Wisconsin",
             "level": "state",
             "nyt_id": "WI-state",
-            "eevp_max": 99,
+            "eevp_max": 100,
             "provider": "ap",
             "state_abb": "Wis.",
             "candidates": [
@@ -116549,8 +116549,8 @@
             "fips_suffix": null,
             "total_votes": 2647601,
             "state_postal": "WI",
-            "source_run_id": 1956364,
-            "vote_report_id": 1045559041,
+            "source_run_id": 2053333,
+            "vote_report_id": 1047810545,
             "precincts_total": 3630,
             "election_track_id": 24,
             "nyt_vote_estimate": {
@@ -116560,8 +116560,8 @@
               "total_expected_vote": null
             },
             "precincts_reporting": 3630,
-            "provider_updated_at": "2022-11-22T23:05:05.335+00:00",
-            "total_expected_vote": 2668648,
+            "provider_updated_at": "2022-11-30T19:08:01.966+00:00",
+            "total_expected_vote": 2647652,
             "precincts_reporting_actual": 3630,
             "precincts_reporting_proportional": 3594
           }
@@ -116604,11 +116604,11 @@
         },
         "show_precinct_data": null,
         "top_reporting_unit": {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Wisconsin",
           "level": "state",
           "nyt_id": "WI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "provider": "ap",
           "state_abb": "Wis.",
           "candidates": [
@@ -116634,8 +116634,8 @@
           "fips_suffix": null,
           "total_votes": 2647601,
           "state_postal": "WI",
-          "source_run_id": 1956364,
-          "vote_report_id": 1045559041,
+          "source_run_id": 2053333,
+          "vote_report_id": 1047810545,
           "precincts_total": 3630,
           "election_track_id": 24,
           "nyt_vote_estimate": {
@@ -116645,8 +116645,8 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 3630,
-          "provider_updated_at": "2022-11-22T23:05:05.335+00:00",
-          "total_expected_vote": 2668648,
+          "provider_updated_at": "2022-11-30T19:08:01.966+00:00",
+          "total_expected_vote": 2647652,
           "precincts_reporting_actual": 3630,
           "precincts_reporting_proportional": 3594
         }
@@ -121573,7 +121573,7 @@
   },
   "resultsMeta": {
     "docsUpdatedAt": "2022-11-09T09:03:24.208Z",
-    "resultsUpdatedAt": "2022-11-30T19:05:17.168Z"
+    "resultsUpdatedAt": "2022-11-30T20:11:10.935Z"
   },
   "raceCollections": {
     "scoreboard_races": [
@@ -125773,7 +125773,7 @@
         "coverage": "state",
         "certified": false,
         "office_id": "S",
-        "updated_at": "2022-11-22T23:05:05.335Z",
+        "updated_at": "2022-11-30T19:08:01.966Z",
         "max_winners": 1,
         "race_titles": {
           "location": null,
@@ -125791,11 +125791,11 @@
         "has_incumbent": true,
         "reporting_units": [
           {
-            "eevp": 99,
+            "eevp": 100,
             "name": "Wisconsin",
             "level": "state",
             "nyt_id": "WI-state",
-            "eevp_max": 99,
+            "eevp_max": 100,
             "state_abb": "Wis.",
             "candidates": [
               {
@@ -125828,7 +125828,7 @@
               "total_expected_vote": null
             },
             "precincts_reporting": 3630,
-            "total_expected_vote": 2668648
+            "total_expected_vote": 2647652
           }
         ],
         "candidate_metadata": {
@@ -125867,11 +125867,11 @@
         },
         "show_precinct_data": null,
         "top_reporting_unit": {
-          "eevp": 99,
+          "eevp": 100,
           "name": "Wisconsin",
           "level": "state",
           "nyt_id": "WI-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "provider": "ap",
           "state_abb": "Wis.",
           "candidates": [
@@ -125905,8 +125905,8 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 3630,
-          "provider_updated_at": "2022-11-22T23:05:05.335+00:00",
-          "total_expected_vote": 2668648
+          "provider_updated_at": "2022-11-30T19:08:01.966+00:00",
+          "total_expected_vote": 2647652
         },
         "nyt_voteshare_estimate": {
           "votes": {
