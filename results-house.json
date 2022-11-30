@@ -5595,7 +5595,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-30T13:20:10.185Z",
+      "updated_at": "2022-11-30T18:31:22.443Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -5614,7 +5614,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 151824
+                "total": 151921
               },
               "leader": true,
               "nyt_id": "lamalfa-d",
@@ -5622,7 +5622,7 @@
             },
             {
               "votes": {
-                "total": 92988
+                "total": 93040
               },
               "leader": false,
               "nyt_id": "steiner-m",
@@ -5632,7 +5632,7 @@
           "fips_state": "06",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 244812,
+          "total_votes": 244961,
           "state_postal": "CA",
           "precincts_total": 568,
           "nyt_vote_estimate": {
@@ -5691,7 +5691,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 151824
+              "total": 151921
             },
             "leader": true,
             "nyt_id": "lamalfa-d",
@@ -5699,7 +5699,7 @@
           },
           {
             "votes": {
-              "total": 92988
+              "total": 93040
             },
             "leader": false,
             "nyt_id": "steiner-m",
@@ -5709,7 +5709,7 @@
         "fips_state": "06",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 244812,
+        "total_votes": 244961,
         "state_postal": "CA",
         "precincts_total": 568,
         "nyt_vote_estimate": {
@@ -5719,7 +5719,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 562,
-        "provider_updated_at": "2022-11-30T13:20:10.185+00:00",
+        "provider_updated_at": "2022-11-30T18:31:22.443+00:00",
         "total_expected_vote": 247288
       },
       "historical_2020_pres": {
@@ -66215,7 +66215,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-30T17:52:12.716Z",
+      "updated_at": "2022-11-30T19:05:17.168Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -66347,7 +66347,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 637,
-        "provider_updated_at": "2022-11-30T17:52:12.716+00:00",
+        "provider_updated_at": "2022-11-30T19:05:17.168+00:00",
         "total_expected_vote": 192609
       },
       "historical_2020_pres": {
@@ -66458,7 +66458,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-30T18:01:10.594Z",
+      "updated_at": "2022-11-30T19:05:16.058Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "3",
@@ -66582,7 +66582,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 732,
-        "provider_updated_at": "2022-11-30T18:01:10.594+00:00",
+        "provider_updated_at": "2022-11-30T19:05:16.058+00:00",
         "total_expected_vote": 230757
       },
       "historical_2020_pres": {
@@ -92578,7 +92578,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:08.205Z",
       "max_winners": 1,
@@ -92590,7 +92590,7 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 99.84,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -92599,7 +92599,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 183005
+                "total": 183224
               },
               "leader": true,
               "nyt_id": "moran-n",
@@ -92607,7 +92607,7 @@
             },
             {
               "votes": {
-                "total": 51288
+                "total": 51438
               },
               "leader": false,
               "nyt_id": "jefferson-j",
@@ -92617,7 +92617,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 234293,
+          "total_votes": 234662,
           "state_postal": "TX",
           "precincts_total": 333,
           "nyt_vote_estimate": {
@@ -92666,7 +92666,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.84,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -92676,7 +92676,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 183005
+              "total": 183224
             },
             "leader": true,
             "nyt_id": "moran-n",
@@ -92684,7 +92684,7 @@
           },
           {
             "votes": {
-              "total": 51288
+              "total": 51438
             },
             "leader": false,
             "nyt_id": "jefferson-j",
@@ -92694,7 +92694,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 234293,
+        "total_votes": 234662,
         "state_postal": "TX",
         "precincts_total": 333,
         "nyt_vote_estimate": {
@@ -92813,7 +92813,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:02.982Z",
       "max_winners": 1,
@@ -92825,7 +92825,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.7,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -92834,7 +92834,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 151369
+                "total": 151791
               },
               "leader": true,
               "nyt_id": "crenshaw-d",
@@ -92842,7 +92842,7 @@
             },
             {
               "votes": {
-                "total": 78216
+                "total": 78496
               },
               "leader": false,
               "nyt_id": "fulford-r",
@@ -92852,7 +92852,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 229585,
+          "total_votes": 230287,
           "state_postal": "TX",
           "precincts_total": 153,
           "nyt_vote_estimate": {
@@ -92901,7 +92901,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.7,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -92911,7 +92911,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 151369
+              "total": 151791
             },
             "leader": true,
             "nyt_id": "crenshaw-d",
@@ -92919,7 +92919,7 @@
           },
           {
             "votes": {
-              "total": 78216
+              "total": 78496
             },
             "leader": false,
             "nyt_id": "fulford-r",
@@ -92929,7 +92929,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 229585,
+        "total_votes": 230287,
         "state_postal": "TX",
         "precincts_total": 153,
         "nyt_vote_estimate": {
@@ -93048,7 +93048,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:00:58.489Z",
       "max_winners": 1,
@@ -93060,7 +93060,7 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 99.76,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -93069,7 +93069,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 163945
+                "total": 164240
               },
               "leader": true,
               "nyt_id": "self-k",
@@ -93077,7 +93077,7 @@
             },
             {
               "votes": {
-                "total": 99764
+                "total": 100121
               },
               "leader": false,
               "nyt_id": "srivastava-s",
@@ -93085,7 +93085,7 @@
             },
             {
               "votes": {
-                "total": 6890
+                "total": 6895
               },
               "leader": false,
               "nyt_id": "claytor-c",
@@ -93095,7 +93095,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 270599,
+          "total_votes": 271256,
           "state_postal": "TX",
           "precincts_total": 203,
           "nyt_vote_estimate": {
@@ -93160,7 +93160,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.76,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -93170,7 +93170,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 163945
+              "total": 164240
             },
             "leader": true,
             "nyt_id": "self-k",
@@ -93178,7 +93178,7 @@
           },
           {
             "votes": {
-              "total": 99764
+              "total": 100121
             },
             "leader": false,
             "nyt_id": "srivastava-s",
@@ -93186,7 +93186,7 @@
           },
           {
             "votes": {
-              "total": 6890
+              "total": 6895
             },
             "leader": false,
             "nyt_id": "claytor-c",
@@ -93196,7 +93196,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 270599,
+        "total_votes": 271256,
         "state_postal": "TX",
         "precincts_total": 203,
         "nyt_vote_estimate": {
@@ -93341,7 +93341,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:05.305Z",
       "max_winners": 1,
@@ -93353,7 +93353,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.75,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -93362,7 +93362,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 170467
+                "total": 170781
               },
               "leader": true,
               "nyt_id": "fallon-p",
@@ -93370,7 +93370,7 @@
             },
             {
               "votes": {
-                "total": 78866
+                "total": 79179
               },
               "leader": false,
               "nyt_id": "omere-i",
@@ -93378,7 +93378,7 @@
             },
             {
               "votes": {
-                "total": 6035
+                "total": 6049
               },
               "leader": false,
               "nyt_id": "simmons-j",
@@ -93388,7 +93388,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 255368,
+          "total_votes": 256009,
           "state_postal": "TX",
           "precincts_total": 255,
           "nyt_vote_estimate": {
@@ -93453,7 +93453,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.75,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -93463,7 +93463,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 170467
+              "total": 170781
             },
             "leader": true,
             "nyt_id": "fallon-p",
@@ -93471,7 +93471,7 @@
           },
           {
             "votes": {
-              "total": 78866
+              "total": 79179
             },
             "leader": false,
             "nyt_id": "omere-i",
@@ -93479,7 +93479,7 @@
           },
           {
             "votes": {
-              "total": 6035
+              "total": 6049
             },
             "leader": false,
             "nyt_id": "simmons-j",
@@ -93489,7 +93489,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 255368,
+        "total_votes": 256009,
         "state_postal": "TX",
         "precincts_total": 255,
         "nyt_vote_estimate": {
@@ -93634,7 +93634,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:09.964Z",
       "max_winners": 1,
@@ -93655,7 +93655,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 135990
+                "total": 135595
               },
               "leader": true,
               "nyt_id": "gooden-l",
@@ -93663,7 +93663,7 @@
             },
             {
               "votes": {
-                "total": 71770
+                "total": 71930
               },
               "leader": false,
               "nyt_id": "hill-t",
@@ -93671,7 +93671,7 @@
             },
             {
               "votes": {
-                "total": 4296
+                "total": 4293
               },
               "leader": false,
               "nyt_id": "hale-k",
@@ -93681,7 +93681,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 212056,
+          "total_votes": 211818,
           "state_postal": "TX",
           "precincts_total": 207,
           "nyt_vote_estimate": {
@@ -93756,7 +93756,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 135990
+              "total": 135595
             },
             "leader": true,
             "nyt_id": "gooden-l",
@@ -93764,7 +93764,7 @@
           },
           {
             "votes": {
-              "total": 71770
+              "total": 71930
             },
             "leader": false,
             "nyt_id": "hill-t",
@@ -93772,7 +93772,7 @@
           },
           {
             "votes": {
-              "total": 4296
+              "total": 4293
             },
             "leader": false,
             "nyt_id": "hale-k",
@@ -93782,7 +93782,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 212056,
+        "total_votes": 211818,
         "state_postal": "TX",
         "precincts_total": 207,
         "nyt_vote_estimate": {
@@ -93927,7 +93927,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-11T20:21:06.129Z",
       "max_winners": 1,
@@ -94104,7 +94104,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:00:56.760Z",
       "max_winners": 1,
@@ -94116,7 +94116,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.53,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -94125,7 +94125,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 115390
+                "total": 115994
               },
               "leader": true,
               "nyt_id": "fletcher-l",
@@ -94133,7 +94133,7 @@
             },
             {
               "votes": {
-                "total": 65593
+                "total": 65835
               },
               "leader": false,
               "nyt_id": "teague-j",
@@ -94143,7 +94143,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 180983,
+          "total_votes": 181829,
           "state_postal": "TX",
           "precincts_total": 156,
           "nyt_vote_estimate": {
@@ -94192,7 +94192,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.53,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -94202,7 +94202,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 115390
+              "total": 115994
             },
             "leader": true,
             "nyt_id": "fletcher-l",
@@ -94210,7 +94210,7 @@
           },
           {
             "votes": {
-              "total": 65593
+              "total": 65835
             },
             "leader": false,
             "nyt_id": "teague-j",
@@ -94220,7 +94220,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 180983,
+        "total_votes": 181829,
         "state_postal": "TX",
         "precincts_total": 156,
         "nyt_vote_estimate": {
@@ -94339,7 +94339,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:08.755Z",
       "max_winners": 1,
@@ -94351,7 +94351,7 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 99.75,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -94360,7 +94360,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 152797
+                "total": 153127
               },
               "leader": true,
               "nyt_id": "luttrell-m",
@@ -94368,7 +94368,7 @@
             },
             {
               "votes": {
-                "total": 68485
+                "total": 68715
               },
               "leader": false,
               "nyt_id": "jones-l",
@@ -94376,7 +94376,7 @@
             },
             {
               "votes": {
-                "total": 3117
+                "total": 3126
               },
               "leader": false,
               "nyt_id": "eriksen-r",
@@ -94386,7 +94386,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 224399,
+          "total_votes": 224968,
           "state_postal": "TX",
           "precincts_total": 169,
           "nyt_vote_estimate": {
@@ -94451,7 +94451,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.75,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -94461,7 +94461,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 152797
+              "total": 153127
             },
             "leader": true,
             "nyt_id": "luttrell-m",
@@ -94469,7 +94469,7 @@
           },
           {
             "votes": {
-              "total": 68485
+              "total": 68715
             },
             "leader": false,
             "nyt_id": "jones-l",
@@ -94477,7 +94477,7 @@
           },
           {
             "votes": {
-              "total": 3117
+              "total": 3126
             },
             "leader": false,
             "nyt_id": "eriksen-r",
@@ -94487,7 +94487,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 224399,
+        "total_votes": 224968,
         "state_postal": "TX",
         "precincts_total": 169,
         "nyt_vote_estimate": {
@@ -94632,7 +94632,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:00:56.791Z",
       "max_winners": 1,
@@ -94644,7 +94644,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.58,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -94653,7 +94653,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 124893
+                "total": 125446
               },
               "leader": true,
               "nyt_id": "green-a",
@@ -94661,7 +94661,7 @@
             },
             {
               "votes": {
-                "total": 38019
+                "total": 38161
               },
               "leader": false,
               "nyt_id": "leon-j",
@@ -94671,7 +94671,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 162912,
+          "total_votes": 163607,
           "state_postal": "TX",
           "precincts_total": 201,
           "nyt_vote_estimate": {
@@ -94720,7 +94720,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.58,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -94730,7 +94730,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 124893
+              "total": 125446
             },
             "leader": true,
             "nyt_id": "green-a",
@@ -94738,7 +94738,7 @@
           },
           {
             "votes": {
-              "total": 38019
+              "total": 38161
             },
             "leader": false,
             "nyt_id": "leon-j",
@@ -94748,7 +94748,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 162912,
+        "total_votes": 163607,
         "state_postal": "TX",
         "precincts_total": 201,
         "nyt_vote_estimate": {
@@ -94867,7 +94867,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:31.515Z",
       "max_winners": 1,
@@ -94879,7 +94879,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.61,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -94888,7 +94888,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 158784
+                "total": 159469
               },
               "leader": true,
               "nyt_id": "mccaul-m",
@@ -94896,7 +94896,7 @@
             },
             {
               "votes": {
-                "total": 86123
+                "total": 86404
               },
               "leader": false,
               "nyt_id": "nuno-l",
@@ -94904,7 +94904,7 @@
             },
             {
               "votes": {
-                "total": 6051
+                "total": 6064
               },
               "leader": false,
               "nyt_id": "kelsey-b",
@@ -94914,7 +94914,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 250958,
+          "total_votes": 251937,
           "state_postal": "TX",
           "precincts_total": 315,
           "nyt_vote_estimate": {
@@ -94979,7 +94979,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.61,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -94989,7 +94989,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 158784
+              "total": 159469
             },
             "leader": true,
             "nyt_id": "mccaul-m",
@@ -94997,7 +94997,7 @@
           },
           {
             "votes": {
-              "total": 86123
+              "total": 86404
             },
             "leader": false,
             "nyt_id": "nuno-l",
@@ -95005,7 +95005,7 @@
           },
           {
             "votes": {
-              "total": 6051
+              "total": 6064
             },
             "leader": false,
             "nyt_id": "kelsey-b",
@@ -95015,7 +95015,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 250958,
+        "total_votes": 251937,
         "state_postal": "TX",
         "precincts_total": 315,
         "nyt_vote_estimate": {
@@ -95160,7 +95160,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-09T02:01:05.018Z",
       "max_winners": 1,
@@ -95337,7 +95337,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:07.364Z",
       "max_winners": 1,
@@ -95349,7 +95349,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.85,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -95358,7 +95358,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 152732
+                "total": 152953
               },
               "leader": true,
               "nyt_id": "granger-k",
@@ -95366,7 +95366,7 @@
             },
             {
               "votes": {
-                "total": 84879
+                "total": 85026
               },
               "leader": false,
               "nyt_id": "hunt-t",
@@ -95376,7 +95376,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 237611,
+          "total_votes": 237979,
           "state_postal": "TX",
           "precincts_total": 268,
           "nyt_vote_estimate": {
@@ -95425,7 +95425,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.85,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -95435,7 +95435,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 152732
+              "total": 152953
             },
             "leader": true,
             "nyt_id": "granger-k",
@@ -95443,7 +95443,7 @@
           },
           {
             "votes": {
-              "total": 84879
+              "total": 85026
             },
             "leader": false,
             "nyt_id": "hunt-t",
@@ -95453,7 +95453,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 237611,
+        "total_votes": 237979,
         "state_postal": "TX",
         "precincts_total": 268,
         "nyt_vote_estimate": {
@@ -95572,7 +95572,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:09.741Z",
       "max_winners": 1,
@@ -95584,7 +95584,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.82,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -95593,7 +95593,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 161562
+                "total": 161767
               },
               "leader": true,
               "nyt_id": "jackson-r",
@@ -95601,7 +95601,7 @@
             },
             {
               "votes": {
-                "total": 52739
+                "total": 52910
               },
               "leader": false,
               "nyt_id": "brown-k",
@@ -95611,7 +95611,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 214301,
+          "total_votes": 214677,
           "state_postal": "TX",
           "precincts_total": 393,
           "nyt_vote_estimate": {
@@ -95660,7 +95660,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.82,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -95670,7 +95670,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 161562
+              "total": 161767
             },
             "leader": true,
             "nyt_id": "jackson-r",
@@ -95678,7 +95678,7 @@
           },
           {
             "votes": {
-              "total": 52739
+              "total": 52910
             },
             "leader": false,
             "nyt_id": "brown-k",
@@ -95688,7 +95688,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 214301,
+        "total_votes": 214677,
         "state_postal": "TX",
         "precincts_total": 393,
         "nyt_vote_estimate": {
@@ -95807,7 +95807,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:03.710Z",
       "max_winners": 1,
@@ -95828,7 +95828,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 149317
+                "total": 149543
               },
               "leader": true,
               "nyt_id": "weber-r",
@@ -95836,7 +95836,7 @@
             },
             {
               "votes": {
-                "total": 68386
+                "total": 63606
               },
               "leader": false,
               "nyt_id": "williams-m",
@@ -95846,7 +95846,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 217703,
+          "total_votes": 213149,
           "state_postal": "TX",
           "precincts_total": 246,
           "nyt_vote_estimate": {
@@ -95905,7 +95905,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 149317
+              "total": 149543
             },
             "leader": true,
             "nyt_id": "weber-r",
@@ -95913,7 +95913,7 @@
           },
           {
             "votes": {
-              "total": 68386
+              "total": 63606
             },
             "leader": false,
             "nyt_id": "williams-m",
@@ -95923,7 +95923,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 217703,
+        "total_votes": 213149,
         "state_postal": "TX",
         "precincts_total": 246,
         "nyt_vote_estimate": {
@@ -96042,7 +96042,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:09.610Z",
       "max_winners": 1,
@@ -96062,7 +96062,7 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 99.8,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -96071,7 +96071,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 80869
+                "total": 80978
               },
               "leader": true,
               "nyt_id": "de_la_cruz-m",
@@ -96079,7 +96079,7 @@
             },
             {
               "votes": {
-                "total": 67913
+                "total": 68097
               },
               "leader": false,
               "nyt_id": "vallejo-m",
@@ -96087,7 +96087,7 @@
             },
             {
               "votes": {
-                "total": 2808
+                "total": 2814
               },
               "leader": false,
               "nyt_id": "leone-r",
@@ -96097,7 +96097,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 151590,
+          "total_votes": 151889,
           "state_postal": "TX",
           "precincts_total": 293,
           "nyt_vote_estimate": {
@@ -96162,7 +96162,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.8,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -96172,7 +96172,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 80869
+              "total": 80978
             },
             "leader": true,
             "nyt_id": "de_la_cruz-m",
@@ -96180,7 +96180,7 @@
           },
           {
             "votes": {
-              "total": 67913
+              "total": 68097
             },
             "leader": false,
             "nyt_id": "vallejo-m",
@@ -96188,7 +96188,7 @@
           },
           {
             "votes": {
-              "total": 2808
+              "total": 2814
             },
             "leader": false,
             "nyt_id": "leone-r",
@@ -96198,7 +96198,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 151590,
+        "total_votes": 151889,
         "state_postal": "TX",
         "precincts_total": 293,
         "nyt_vote_estimate": {
@@ -96343,7 +96343,7 @@
         ]
       },
       "coverage": "county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:00:54.290Z",
       "max_winners": 1,
@@ -96355,7 +96355,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 98.98,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -96364,7 +96364,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 94266
+                "total": 95510
               },
               "leader": true,
               "nyt_id": "escobar-v",
@@ -96372,7 +96372,7 @@
             },
             {
               "votes": {
-                "total": 54697
+                "total": 54986
               },
               "leader": false,
               "nyt_id": "armendarizjackson-i",
@@ -96382,7 +96382,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 148963,
+          "total_votes": 150496,
           "state_postal": "TX",
           "precincts_total": 198,
           "nyt_vote_estimate": {
@@ -96431,7 +96431,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 98.98,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -96441,7 +96441,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 94266
+              "total": 95510
             },
             "leader": true,
             "nyt_id": "escobar-v",
@@ -96449,7 +96449,7 @@
           },
           {
             "votes": {
-              "total": 54697
+              "total": 54986
             },
             "leader": false,
             "nyt_id": "armendarizjackson-i",
@@ -96459,7 +96459,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 148963,
+        "total_votes": 150496,
         "state_postal": "TX",
         "precincts_total": 198,
         "nyt_vote_estimate": {
@@ -96578,7 +96578,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:09.801Z",
       "max_winners": 1,
@@ -96590,7 +96590,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.83,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -96599,7 +96599,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 144183
+                "total": 144408
               },
               "leader": true,
               "nyt_id": "sessions-p",
@@ -96607,7 +96607,7 @@
             },
             {
               "votes": {
-                "total": 72647
+                "total": 72801
               },
               "leader": false,
               "nyt_id": "woods-m",
@@ -96617,7 +96617,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 216830,
+          "total_votes": 217209,
           "state_postal": "TX",
           "precincts_total": 331,
           "nyt_vote_estimate": {
@@ -96666,7 +96666,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.83,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -96676,7 +96676,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 144183
+              "total": 144408
             },
             "leader": true,
             "nyt_id": "sessions-p",
@@ -96684,7 +96684,7 @@
           },
           {
             "votes": {
-              "total": 72647
+              "total": 72801
             },
             "leader": false,
             "nyt_id": "woods-m",
@@ -96694,7 +96694,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 216830,
+        "total_votes": 217209,
         "state_postal": "TX",
         "precincts_total": 331,
         "nyt_vote_estimate": {
@@ -96813,7 +96813,7 @@
         ]
       },
       "coverage": "county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:00:56.810Z",
       "max_winners": 1,
@@ -96825,7 +96825,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.53,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -96834,7 +96834,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 109968
+                "total": 110511
               },
               "leader": true,
               "nyt_id": "jackson_lee-s",
@@ -96842,7 +96842,7 @@
             },
             {
               "votes": {
-                "total": 40761
+                "total": 40941
               },
               "leader": false,
               "nyt_id": "montiel-c",
@@ -96850,7 +96850,7 @@
             },
             {
               "votes": {
-                "total": 2753
+                "total": 2766
               },
               "leader": false,
               "nyt_id": "duncan-v",
@@ -96858,7 +96858,7 @@
             },
             {
               "votes": {
-                "total": 2044
+                "total": 2050
               },
               "leader": false,
               "nyt_id": "kurtz-p",
@@ -96868,7 +96868,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 155526,
+          "total_votes": 156268,
           "state_postal": "TX",
           "precincts_total": 242,
           "nyt_vote_estimate": {
@@ -96949,7 +96949,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.53,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -96959,7 +96959,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 109968
+              "total": 110511
             },
             "leader": true,
             "nyt_id": "jackson_lee-s",
@@ -96967,7 +96967,7 @@
           },
           {
             "votes": {
-              "total": 40761
+              "total": 40941
             },
             "leader": false,
             "nyt_id": "montiel-c",
@@ -96975,7 +96975,7 @@
           },
           {
             "votes": {
-              "total": 2753
+              "total": 2766
             },
             "leader": false,
             "nyt_id": "duncan-v",
@@ -96983,7 +96983,7 @@
           },
           {
             "votes": {
-              "total": 2044
+              "total": 2050
             },
             "leader": false,
             "nyt_id": "kurtz-p",
@@ -96993,7 +96993,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 155526,
+        "total_votes": 156268,
         "state_postal": "TX",
         "precincts_total": 242,
         "nyt_vote_estimate": {
@@ -97138,7 +97138,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:10.392Z",
       "max_winners": 1,
@@ -97150,7 +97150,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.75,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -97159,7 +97159,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 152042
+                "total": 152321
               },
               "leader": true,
               "nyt_id": "arrington-j",
@@ -97167,7 +97167,7 @@
             },
             {
               "votes": {
-                "total": 37158
+                "total": 37360
               },
               "leader": false,
               "nyt_id": "lewis-n",
@@ -97177,7 +97177,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 189200,
+          "total_votes": 189681,
           "state_postal": "TX",
           "precincts_total": 404,
           "nyt_vote_estimate": {
@@ -97226,7 +97226,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.75,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -97236,7 +97236,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 152042
+              "total": 152321
             },
             "leader": true,
             "nyt_id": "arrington-j",
@@ -97244,7 +97244,7 @@
           },
           {
             "votes": {
-              "total": 37158
+              "total": 37360
             },
             "leader": false,
             "nyt_id": "lewis-n",
@@ -97254,7 +97254,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 189200,
+        "total_votes": 189681,
         "state_postal": "TX",
         "precincts_total": 404,
         "nyt_vote_estimate": {
@@ -97373,7 +97373,7 @@
         ]
       },
       "coverage": "county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:00:50.606Z",
       "max_winners": 1,
@@ -97385,7 +97385,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.59,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -97394,7 +97394,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 114822
+                "total": 115352
               },
               "leader": true,
               "nyt_id": "castro-j",
@@ -97402,7 +97402,7 @@
             },
             {
               "votes": {
-                "total": 53059
+                "total": 53226
               },
               "leader": false,
               "nyt_id": "sinclair-k",
@@ -97412,7 +97412,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 167881,
+          "total_votes": 168578,
           "state_postal": "TX",
           "precincts_total": 248,
           "nyt_vote_estimate": {
@@ -97461,7 +97461,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.59,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -97471,7 +97471,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 114822
+              "total": 115352
             },
             "leader": true,
             "nyt_id": "castro-j",
@@ -97479,7 +97479,7 @@
           },
           {
             "votes": {
-              "total": 53059
+              "total": 53226
             },
             "leader": false,
             "nyt_id": "sinclair-k",
@@ -97489,7 +97489,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 167881,
+        "total_votes": 168578,
         "state_postal": "TX",
         "precincts_total": 248,
         "nyt_vote_estimate": {
@@ -97608,7 +97608,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:07.845Z",
       "max_winners": 1,
@@ -97620,7 +97620,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.59,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -97629,7 +97629,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 206786
+                "total": 207426
               },
               "leader": true,
               "nyt_id": "roy-c",
@@ -97637,7 +97637,7 @@
             },
             {
               "votes": {
-                "total": 121936
+                "total": 122655
               },
               "leader": false,
               "nyt_id": "zapata-c",
@@ -97647,7 +97647,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 328722,
+          "total_votes": 330081,
           "state_postal": "TX",
           "precincts_total": 304,
           "nyt_vote_estimate": {
@@ -97696,7 +97696,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.59,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -97706,7 +97706,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 206786
+              "total": 207426
             },
             "leader": true,
             "nyt_id": "roy-c",
@@ -97714,7 +97714,7 @@
           },
           {
             "votes": {
-              "total": 121936
+              "total": 122655
             },
             "leader": false,
             "nyt_id": "zapata-c",
@@ -97724,7 +97724,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 328722,
+        "total_votes": 330081,
         "state_postal": "TX",
         "precincts_total": 304,
         "nyt_vote_estimate": {
@@ -97843,7 +97843,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:09.090Z",
       "max_winners": 1,
@@ -97855,7 +97855,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.8,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -97864,7 +97864,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 149757
+                "total": 150014
               },
               "leader": true,
               "nyt_id": "nehls-t",
@@ -97872,7 +97872,7 @@
             },
             {
               "votes": {
-                "total": 85440
+                "total": 85653
               },
               "leader": false,
               "nyt_id": "jordan-j",
@@ -97880,7 +97880,7 @@
             },
             {
               "votes": {
-                "total": 5362
+                "total": 5378
               },
               "leader": false,
               "nyt_id": "leblanc-j",
@@ -97890,7 +97890,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 240559,
+          "total_votes": 241045,
           "state_postal": "TX",
           "precincts_total": 165,
           "nyt_vote_estimate": {
@@ -97955,7 +97955,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.8,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -97965,7 +97965,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 149757
+              "total": 150014
             },
             "leader": true,
             "nyt_id": "nehls-t",
@@ -97973,7 +97973,7 @@
           },
           {
             "votes": {
-              "total": 85440
+              "total": 85653
             },
             "leader": false,
             "nyt_id": "jordan-j",
@@ -97981,7 +97981,7 @@
           },
           {
             "votes": {
-              "total": 5362
+              "total": 5378
             },
             "leader": false,
             "nyt_id": "leblanc-j",
@@ -97991,7 +97991,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 240559,
+        "total_votes": 241045,
         "state_postal": "TX",
         "precincts_total": 165,
         "nyt_vote_estimate": {
@@ -98136,7 +98136,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:10.169Z",
       "max_winners": 1,
@@ -98148,7 +98148,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.5,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -98157,7 +98157,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 116172
+                "total": 116649
               },
               "leader": true,
               "nyt_id": "gonzales-t",
@@ -98165,7 +98165,7 @@
             },
             {
               "votes": {
-                "total": 80430
+                "total": 80947
               },
               "leader": false,
               "nyt_id": "lira-j",
@@ -98173,7 +98173,7 @@
             },
             {
               "votes": {
-                "total": 11123
+                "total": 11180
               },
               "leader": false,
               "nyt_id": "lopez-f",
@@ -98183,7 +98183,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 207725,
+          "total_votes": 208776,
           "state_postal": "TX",
           "precincts_total": 360,
           "nyt_vote_estimate": {
@@ -98248,7 +98248,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.5,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -98258,7 +98258,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 116172
+              "total": 116649
             },
             "leader": true,
             "nyt_id": "gonzales-t",
@@ -98266,7 +98266,7 @@
           },
           {
             "votes": {
-              "total": 80430
+              "total": 80947
             },
             "leader": false,
             "nyt_id": "lira-j",
@@ -98274,7 +98274,7 @@
           },
           {
             "votes": {
-              "total": 11123
+              "total": 11180
             },
             "leader": false,
             "nyt_id": "lopez-f",
@@ -98284,7 +98284,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 207725,
+        "total_votes": 208776,
         "state_postal": "TX",
         "precincts_total": 360,
         "nyt_vote_estimate": {
@@ -98429,7 +98429,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:07.288Z",
       "max_winners": 1,
@@ -98441,7 +98441,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.46,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -98450,7 +98450,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 177121
+                "total": 177947
               },
               "leader": true,
               "nyt_id": "van_duyne-b",
@@ -98458,7 +98458,7 @@
             },
             {
               "votes": {
-                "total": 119097
+                "total": 119878
               },
               "leader": false,
               "nyt_id": "mcdowell-j",
@@ -98468,7 +98468,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 296218,
+          "total_votes": 297825,
           "state_postal": "TX",
           "precincts_total": 273,
           "nyt_vote_estimate": {
@@ -98517,7 +98517,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.46,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -98527,7 +98527,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 177121
+              "total": 177947
             },
             "leader": true,
             "nyt_id": "van_duyne-b",
@@ -98535,7 +98535,7 @@
           },
           {
             "votes": {
-              "total": 119097
+              "total": 119878
             },
             "leader": false,
             "nyt_id": "mcdowell-j",
@@ -98545,7 +98545,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 296218,
+        "total_votes": 297825,
         "state_postal": "TX",
         "precincts_total": 273,
         "nyt_vote_estimate": {
@@ -98664,7 +98664,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-09T02:01:03.885Z",
       "max_winners": 1,
@@ -98841,7 +98841,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:09.758Z",
       "max_winners": 1,
@@ -98853,7 +98853,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.84,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -98862,7 +98862,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 183379
+                "total": 183639
               },
               "leader": true,
               "nyt_id": "burgess-m",
@@ -98870,7 +98870,7 @@
             },
             {
               "votes": {
-                "total": 81208
+                "total": 81384
               },
               "leader": false,
               "nyt_id": "kolls-m",
@@ -98880,7 +98880,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 264587,
+          "total_votes": 265023,
           "state_postal": "TX",
           "precincts_total": 220,
           "nyt_vote_estimate": {
@@ -98929,7 +98929,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.84,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -98939,7 +98939,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 183379
+              "total": 183639
             },
             "leader": true,
             "nyt_id": "burgess-m",
@@ -98947,7 +98947,7 @@
           },
           {
             "votes": {
-              "total": 81208
+              "total": 81384
             },
             "leader": false,
             "nyt_id": "kolls-m",
@@ -98957,7 +98957,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 264587,
+        "total_votes": 265023,
         "state_postal": "TX",
         "precincts_total": 220,
         "nyt_vote_estimate": {
@@ -99076,7 +99076,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:08.550Z",
       "max_winners": 1,
@@ -99088,7 +99088,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.82,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -99097,7 +99097,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 133286
+                "total": 133416
               },
               "leader": true,
               "nyt_id": "cloud-m",
@@ -99105,7 +99105,7 @@
             },
             {
               "votes": {
-                "total": 73370
+                "total": 73611
               },
               "leader": false,
               "nyt_id": "perez-m",
@@ -99115,7 +99115,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 206656,
+          "total_votes": 207027,
           "state_postal": "TX",
           "precincts_total": 330,
           "nyt_vote_estimate": {
@@ -99164,7 +99164,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.82,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -99174,7 +99174,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 133286
+              "total": 133416
             },
             "leader": true,
             "nyt_id": "cloud-m",
@@ -99182,7 +99182,7 @@
           },
           {
             "votes": {
-              "total": 73370
+              "total": 73611
             },
             "leader": false,
             "nyt_id": "perez-m",
@@ -99192,7 +99192,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 206656,
+        "total_votes": 207027,
         "state_postal": "TX",
         "precincts_total": 330,
         "nyt_vote_estimate": {
@@ -99311,7 +99311,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:10.258Z",
       "max_winners": 1,
@@ -99331,7 +99331,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.62,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -99340,7 +99340,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 93393
+                "total": 93803
               },
               "leader": true,
               "nyt_id": "cuellar-h",
@@ -99348,7 +99348,7 @@
             },
             {
               "votes": {
-                "total": 71564
+                "total": 71778
               },
               "leader": false,
               "nyt_id": "garcia-c",
@@ -99358,7 +99358,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 164957,
+          "total_votes": 165581,
           "state_postal": "TX",
           "precincts_total": 285,
           "nyt_vote_estimate": {
@@ -99407,7 +99407,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.62,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -99417,7 +99417,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 93393
+              "total": 93803
             },
             "leader": true,
             "nyt_id": "cuellar-h",
@@ -99425,7 +99425,7 @@
           },
           {
             "votes": {
-              "total": 71564
+              "total": 71778
             },
             "leader": false,
             "nyt_id": "garcia-c",
@@ -99435,7 +99435,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 164957,
+        "total_votes": 165581,
         "state_postal": "TX",
         "precincts_total": 285,
         "nyt_vote_estimate": {
@@ -99554,7 +99554,7 @@
         ]
       },
       "coverage": "county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:00:56.952Z",
       "max_winners": 1,
@@ -99566,7 +99566,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.42,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -99575,7 +99575,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 71379
+                "total": 71837
               },
               "leader": true,
               "nyt_id": "garcia-s",
@@ -99583,7 +99583,7 @@
             },
             {
               "votes": {
-                "total": 28635
+                "total": 28765
               },
               "leader": false,
               "nyt_id": "schafranek-r",
@@ -99593,7 +99593,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 100014,
+          "total_votes": 100602,
           "state_postal": "TX",
           "precincts_total": 199,
           "nyt_vote_estimate": {
@@ -99642,7 +99642,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.42,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -99652,7 +99652,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 71379
+              "total": 71837
             },
             "leader": true,
             "nyt_id": "garcia-s",
@@ -99660,7 +99660,7 @@
           },
           {
             "votes": {
-              "total": 28635
+              "total": 28765
             },
             "leader": false,
             "nyt_id": "schafranek-r",
@@ -99670,7 +99670,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 100014,
+        "total_votes": 100602,
         "state_postal": "TX",
         "precincts_total": 199,
         "nyt_vote_estimate": {
@@ -99789,7 +99789,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:07.262Z",
       "max_winners": 1,
@@ -99801,7 +99801,7 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 99.4,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -99810,7 +99810,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 134011
+                "total": 134876
               },
               "leader": true,
               "nyt_id": "crockett-j",
@@ -99818,7 +99818,7 @@
             },
             {
               "votes": {
-                "total": 39022
+                "total": 39209
               },
               "leader": false,
               "nyt_id": "rodgers-j",
@@ -99826,7 +99826,7 @@
             },
             {
               "votes": {
-                "total": 3807
+                "total": 3820
               },
               "leader": false,
               "nyt_id": "manning-z",
@@ -99834,7 +99834,7 @@
             },
             {
               "votes": {
-                "total": 1862
+                "total": 1870
               },
               "leader": false,
               "nyt_id": "gray-p",
@@ -99844,7 +99844,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 178702,
+          "total_votes": 179775,
           "state_postal": "TX",
           "precincts_total": 290,
           "nyt_vote_estimate": {
@@ -99925,7 +99925,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.4,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -99935,7 +99935,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 134011
+              "total": 134876
             },
             "leader": true,
             "nyt_id": "crockett-j",
@@ -99943,7 +99943,7 @@
           },
           {
             "votes": {
-              "total": 39022
+              "total": 39209
             },
             "leader": false,
             "nyt_id": "rodgers-j",
@@ -99951,7 +99951,7 @@
           },
           {
             "votes": {
-              "total": 3807
+              "total": 3820
             },
             "leader": false,
             "nyt_id": "manning-z",
@@ -99959,7 +99959,7 @@
           },
           {
             "votes": {
-              "total": 1862
+              "total": 1870
             },
             "leader": false,
             "nyt_id": "gray-p",
@@ -99969,7 +99969,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 178702,
+        "total_votes": 179775,
         "state_postal": "TX",
         "precincts_total": 290,
         "nyt_vote_estimate": {
@@ -100114,7 +100114,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-09T07:45:13.302Z",
       "max_winners": 1,
@@ -100291,7 +100291,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:00:53.418Z",
       "max_winners": 1,
@@ -100303,7 +100303,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.48,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -100312,7 +100312,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 115350
+                "total": 116005
               },
               "leader": true,
               "nyt_id": "allred-c",
@@ -100320,7 +100320,7 @@
             },
             {
               "votes": {
-                "total": 61232
+                "total": 61494
               },
               "leader": false,
               "nyt_id": "swad-a",
@@ -100330,7 +100330,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 176582,
+          "total_votes": 177499,
           "state_postal": "TX",
           "precincts_total": 223,
           "nyt_vote_estimate": {
@@ -100379,7 +100379,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.48,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -100389,7 +100389,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 115350
+              "total": 116005
             },
             "leader": true,
             "nyt_id": "allred-c",
@@ -100397,7 +100397,7 @@
           },
           {
             "votes": {
-              "total": 61232
+              "total": 61494
             },
             "leader": false,
             "nyt_id": "swad-a",
@@ -100407,7 +100407,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 176582,
+        "total_votes": 177499,
         "state_postal": "TX",
         "precincts_total": 223,
         "nyt_vote_estimate": {
@@ -100526,7 +100526,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:07.365Z",
       "max_winners": 1,
@@ -100538,7 +100538,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.62,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -100547,7 +100547,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 81764
+                "total": 82081
               },
               "leader": true,
               "nyt_id": "veasey-m",
@@ -100555,7 +100555,7 @@
             },
             {
               "votes": {
-                "total": 29099
+                "total": 29203
               },
               "leader": false,
               "nyt_id": "gillespie-p",
@@ -100563,7 +100563,7 @@
             },
             {
               "votes": {
-                "total": 2736
+                "total": 2746
               },
               "leader": false,
               "nyt_id": "ashby-k",
@@ -100573,7 +100573,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 113599,
+          "total_votes": 114030,
           "state_postal": "TX",
           "precincts_total": 344,
           "nyt_vote_estimate": {
@@ -100638,7 +100638,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.62,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -100648,7 +100648,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 81764
+              "total": 82081
             },
             "leader": true,
             "nyt_id": "veasey-m",
@@ -100656,7 +100656,7 @@
           },
           {
             "votes": {
-              "total": 29099
+              "total": 29203
             },
             "leader": false,
             "nyt_id": "gillespie-p",
@@ -100664,7 +100664,7 @@
           },
           {
             "votes": {
-              "total": 2736
+              "total": 2746
             },
             "leader": false,
             "nyt_id": "ashby-k",
@@ -100674,7 +100674,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 113599,
+        "total_votes": 114030,
         "state_postal": "TX",
         "precincts_total": 344,
         "nyt_vote_estimate": {
@@ -100819,7 +100819,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:09.650Z",
       "max_winners": 1,
@@ -100839,7 +100839,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.85,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -100848,7 +100848,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 70759
+                "total": 70896
               },
               "leader": true,
               "nyt_id": "gonzalez-v",
@@ -100856,7 +100856,7 @@
             },
             {
               "votes": {
-                "total": 59404
+                "total": 59464
               },
               "leader": false,
               "nyt_id": "flores-m",
@@ -100864,7 +100864,7 @@
             },
             {
               "votes": {
-                "total": 4076
+                "total": 4079
               },
               "leader": false,
               "nyt_id": "royal-c",
@@ -100874,7 +100874,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 134239,
+          "total_votes": 134439,
           "state_postal": "TX",
           "precincts_total": 232,
           "nyt_vote_estimate": {
@@ -100939,7 +100939,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.85,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -100949,7 +100949,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 70759
+              "total": 70896
             },
             "leader": true,
             "nyt_id": "gonzalez-v",
@@ -100957,7 +100957,7 @@
           },
           {
             "votes": {
-              "total": 59404
+              "total": 59464
             },
             "leader": false,
             "nyt_id": "flores-m",
@@ -100965,7 +100965,7 @@
           },
           {
             "votes": {
-              "total": 4076
+              "total": 4079
             },
             "leader": false,
             "nyt_id": "royal-c",
@@ -100975,7 +100975,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 134239,
+        "total_votes": 134439,
         "state_postal": "TX",
         "precincts_total": 232,
         "nyt_vote_estimate": {
@@ -101120,7 +101120,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:07.916Z",
       "max_winners": 1,
@@ -101132,7 +101132,7 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 99.63,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -101141,7 +101141,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 129084
+                "total": 129599
               },
               "leader": true,
               "nyt_id": "casar-g",
@@ -101149,7 +101149,7 @@
             },
             {
               "votes": {
-                "total": 48831
+                "total": 48969
               },
               "leader": false,
               "nyt_id": "mcqueen-d",
@@ -101159,7 +101159,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 177915,
+          "total_votes": 178568,
           "state_postal": "TX",
           "precincts_total": 254,
           "nyt_vote_estimate": {
@@ -101208,7 +101208,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.63,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -101218,7 +101218,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 129084
+              "total": 129599
             },
             "leader": true,
             "nyt_id": "casar-g",
@@ -101226,7 +101226,7 @@
           },
           {
             "votes": {
-              "total": 48831
+              "total": 48969
             },
             "leader": false,
             "nyt_id": "mcqueen-d",
@@ -101236,7 +101236,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 177915,
+        "total_votes": 178568,
         "state_postal": "TX",
         "precincts_total": 254,
         "nyt_vote_estimate": {
@@ -101355,7 +101355,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:08.072Z",
       "max_winners": 1,
@@ -101367,7 +101367,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.63,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -101376,7 +101376,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 145142
+                "total": 145599
               },
               "leader": true,
               "nyt_id": "babin-b",
@@ -101384,7 +101384,7 @@
             },
             {
               "votes": {
-                "total": 63697
+                "total": 64016
               },
               "leader": false,
               "nyt_id": "haire-j",
@@ -101394,7 +101394,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 208839,
+          "total_votes": 209615,
           "state_postal": "TX",
           "precincts_total": 283,
           "nyt_vote_estimate": {
@@ -101443,7 +101443,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.63,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -101453,7 +101453,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 145142
+              "total": 145599
             },
             "leader": true,
             "nyt_id": "babin-b",
@@ -101461,7 +101461,7 @@
           },
           {
             "votes": {
-              "total": 63697
+              "total": 64016
             },
             "leader": false,
             "nyt_id": "haire-j",
@@ -101471,7 +101471,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 208839,
+        "total_votes": 209615,
         "state_postal": "TX",
         "precincts_total": 283,
         "nyt_vote_estimate": {
@@ -101590,7 +101590,7 @@
         ]
       },
       "coverage": "multi-county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:01:09.605Z",
       "max_winners": 1,
@@ -101602,7 +101602,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.91,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -101611,7 +101611,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 219149
+                "total": 219358
               },
               "leader": true,
               "nyt_id": "doggett-l",
@@ -101619,7 +101619,7 @@
             },
             {
               "votes": {
-                "total": 59879
+                "total": 59923
               },
               "leader": false,
               "nyt_id": "garcia_sharon-j",
@@ -101627,7 +101627,7 @@
             },
             {
               "votes": {
-                "total": 6329
+                "total": 6332
               },
               "leader": false,
               "nyt_id": "patterson-c",
@@ -101637,7 +101637,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 285357,
+          "total_votes": 285613,
           "state_postal": "TX",
           "precincts_total": 171,
           "nyt_vote_estimate": {
@@ -101702,7 +101702,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.91,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -101712,7 +101712,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 219149
+              "total": 219358
             },
             "leader": true,
             "nyt_id": "doggett-l",
@@ -101720,7 +101720,7 @@
           },
           {
             "votes": {
-              "total": 59879
+              "total": 59923
             },
             "leader": false,
             "nyt_id": "garcia_sharon-j",
@@ -101728,7 +101728,7 @@
           },
           {
             "votes": {
-              "total": 6329
+              "total": 6332
             },
             "leader": false,
             "nyt_id": "patterson-c",
@@ -101738,7 +101738,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 285357,
+        "total_votes": 285613,
         "state_postal": "TX",
         "precincts_total": 171,
         "nyt_vote_estimate": {
@@ -101883,7 +101883,7 @@
         ]
       },
       "coverage": "county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-11-30T17:00:57.193Z",
       "max_winners": 1,
@@ -101895,7 +101895,7 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 99.56,
+          "eevp": 100,
           "name": "Texas",
           "level": "state",
           "nyt_id": "TX-state",
@@ -101904,7 +101904,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 162992
+                "total": 163597
               },
               "leader": true,
               "nyt_id": "hunt-w",
@@ -101912,7 +101912,7 @@
             },
             {
               "votes": {
-                "total": 91768
+                "total": 92302
               },
               "leader": false,
               "nyt_id": "klussmann-d",
@@ -101920,7 +101920,7 @@
             },
             {
               "votes": {
-                "total": 3953
+                "total": 3970
               },
               "leader": false,
               "nyt_id": "dejean-j",
@@ -101930,7 +101930,7 @@
           "fips_state": "48",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 258713,
+          "total_votes": 259869,
           "state_postal": "TX",
           "precincts_total": 15,
           "nyt_vote_estimate": {
@@ -101995,7 +101995,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.56,
+        "eevp": 100,
         "name": "Texas",
         "level": "state",
         "nyt_id": "TX-state",
@@ -102005,7 +102005,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 162992
+              "total": 163597
             },
             "leader": true,
             "nyt_id": "hunt-w",
@@ -102013,7 +102013,7 @@
           },
           {
             "votes": {
-              "total": 91768
+              "total": 92302
             },
             "leader": false,
             "nyt_id": "klussmann-d",
@@ -102021,7 +102021,7 @@
           },
           {
             "votes": {
-              "total": 3953
+              "total": 3970
             },
             "leader": false,
             "nyt_id": "dejean-j",
@@ -102031,7 +102031,7 @@
         "fips_state": "48",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 258713,
+        "total_votes": 259869,
         "state_postal": "TX",
         "precincts_total": 15,
         "nyt_vote_estimate": {
@@ -121573,7 +121573,7 @@
   },
   "resultsMeta": {
     "docsUpdatedAt": "2022-11-09T09:03:24.208Z",
-    "resultsUpdatedAt": "2022-11-30T18:01:10.594Z"
+    "resultsUpdatedAt": "2022-11-30T19:05:17.168Z"
   },
   "raceCollections": {
     "scoreboard_races": [
