@@ -65980,7 +65980,7 @@
       "coverage": "multi-county",
       "certified": true,
       "office_id": "H",
-      "updated_at": "2022-12-01T18:25:24.720Z",
+      "updated_at": "2022-12-01T19:51:26.257Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -66104,7 +66104,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 751,
-        "provider_updated_at": "2022-12-01T18:25:24.72+00:00",
+        "provider_updated_at": "2022-12-01T19:51:26.257+00:00",
         "total_expected_vote": 280613
       },
       "historical_2020_pres": {
@@ -66215,7 +66215,7 @@
       "coverage": "multi-county",
       "certified": true,
       "office_id": "H",
-      "updated_at": "2022-12-01T18:41:24.588Z",
+      "updated_at": "2022-12-01T19:51:28.614Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -66347,7 +66347,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 637,
-        "provider_updated_at": "2022-12-01T18:41:24.588+00:00",
+        "provider_updated_at": "2022-12-01T19:51:28.614+00:00",
         "total_expected_vote": 192622
       },
       "historical_2020_pres": {
@@ -66458,7 +66458,7 @@
       "coverage": "multi-county",
       "certified": true,
       "office_id": "H",
-      "updated_at": "2022-12-01T18:15:22.852Z",
+      "updated_at": "2022-12-01T19:51:25.112Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "3",
@@ -66582,7 +66582,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 732,
-        "provider_updated_at": "2022-12-01T18:15:22.852+00:00",
+        "provider_updated_at": "2022-12-01T19:51:25.112+00:00",
         "total_expected_vote": 230782
       },
       "historical_2020_pres": {
@@ -81859,7 +81859,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-12-01T17:02:33.749Z",
+      "updated_at": "2022-12-01T20:02:46.193Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "2",
@@ -81878,7 +81878,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 208072
+                "total": 208275
               },
               "leader": true,
               "nyt_id": "bentz-c",
@@ -81886,7 +81886,7 @@
             },
             {
               "votes": {
-                "total": 99774
+                "total": 99827
               },
               "leader": false,
               "nyt_id": "yetter-j",
@@ -81896,7 +81896,7 @@
           "fips_state": "41",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 307846,
+          "total_votes": 308102,
           "state_postal": "OR",
           "precincts_total": 370,
           "nyt_vote_estimate": {
@@ -81955,7 +81955,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 208072
+              "total": 208275
             },
             "leader": true,
             "nyt_id": "bentz-c",
@@ -81963,7 +81963,7 @@
           },
           {
             "votes": {
-              "total": 99774
+              "total": 99827
             },
             "leader": false,
             "nyt_id": "yetter-j",
@@ -81973,7 +81973,7 @@
         "fips_state": "41",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 307846,
+        "total_votes": 308102,
         "state_postal": "OR",
         "precincts_total": 370,
         "nyt_vote_estimate": {
@@ -81983,7 +81983,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 366,
-        "provider_updated_at": "2022-12-01T17:02:33.749+00:00",
+        "provider_updated_at": "2022-12-01T20:02:46.193+00:00",
         "total_expected_vote": 309197
       },
       "historical_2020_pres": {
@@ -82387,7 +82387,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-12-01T00:39:50.467Z",
+      "updated_at": "2022-12-01T20:02:46.335Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "4",
@@ -82406,7 +82406,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 170993
+                "total": 171204
               },
               "leader": true,
               "nyt_id": "hoyle-v",
@@ -82414,7 +82414,7 @@
             },
             {
               "votes": {
-                "total": 145254
+                "total": 145826
               },
               "leader": false,
               "nyt_id": "skarlatos-a",
@@ -82422,7 +82422,7 @@
             },
             {
               "votes": {
-                "total": 8999
+                "total": 9033
               },
               "leader": false,
               "nyt_id": "leatherberry-l",
@@ -82430,7 +82430,7 @@
             },
             {
               "votes": {
-                "total": 6016
+                "total": 6056
               },
               "leader": false,
               "nyt_id": "howard-j",
@@ -82438,7 +82438,7 @@
             },
             {
               "votes": {
-                "total": 6004
+                "total": 6018
               },
               "leader": false,
               "nyt_id": "beilstein-m",
@@ -82448,7 +82448,7 @@
           "fips_state": "41",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 337266,
+          "total_votes": 338137,
           "state_postal": "OR",
           "precincts_total": 187,
           "nyt_vote_estimate": {
@@ -82555,7 +82555,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 170993
+              "total": 171204
             },
             "leader": true,
             "nyt_id": "hoyle-v",
@@ -82563,7 +82563,7 @@
           },
           {
             "votes": {
-              "total": 145254
+              "total": 145826
             },
             "leader": false,
             "nyt_id": "skarlatos-a",
@@ -82571,7 +82571,7 @@
           },
           {
             "votes": {
-              "total": 8999
+              "total": 9033
             },
             "leader": false,
             "nyt_id": "leatherberry-l",
@@ -82579,7 +82579,7 @@
           },
           {
             "votes": {
-              "total": 6016
+              "total": 6056
             },
             "leader": false,
             "nyt_id": "howard-j",
@@ -82587,7 +82587,7 @@
           },
           {
             "votes": {
-              "total": 6004
+              "total": 6018
             },
             "leader": false,
             "nyt_id": "beilstein-m",
@@ -82597,7 +82597,7 @@
         "fips_state": "41",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 337266,
+        "total_votes": 338137,
         "state_postal": "OR",
         "precincts_total": 187,
         "nyt_vote_estimate": {
@@ -82607,7 +82607,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 185,
-        "provider_updated_at": "2022-12-01T00:39:50.467+00:00",
+        "provider_updated_at": "2022-12-01T20:02:46.335+00:00",
         "total_expected_vote": 338473
       },
       "historical_2020_pres": {
@@ -121573,7 +121573,7 @@
   },
   "resultsMeta": {
     "docsUpdatedAt": "2022-11-09T09:03:24.208Z",
-    "resultsUpdatedAt": "2022-12-01T19:04:21.966Z"
+    "resultsUpdatedAt": "2022-12-01T20:02:46.335Z"
   },
   "raceCollections": {
     "scoreboard_races": [
