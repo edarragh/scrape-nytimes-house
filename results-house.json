@@ -1991,7 +1991,7 @@
         ]
       },
       "coverage": "county",
-      "certified": false,
+      "certified": true,
       "office_id": "H",
       "updated_at": "2022-12-01T00:52:48.245Z",
       "max_winners": 1,
@@ -2013,7 +2013,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99.82,
+          "eevp": 100,
           "name": "Alaska",
           "level": "state",
           "nyt_id": "AK-state",
@@ -2022,8 +2022,8 @@
           "candidates": [
             {
               "votes": {
-                "total": 136893,
-                "votes_round1": 128329
+                "total": 137263,
+                "votes_round1": 128553
               },
               "leader": true,
               "nyt_id": "peltola-m",
@@ -2031,8 +2031,8 @@
             },
             {
               "votes": {
-                "total": 112255,
-                "votes_round1": 67732
+                "total": 112471,
+                "votes_round1": 67866
               },
               "leader": false,
               "nyt_id": "palin-s",
@@ -2041,7 +2041,7 @@
             {
               "votes": {
                 "total": 0,
-                "votes_round1": 61431
+                "votes_round1": 61513
               },
               "leader": false,
               "nyt_id": "begich-n",
@@ -2050,7 +2050,7 @@
             {
               "votes": {
                 "total": 0,
-                "votes_round1": 4560
+                "votes_round1": 4570
               },
               "leader": false,
               "nyt_id": "bye-c",
@@ -2059,7 +2059,7 @@
             {
               "votes": {
                 "total": 0,
-                "votes_round1": 1096
+                "votes_round1": 1108
               },
               "leader": false,
               "nyt_id": "total_writeins",
@@ -2069,7 +2069,7 @@
           "fips_state": "02",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 249148,
+          "total_votes": 249734,
           "state_postal": "AK",
           "precincts_total": 402,
           "nyt_vote_estimate": {
@@ -2078,7 +2078,7 @@
             "quantiles": null,
             "total_expected_vote": null
           },
-          "total_votes_round1": 263148,
+          "total_votes_round1": 263610,
           "precincts_reporting": 402,
           "total_expected_vote": 263610
         }
@@ -2167,7 +2167,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99.82,
+        "eevp": 100,
         "name": "Alaska",
         "level": "state",
         "nyt_id": "AK-state",
@@ -2177,8 +2177,8 @@
         "candidates": [
           {
             "votes": {
-              "total": 136893,
-              "votes_round1": 128329
+              "total": 137263,
+              "votes_round1": 128553
             },
             "leader": true,
             "nyt_id": "peltola-m",
@@ -2186,8 +2186,8 @@
           },
           {
             "votes": {
-              "total": 112255,
-              "votes_round1": 67732
+              "total": 112471,
+              "votes_round1": 67866
             },
             "leader": false,
             "nyt_id": "palin-s",
@@ -2196,7 +2196,7 @@
           {
             "votes": {
               "total": 0,
-              "votes_round1": 61431
+              "votes_round1": 61513
             },
             "leader": false,
             "nyt_id": "begich-n",
@@ -2205,7 +2205,7 @@
           {
             "votes": {
               "total": 0,
-              "votes_round1": 4560
+              "votes_round1": 4570
             },
             "leader": false,
             "nyt_id": "bye-c",
@@ -2214,7 +2214,7 @@
           {
             "votes": {
               "total": 0,
-              "votes_round1": 1096
+              "votes_round1": 1108
             },
             "leader": false,
             "nyt_id": "total_writeins",
@@ -2224,7 +2224,7 @@
         "fips_state": "02",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 249148,
+        "total_votes": 249734,
         "state_postal": "AK",
         "precincts_total": 402,
         "nyt_vote_estimate": {
@@ -2233,7 +2233,7 @@
           "quantiles": null,
           "total_expected_vote": null
         },
-        "total_votes_round1": 263148,
+        "total_votes_round1": 263610,
         "precincts_reporting": 402,
         "provider_updated_at": "2022-12-01T00:52:48.245+00:00",
         "total_expected_vote": 263610
@@ -65980,7 +65980,7 @@
       "coverage": "multi-county",
       "certified": true,
       "office_id": "H",
-      "updated_at": "2022-12-01T01:02:24.856Z",
+      "updated_at": "2022-12-01T05:01:22.863Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -66104,7 +66104,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 751,
-        "provider_updated_at": "2022-12-01T01:02:24.856+00:00",
+        "provider_updated_at": "2022-12-01T05:01:22.863+00:00",
         "total_expected_vote": 280613
       },
       "historical_2020_pres": {
@@ -66458,7 +66458,7 @@
       "coverage": "multi-county",
       "certified": true,
       "office_id": "H",
-      "updated_at": "2022-12-01T03:43:23.245Z",
+      "updated_at": "2022-12-01T05:01:22.947Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "3",
@@ -66582,7 +66582,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 732,
-        "provider_updated_at": "2022-12-01T03:43:23.245+00:00",
+        "provider_updated_at": "2022-12-01T05:01:22.947+00:00",
         "total_expected_vote": 230782
       },
       "historical_2020_pres": {
@@ -121573,7 +121573,7 @@
   },
   "resultsMeta": {
     "docsUpdatedAt": "2022-11-09T09:03:24.208Z",
-    "resultsUpdatedAt": "2022-12-01T03:49:23.230Z"
+    "resultsUpdatedAt": "2022-12-01T05:01:22.947Z"
   },
   "raceCollections": {
     "scoreboard_races": [
