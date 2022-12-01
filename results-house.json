@@ -64048,7 +64048,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-22T18:44:51.931Z",
+      "updated_at": "2022-12-01T20:56:11.615Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -64075,7 +64075,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 158675
+                "total": 159392
               },
               "leader": true,
               "nyt_id": "kean_jr-t",
@@ -64083,7 +64083,7 @@
             },
             {
               "votes": {
-                "total": 149268
+                "total": 150701
               },
               "leader": false,
               "nyt_id": "malinowski-t",
@@ -64093,7 +64093,7 @@
           "fips_state": "34",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 307943,
+          "total_votes": 310093,
           "state_postal": "NJ",
           "precincts_total": 659,
           "nyt_vote_estimate": {
@@ -64103,7 +64103,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 659,
-          "total_expected_vote": 310526
+          "total_expected_vote": 310404
         }
       ],
       "candidate_metadata": {
@@ -64152,7 +64152,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 158675
+              "total": 159392
             },
             "leader": true,
             "nyt_id": "kean_jr-t",
@@ -64160,7 +64160,7 @@
           },
           {
             "votes": {
-              "total": 149268
+              "total": 150701
             },
             "leader": false,
             "nyt_id": "malinowski-t",
@@ -64170,7 +64170,7 @@
         "fips_state": "34",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 307943,
+        "total_votes": 310093,
         "state_postal": "NJ",
         "precincts_total": 659,
         "nyt_vote_estimate": {
@@ -64180,8 +64180,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 659,
-        "provider_updated_at": "2022-11-22T18:44:51.931+00:00",
-        "total_expected_vote": 310526
+        "provider_updated_at": "2022-12-01T20:56:11.615+00:00",
+        "total_expected_vote": 310404
       },
       "historical_2020_pres": {
         "votes": 469006,
@@ -66215,7 +66215,7 @@
       "coverage": "multi-county",
       "certified": true,
       "office_id": "H",
-      "updated_at": "2022-12-01T19:51:28.614Z",
+      "updated_at": "2022-12-01T21:01:23.618Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -66347,7 +66347,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 637,
-        "provider_updated_at": "2022-12-01T19:51:28.614+00:00",
+        "provider_updated_at": "2022-12-01T21:01:23.618+00:00",
         "total_expected_vote": 192622
       },
       "historical_2020_pres": {
@@ -66458,7 +66458,7 @@
       "coverage": "multi-county",
       "certified": true,
       "office_id": "H",
-      "updated_at": "2022-12-01T19:51:25.112Z",
+      "updated_at": "2022-12-01T21:01:24.332Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "3",
@@ -66582,7 +66582,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 732,
-        "provider_updated_at": "2022-12-01T19:51:25.112+00:00",
+        "provider_updated_at": "2022-12-01T21:01:24.332+00:00",
         "total_expected_vote": 230782
       },
       "historical_2020_pres": {
@@ -113088,7 +113088,7 @@
         "coverage": "multi-county",
         "certified": false,
         "office_id": "H",
-        "updated_at": "2022-11-22T18:44:51.931Z",
+        "updated_at": "2022-12-01T20:56:11.615Z",
         "description": null,
         "max_winners": 1,
         "race_titles": {
@@ -113117,7 +113117,7 @@
             "candidates": [
               {
                 "votes": {
-                  "total": 158675
+                  "total": 159392
                 },
                 "leader": true,
                 "nyt_id": "kean_jr-t",
@@ -113125,7 +113125,7 @@
               },
               {
                 "votes": {
-                  "total": 149268
+                  "total": 150701
                 },
                 "leader": false,
                 "nyt_id": "malinowski-t",
@@ -113135,10 +113135,10 @@
             "fips_state": "34",
             "fips_county": null,
             "fips_suffix": null,
-            "total_votes": 307943,
+            "total_votes": 310093,
             "state_postal": "NJ",
-            "source_run_id": 1953513,
-            "vote_report_id": 1045504019,
+            "source_run_id": 2057006,
+            "vote_report_id": 1047908095,
             "precincts_total": 659,
             "election_track_id": 24,
             "nyt_vote_estimate": {
@@ -113148,8 +113148,8 @@
               "total_expected_vote": null
             },
             "precincts_reporting": 659,
-            "provider_updated_at": "2022-11-22T18:44:51.931+00:00",
-            "total_expected_vote": 310526,
+            "provider_updated_at": "2022-12-01T20:56:11.615+00:00",
+            "total_expected_vote": 310404,
             "precincts_reporting_actual": 659,
             "precincts_reporting_proportional": 626
           }
@@ -113202,7 +113202,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 158675
+                "total": 159392
               },
               "leader": true,
               "nyt_id": "kean_jr-t",
@@ -113210,7 +113210,7 @@
             },
             {
               "votes": {
-                "total": 149268
+                "total": 150701
               },
               "leader": false,
               "nyt_id": "malinowski-t",
@@ -113220,10 +113220,10 @@
           "fips_state": "34",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 307943,
+          "total_votes": 310093,
           "state_postal": "NJ",
-          "source_run_id": 1953513,
-          "vote_report_id": 1045504019,
+          "source_run_id": 2057006,
+          "vote_report_id": 1047908095,
           "precincts_total": 659,
           "election_track_id": 24,
           "nyt_vote_estimate": {
@@ -113233,8 +113233,8 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 659,
-          "provider_updated_at": "2022-11-22T18:44:51.931+00:00",
-          "total_expected_vote": 310526,
+          "provider_updated_at": "2022-12-01T20:56:11.615+00:00",
+          "total_expected_vote": 310404,
           "precincts_reporting_actual": 659,
           "precincts_reporting_proportional": 626
         }
@@ -121573,7 +121573,7 @@
   },
   "resultsMeta": {
     "docsUpdatedAt": "2022-11-09T09:03:24.208Z",
-    "resultsUpdatedAt": "2022-12-01T20:02:46.335Z"
+    "resultsUpdatedAt": "2022-12-01T21:01:24.332Z"
   },
   "raceCollections": {
     "scoreboard_races": [
