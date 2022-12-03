@@ -81624,7 +81624,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-12-02T19:43:20.296Z",
+      "updated_at": "2022-12-02T23:18:07.124Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -81634,7 +81634,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 98.45,
+          "eevp": 98.63,
           "name": "Oregon",
           "level": "state",
           "nyt_id": "OR-state",
@@ -81643,7 +81643,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 210299
+                "total": 210681
               },
               "leader": true,
               "nyt_id": "bonamici-s",
@@ -81651,7 +81651,7 @@
             },
             {
               "votes": {
-                "total": 98835
+                "total": 99042
               },
               "leader": false,
               "nyt_id": "mann-c",
@@ -81661,7 +81661,7 @@
           "fips_state": "41",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 309134,
+          "total_votes": 309723,
           "state_postal": "OR",
           "precincts_total": 219,
           "nyt_vote_estimate": {
@@ -81710,7 +81710,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 98.45,
+        "eevp": 98.63,
         "name": "Oregon",
         "level": "state",
         "nyt_id": "OR-state",
@@ -81720,7 +81720,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 210299
+              "total": 210681
             },
             "leader": true,
             "nyt_id": "bonamici-s",
@@ -81728,7 +81728,7 @@
           },
           {
             "votes": {
-              "total": 98835
+              "total": 99042
             },
             "leader": false,
             "nyt_id": "mann-c",
@@ -81738,7 +81738,7 @@
         "fips_state": "41",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 309134,
+        "total_votes": 309723,
         "state_postal": "OR",
         "precincts_total": 219,
         "nyt_vote_estimate": {
@@ -81748,7 +81748,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 216,
-        "provider_updated_at": "2022-12-02T19:43:20.296+00:00",
+        "provider_updated_at": "2022-12-02T23:18:07.124+00:00",
         "total_expected_vote": 314012
       },
       "historical_2020_pres": {
@@ -82987,7 +82987,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-12-01T22:39:26.839Z",
+      "updated_at": "2022-12-02T23:18:06.987Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "6",
@@ -82997,7 +82997,7 @@
       "has_incumbent": false,
       "reporting_units": [
         {
-          "eevp": 98.83,
+          "eevp": 98.91,
           "name": "Oregon",
           "level": "state",
           "nyt_id": "OR-state",
@@ -83006,7 +83006,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 146835
+                "total": 146986
               },
               "leader": true,
               "nyt_id": "salinas-a",
@@ -83014,7 +83014,7 @@
             },
             {
               "votes": {
-                "total": 139697
+                "total": 139776
               },
               "leader": false,
               "nyt_id": "erickson-m",
@@ -83022,7 +83022,7 @@
             },
             {
               "votes": {
-                "total": 6750
+                "total": 6752
               },
               "leader": false,
               "nyt_id": "mcfarland-l",
@@ -83032,7 +83032,7 @@
           "fips_state": "41",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 293282,
+          "total_votes": 293514,
           "state_postal": "OR",
           "precincts_total": 177,
           "nyt_vote_estimate": {
@@ -83097,7 +83097,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 98.83,
+        "eevp": 98.91,
         "name": "Oregon",
         "level": "state",
         "nyt_id": "OR-state",
@@ -83107,7 +83107,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 146835
+              "total": 146986
             },
             "leader": true,
             "nyt_id": "salinas-a",
@@ -83115,7 +83115,7 @@
           },
           {
             "votes": {
-              "total": 139697
+              "total": 139776
             },
             "leader": false,
             "nyt_id": "erickson-m",
@@ -83123,7 +83123,7 @@
           },
           {
             "votes": {
-              "total": 6750
+              "total": 6752
             },
             "leader": false,
             "nyt_id": "mcfarland-l",
@@ -83133,7 +83133,7 @@
         "fips_state": "41",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 293282,
+        "total_votes": 293514,
         "state_postal": "OR",
         "precincts_total": 177,
         "nyt_vote_estimate": {
@@ -83143,7 +83143,7 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 175,
-        "provider_updated_at": "2022-12-01T22:39:26.839+00:00",
+        "provider_updated_at": "2022-12-02T23:18:06.987+00:00",
         "total_expected_vote": 296748
       },
       "historical_2020_pres": {
@@ -121577,7 +121577,7 @@
   },
   "resultsMeta": {
     "docsUpdatedAt": "2022-11-09T09:03:24.208Z",
-    "resultsUpdatedAt": "2022-12-02T22:50:57.001Z"
+    "resultsUpdatedAt": "2022-12-02T23:18:07.124Z"
   },
   "raceCollections": {
     "scoreboard_races": [
