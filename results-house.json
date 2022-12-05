@@ -5830,7 +5830,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-12-05T14:21:17.299Z",
+      "updated_at": "2022-12-05T16:00:38.566Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "2",
@@ -5877,7 +5877,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 869,
-          "total_expected_vote": 309045
+          "total_expected_vote": 310227
         }
       ],
       "candidate_metadata": {
@@ -5954,8 +5954,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 869,
-        "provider_updated_at": "2022-12-05T14:21:17.299+00:00",
-        "total_expected_vote": 309045
+        "provider_updated_at": "2022-12-05T16:00:38.566+00:00",
+        "total_expected_vote": 310227
       },
       "historical_2020_pres": {
         "votes": 421846,
@@ -6308,7 +6308,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-12-05T14:21:17.473Z",
+      "updated_at": "2022-12-05T16:00:38.755Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "4",
@@ -6318,7 +6318,7 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 95.19,
+          "eevp": 94.73,
           "name": "California",
           "level": "state",
           "nyt_id": "CA-state",
@@ -6354,8 +6354,8 @@
             "quantiles": null,
             "total_expected_vote": null
           },
-          "precincts_reporting": 678,
-          "total_expected_vote": 261196
+          "precincts_reporting": 674,
+          "total_expected_vote": 262470
         }
       ],
       "candidate_metadata": {
@@ -6394,7 +6394,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 95.19,
+        "eevp": 94.73,
         "name": "California",
         "level": "state",
         "nyt_id": "CA-state",
@@ -6431,9 +6431,9 @@
           "quantiles": null,
           "total_expected_vote": null
         },
-        "precincts_reporting": 678,
-        "provider_updated_at": "2022-12-05T14:21:17.473+00:00",
-        "total_expected_vote": 261196
+        "precincts_reporting": 674,
+        "provider_updated_at": "2022-12-05T16:00:38.755+00:00",
+        "total_expected_vote": 262470
       },
       "historical_2020_pres": {
         "votes": 373795,
@@ -59567,7 +59567,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T15:49:44.241Z",
+      "updated_at": "2022-12-05T15:29:10.541Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "1",
@@ -59577,11 +59577,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 98.41,
           "name": "Nebraska",
           "level": "state",
           "nyt_id": "NE-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Neb.",
           "candidates": [
             {
@@ -59614,7 +59614,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 410,
-          "total_expected_vote": 221775
+          "total_expected_vote": 223165
         }
       ],
       "candidate_metadata": {
@@ -59653,11 +59653,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 98.41,
         "name": "Nebraska",
         "level": "state",
         "nyt_id": "NE-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Neb.",
         "candidates": [
@@ -59691,8 +59691,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 410,
-        "provider_updated_at": "2022-11-16T15:49:44.241+00:00",
-        "total_expected_vote": 221775
+        "provider_updated_at": "2022-12-05T15:29:10.541+00:00",
+        "total_expected_vote": 223165
       },
       "historical_2020_pres": {
         "votes": 314734,
@@ -59802,7 +59802,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T15:49:50.664Z",
+      "updated_at": "2022-12-05T15:29:10.153Z",
       "max_winners": 1,
       "race_titles": {
         "location": null,
@@ -59820,11 +59820,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 98.54,
           "name": "Nebraska",
           "level": "state",
           "nyt_id": "NE-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Neb.",
           "candidates": [
             {
@@ -59857,7 +59857,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 271,
-          "total_expected_vote": 218441
+          "total_expected_vote": 219470
         }
       ],
       "candidate_metadata": {
@@ -59896,11 +59896,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 98.54,
         "name": "Nebraska",
         "level": "state",
         "nyt_id": "NE-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Neb.",
         "candidates": [
@@ -59934,8 +59934,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 271,
-        "provider_updated_at": "2022-11-16T15:49:50.664+00:00",
-        "total_expected_vote": 218441
+        "provider_updated_at": "2022-12-05T15:29:10.153+00:00",
+        "total_expected_vote": 219470
       },
       "historical_2020_pres": {
         "votes": 314009,
@@ -60045,7 +60045,7 @@
       "coverage": "multi-county",
       "certified": false,
       "office_id": "H",
-      "updated_at": "2022-11-16T15:49:54.112Z",
+      "updated_at": "2022-12-05T15:29:20.465Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "3",
@@ -60055,11 +60055,11 @@
       "has_incumbent": true,
       "reporting_units": [
         {
-          "eevp": 99,
+          "eevp": 99.56,
           "name": "Nebraska",
           "level": "state",
           "nyt_id": "NE-state",
-          "eevp_max": 99,
+          "eevp_max": 100,
           "state_abb": "Neb.",
           "candidates": [
             {
@@ -60100,7 +60100,7 @@
             "total_expected_vote": null
           },
           "precincts_reporting": 632,
-          "total_expected_vote": 221550
+          "total_expected_vote": 220552
         }
       ],
       "candidate_metadata": {
@@ -60155,11 +60155,11 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 99,
+        "eevp": 99.56,
         "name": "Nebraska",
         "level": "state",
         "nyt_id": "NE-state",
-        "eevp_max": 99,
+        "eevp_max": 100,
         "provider": "ap",
         "state_abb": "Neb.",
         "candidates": [
@@ -60201,8 +60201,8 @@
           "total_expected_vote": null
         },
         "precincts_reporting": 632,
-        "provider_updated_at": "2022-11-16T15:49:54.112+00:00",
-        "total_expected_vote": 221550
+        "provider_updated_at": "2022-12-05T15:29:20.465+00:00",
+        "total_expected_vote": 220552
       },
       "historical_2020_pres": {
         "votes": 322970,
@@ -121594,7 +121594,7 @@
   },
   "resultsMeta": {
     "docsUpdatedAt": "2022-11-09T09:03:24.208Z",
-    "resultsUpdatedAt": "2022-12-05T15:10:04.587Z"
+    "resultsUpdatedAt": "2022-12-05T16:00:38.755Z"
   },
   "raceCollections": {
     "scoreboard_races": [
