@@ -6,20 +6,20 @@ on:
   schedule:
     - cron:  '0 * * * *'
 
-jobs:
-  scheduled:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Check out this repo
-      uses: actions/checkout@v3
-    - name: Fetch latest data
-      run: |-
-        curl "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-house.json" | jq > results-house.json
-    - name: Commit and push if it changed
-      run: |-
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "Latest data: ${timestamp}" || exit 0
-        git push
+#jobs:
+#  scheduled:
+#    runs-on: ubuntu-latest
+#    steps:
+#    - name: Check out this repo
+#      uses: actions/checkout@v3
+#    - name: Fetch latest data
+#      run: |-
+#        curl "https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-house.json" | jq > results-house.json
+#    - name: Commit and push if it changed
+#      run: |-
+#        git config user.name "Automated"
+#        git config user.email "actions@users.noreply.github.com"
+#        git add -A
+#        timestamp=$(date -u)
+#        git commit -m "Latest data: ${timestamp}" || exit 0
+#        git push
